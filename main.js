@@ -4246,9 +4246,9 @@ var app = (function () {
           (n.innerHTML =
             '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, and <a href="https://heardle-kpop.glitch.me/" title="K-Pop Heardle">K-Pop Heardle</a> which can be played infinitely with the tracklist of the ' +
             artist +
-            '\ Music app. Based on <a href="https://nterrien.github.io/etrian-infinite-heardle/" title="Etrian Odyssey Heardle">Etrian Odyssey Heardle</a>.</p> \n\n<p class="mb-3">Each music is randomly chosen from the ' +
+            '\ Music app. Based on <a href="https://nterrien.github.io/etrian-infinite-heardle/" title="Etrian Odyssey Heardle">Etrian Odyssey Heardle</a>.</p> \n\n<p class="mb-3">Each track is randomly chosen from ' +
             artist +
-            '\ Music tracklist.</p> \n\n\n\n <p class="mb-3">Want to make your own Heardle? Check out the <a href="https://github.com/nterrien/etrian-infinite-heardle">README</a>' +
+            '\ Music. (Currently being updated!)</p> \n\n\n\n <p class="mb-3">Want to make your own Heardle? Check out the <a href="https://github.com/nterrien/etrian-infinite-heardle">README</a>' +
             '</p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://github.com/">Github</a>. <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. '),
           M(n, "class", "text");
       },
