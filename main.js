@@ -4244,7 +4244,7 @@ var app = (function () {
       c() {
         (n = w("div")),
           (n.innerHTML =
-            '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, and <a href="https://heardle-kpop.glitch.me/" title="K-Pop Heardle">K-Pop Heardle</a> which can be played infinitely with the tracklist of the' +
+            '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, and <a href="https://heardle-kpop.glitch.me/" title="K-Pop Heardle">K-Pop Heardle</a> which can be played infinitely with the tracklist of the ' +
             artist +
             '\ Music app. Based on <a href="https://nterrien.github.io/etrian-infinite-heardle/" title="Etrian Odyssey Heardle">Etrian Odyssey Heardle</a>.</p> \n\n<p class="mb-3">Each music is randomly chosen from the ' +
             artist +
@@ -4464,7 +4464,7 @@ var app = (function () {
       p(ccTags, unselectAllTags);
       explainationTags = w("div");
       explainationTags.innerHTML =
-        "You can select tags below to filter musics.";
+        "You can select tags below to filter musics. 'Top Tracks' are a designated selection of each game's more prominent tracks so will be easier; 'Selects' are those tracks in any Selects and/or Picks playlist, this is a much smaller selection of between 1 and 7 tracks per game. If using these filters make sure to untick 'All'!";
     }
     return {
       c() {
@@ -4721,7 +4721,7 @@ var app = (function () {
           (n = w("p")),
             (s = w("p")),
             (n.innerHTML =
-              'Have questions/run into bugs? DM @goldchimera.bsky.social on Bluesky or create an issue in <a href="https://github.com/g0ldchimera/nintendo-infinite-heardle/issues" target="_blank">Github</a>!<br><br>You can also play <a href="https://g0ldchimera.github.io/nintendo-heardle/" title="Nintendo Heardle">Nintendo Heardle</a> daily.'),
+              'Have questions/run into bugs? DM @goldchimera.bsky.social on Bluesky or create an issue on <a href="https://github.com/g0ldchimera/nintendo-infinite-heardle/issues" target="_blank">Github</a>!<br><br>You can also play <a href="https://g0ldchimera.github.io/nintendo-heardle/" title="Nintendo Heardle">Nintendo Heardle</a> daily.'),
             (r = x()),
             (s = w("p")),
             (i = x()),
