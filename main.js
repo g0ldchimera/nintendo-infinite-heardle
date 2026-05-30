@@ -1,5 +1,5 @@
 var app = (function () {
-  var artist = "Etrian Odyssey";
+  var artist = "Nintendo";
   var currentIndex = 0;
 
   // To store userStats and tags in a different attribute in local storage if several heardles are hosted in the same domain
