@@ -1818,7 +1818,7 @@ var musicNameList = [
     },
     {
         id: 358,
-        name: "Mood Music: Rain-Soaked Streets - Tomodachi Collection",
+        name: "Mood Music: Rain Soaked Streets - Tomodachi Collection",
         tags: ["All"]
     },
     {
@@ -1833,7 +1833,7 @@ var musicNameList = [
     },
     {
         id: 361,
-        name: "Pop: Flitter-Flutter Days - Tomodachi Collection",
+        name: "Pop: Flitter Flutter Days - Tomodachi Collection",
         tags: ["All"]
     },
     {
