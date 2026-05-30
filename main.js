@@ -995,7 +995,7 @@ var app = (function () {
             Q(a.$$.fragment),
             (l = x()),
             (u = w("h1")),
-            (u.textContent = artist + " Infinite Heardle"),
+            (u.textContent = artist + " Infinite Heardle Beta"),
             (c = x()),
             (d = w("div")),
             Q(h.$$.fragment),
