@@ -4244,11 +4244,7 @@ var app = (function () {
       c() {
         (n = w("div")),
           (n.innerHTML =
-            '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, and <a href="https://heardle-kpop.glitch.me/" title="K-Pop Heardle">K-Pop Heardle</a> which can be played infinitely and with ' +
-            artist +
-            '\'s musics. Based on <a href="https://joywave-heardle.glitch.me/" title="Joywave Heardle">Joywave Heardle</a>.</p> \n\n<p class="mb-3">Each music is randomly chosen from ' +
-            artist +
-            '\'s soundtrack.</p> \n\n\n\n <p class="mb-3">Want to make your own Heardle? Check out the <a href="https://github.com/nterrien/etrian-infinite-heardle">README</a>' +
+            '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a> featuring music from the Nintendo Music app. Currently a work in progress, eventually the full tracklist of the app will be included. Based on <a href="https://nterrien.github.io/etrian-heardle/" title="Etrian Odyssey Heardle">Etrian Odyssey Heardle</a>.</p> \n\n<p class="mb-3">Each track is randomly chosen from the Nintendo Music library soundtrack - see the full list in the top right.</p> \n\n\n\n <p class="mb-3">Want to make your own Heardle? Check out the <a href="https://github.com/nterrien/etrian-infinite-heardle">README</a>' +
             '</p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://github.com/">Github</a>. <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. '),
           M(n, "class", "text");
       },
@@ -4464,7 +4460,7 @@ var app = (function () {
       p(ccTags, unselectAllTags);
       explainationTags = w("div");
       explainationTags.innerHTML =
-        "You can select tags below to filter musics.";
+        "You can select tags below to filter musics. 'Top Tracks' are a designated selection of each game's more prominent tracks so will be easier; 'Selects' are those tracks in any Selects and/or Picks playlist, this is a much smaller selection of between 1 and 7 tracks per game. If using these filters make sure to untick 'All'!";
     }
     return {
       c() {
@@ -4721,7 +4717,7 @@ var app = (function () {
           (n = w("p")),
             (s = w("p")),
             (n.innerHTML =
-              'Have questions/run into bugs? DM Beignet0 on Reddit, beignetSan on Twitch, @beignet0.bsky.social on Bluesky, beignet1139 on Discord or create an issue in <a href="https://github.com/nterrien/etrian-infinite-heardle/issues" target="_blank">Github</a>!<br><br>You can also play <a href="https://nterrien.github.io/etrian-heardle/" title="Etrian Odyssey Heardle">Etrian Odyssey Heardle</a> daily.'),
+              'Have questions/run into bugs? DM @goldchimera.bsky.social on Bluesky or create an issue in <a href="https://github.com/tombsmj-stack/nintendo-infinite-heardle/issues" target="_blank">Github</a>!<br><br>You can also play <a href="https://goldchimera.github.io/nintendo-heardle/" title="Nintendo Heardle">Nintendo Heardle</a> daily.'),
             (r = x()),
             (s = w("p")),
             (i = x()),
@@ -5336,7 +5332,7 @@ var app = (function () {
             "\n\n" +
             t +
             "\n\n";
-          // + "https://nterrien.github.io/etrian-infinite-heardle/"
+          // + "https:/goldchimera.github.io/nintendo-infinite-heardle/"
           if (
             !navigator.share ||
             !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
@@ -5424,9 +5420,7 @@ var app = (function () {
           (t = w("div")),
             (n = w("div")),
             (n.innerHTML =
-              '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-7 w-7"><circle cx="5.5" cy="17.5" r="2.5"></circle><circle cx="17.5" cy="15.5" r="2.5"></circle><path d="M8 17V5l12-2v12"></path></svg></div> \n        <div><p>Listen to the intro, then find the correct ' +
-              artist +
-              " song in the list.</p></div>"),
+              '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-7 w-7"><circle cx="5.5" cy="17.5" r="2.5"></circle><circle cx="17.5" cy="15.5" r="2.5"></circle><path d="M8 17V5l12-2v12"></path></svg></div> \n        <div><p>Listen to the intro, then find the correct song in the list.</p></div>"),
             (r = x()),
             (s = w("div")),
             (s.innerHTML =
