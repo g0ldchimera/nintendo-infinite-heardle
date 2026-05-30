@@ -4464,7 +4464,7 @@ var app = (function () {
       p(ccTags, unselectAllTags);
       explainationTags = w("div");
       explainationTags.innerHTML =
-        "You can select tags below to filter musics. 'Top Tracks' are a designated selection of each game's more prominent tracks so will be easier; 'Selects' are those tracks in any Selects and/or Picks playlist, this is a much smaller selection of between 1 and 7 tracks per game. If using these filters make sure to untick 'All'!";
+        "You can select tags below to filter tracks. 'Top Tracks' are a designated selection of each game's more prominent tracks so will be easier; 'Selects' are those tracks in any Selects and/or Picks playlist, this is a much smaller selection of between 1 and 7 tracks per game. If using these filters make sure to untick 'All'!";
     }
     return {
       c() {
