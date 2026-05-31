@@ -1321,6 +1321,7 @@ var app = (function () {
         ? e[0][e[7]].isSkipped
           ? Te
           : void 0
+        ? (e[0][e[7]].answer.split(" - ")[1] === e[2].artist) {
         : Ye;
     }
     let i = s(e),
@@ -1405,6 +1406,110 @@ var app = (function () {
           M(r, "x2", "18"),
           M(r, "y2", "18"),
           M(t, "class", "text-custom-negative"),
+          M(t, "xmlns", "http://www.w3.org/2000/svg"),
+          M(t, "width", "24"),
+          M(t, "height", "24"),
+          M(t, "viewBox", "0 0 24 24"),
+          M(t, "fill", "none"),
+          M(t, "stroke", "currentColor"),
+          M(t, "stroke-width", "2"),
+          M(t, "stroke-linecap", "round"),
+          M(t, "stroke-linejoin", "round");
+      },
+      m(e, s) {
+        g(e, t, s), p(t, n), p(t, r);
+      },
+      d(e) {
+        e && y(t);
+      },
+    };
+  }
+
+    function RedCross(e) {
+    let t, n, r;
+    return {
+      c() {
+        (t = k("svg")),
+          (n = k("line")),
+          (r = k("line")),
+          M(n, "x1", "18"),
+          M(n, "y1", "6"),
+          M(n, "x2", "6"),
+          M(n, "y2", "18"),
+          M(r, "x1", "6"),
+          M(r, "y1", "6"),
+          M(r, "x2", "18"),
+          M(r, "y2", "18"),
+          M(t, "class", "text-custom-negative"),
+          M(t, "xmlns", "http://www.w3.org/2000/svg"),
+          M(t, "width", "24"),
+          M(t, "height", "24"),
+          M(t, "viewBox", "0 0 24 24"),
+          M(t, "fill", "none"),
+          M(t, "stroke", "currentColor"),
+          M(t, "stroke-width", "2"),
+          M(t, "stroke-linecap", "round"),
+          M(t, "stroke-linejoin", "round");
+      },
+      m(e, s) {
+        g(e, t, s), p(t, n), p(t, r);
+      },
+      d(e) {
+        e && y(t);
+      },
+    };
+  }
+
+  function GreenCross(e) {
+    let t, n, r;
+    return {
+      c() {
+        (t = k("svg")),
+          (n = k("line")),
+          (r = k("line")),
+          M(n, "x1", "18"),
+          M(n, "y1", "6"),
+          M(n, "x2", "6"),
+          M(n, "y2", "18"),
+          M(r, "x1", "6"),
+          M(r, "y1", "6"),
+          M(r, "x2", "18"),
+          M(r, "y2", "18"),
+          M(t, "class", "text-custom-positive"), // Utilisation de la classe "text-custom-positive" pour la couleur verte
+          M(t, "xmlns", "http://www.w3.org/2000/svg"),
+          M(t, "width", "24"),
+          M(t, "height", "24"),
+          M(t, "viewBox", "0 0 24 24"),
+          M(t, "fill", "none"),
+          M(t, "stroke", "currentColor"),
+          M(t, "stroke-width", "2"),
+          M(t, "stroke-linecap", "round"),
+          M(t, "stroke-linejoin", "round");
+      },
+      m(e, s) {
+        g(e, t, s), p(t, n), p(t, r);
+      },
+      d(e) {
+        e && y(t);
+      },
+    };
+  }
+  function YellowCross(e) {
+    let t, n, r;
+    return {
+      c() {
+        (t = k("svg")),
+          (n = k("line")),
+          (r = k("line")),
+          M(n, "x1", "18"),
+          M(n, "y1", "6"),
+          M(n, "x2", "6"),
+          M(n, "y2", "18"),
+          M(r, "x1", "6"),
+          M(r, "y1", "6"),
+          M(r, "x2", "18"),
+          M(r, "y2", "18"),
+          M(t, "class", "text-custom-franchise"),
           M(t, "xmlns", "http://www.w3.org/2000/svg"),
           M(t, "width", "24"),
           M(t, "height", "24"),
