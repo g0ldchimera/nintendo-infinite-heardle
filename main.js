@@ -4125,7 +4125,11 @@ var app = (function () {
                 i,
                 "class",
                 "pointer-events-auto modal w-full limit-height mx-auto top-20 relative rounded-sm " +
-                (e[0] == "Filter" ? "max-w-screen-md" : e[0] == "about" ? "max-w-screen-sm" : "max-w-screen-xs")
+                (e[0] == "Filter"
+                  ? "max-w-screen-md"
+                  : e[0] == "about"
+                    ? "max-w-screen-sm"
+                    : "max-w-screen-xs")
               ),
             M(i, "role", "dialog"),
             M(i, "aria-modal", "true"),
