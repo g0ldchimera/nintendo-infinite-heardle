@@ -1318,13 +1318,10 @@ var app = (function () {
 
     function s(e, t) {
       return e[0][e[7]].isCorrect || e[0][e[7]].isSkipped
-        if e[0][e[7]].isSkipped
-          return Te
-        } else if (e[0][e[7]].answer.split(" - ")[1] === e[2].artist) {
-          return GreenCross;
-        } else {
-          return RedCross;
-        }
+        ? e[0][e[7]].isSkipped
+          ? Te
+          : void 0
+        : Ye;
     }
     let i = s(e),
       o = i && i(e);
