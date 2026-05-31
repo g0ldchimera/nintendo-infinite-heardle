@@ -125,3 +125,22 @@ button:not(:disabled):active {
     border-radius: 50%;
     cursor: pointer;
 }
+[id^="autoComplete_list"] {
+max-height: 500px; /* Adjust this value as needed */
+overflow-y: auto;
+}
+[id^="autoComplete_list"]::-webkit-scrollbar {
+
+width: 15px;
+}
+[id^="autoComplete_list"]::-webkit-scrollbar-track {
+background: #555;
+
+}
+[id^="autoComplete_list"]::-webkit-scrollbar-thumb {
+background: #f1f1f1;
+}
+
+[id^="autoComplete_list"]::-webkit-scrollbar-thumb:hover {
+background: #888;
+}
