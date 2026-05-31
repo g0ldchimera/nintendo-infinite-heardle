@@ -1322,6 +1322,7 @@ var app = (function () {
           ? Te
           : void 0
         ? (e[0][e[7]].answer.split(" - ")[1] === e[2].artist) {
+          ? GreenCross
         : Ye;
     }
     let i = s(e),
