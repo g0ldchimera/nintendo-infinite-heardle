@@ -4124,7 +4124,7 @@ var app = (function () {
               : M(
                 i,
                 "class",
-                "pointer-events-auto modal w-full limit-height mx-auto top-20 relative rounded-sm " +
+                 "pointer-events-auto modal max-w-screen-xs w-full mx-auto top-20 relative rounded-sm "
                 (e[0] == "Filter"
                   ? "max-w-screen-md"
                   : e[0] == "about"
