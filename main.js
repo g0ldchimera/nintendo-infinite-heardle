@@ -995,7 +995,7 @@ var app = (function () {
             Q(a.$$.fragment),
             (l = x()),
             (u = w("h1")),
-            (u.textContent = artist + " Infinite Heardle Beta"),
+            (u.textContent = artist + " Infinite Heardle"),
             (c = x()),
             (d = w("div")),
             Q(h.$$.fragment),
@@ -4119,12 +4119,12 @@ var app = (function () {
               ? M(
                 i,
                 "style",
-                "width: fit-content; height: calc(100% - 80px); overflow-y: scroll;"
+                "width: fit-content; height: calc(100% - 80px); overflow-y: auto;"
               )
               : M(
                 i,
                 "class",
-                 "pointer-events-auto modal max-w-screen-xs w-full mx-auto top-20 relative rounded-sm "
+                "pointer-events-auto modal w-full limit-height mx-auto top-20 relative rounded-sm " +
                 (e[0] == "Filter"
                   ? "max-w-screen-md"
                   : e[0] == "about"
@@ -4244,11 +4244,11 @@ var app = (function () {
       c() {
         (n = w("div")),
           (n.innerHTML =
-            '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, and <a href="https://heardle-kpop.glitch.me/" title="K-Pop Heardle">K-Pop Heardle</a> which can be played infinitely with the tracklist of the ' +
+            '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a> which can be played infinitely with tracks from the ' +
             artist +
-            '\ Music app. Based on <a href="https://nterrien.github.io/etrian-infinite-heardle/" title="Etrian Odyssey Heardle">Etrian Odyssey Heardle</a>.</p> \n\n<p class="mb-3">Each track is randomly chosen from ' +
+            '\ music app. Based on <a href="https://nterrien.github.io/etrian-heardle/" title="Etrian Odyssey Heardle">Etrian Odyssey Heardle</a>.</p> \n\n<p class="mb-3">Each track is randomly chosen from ' +
             artist +
-            '\ Music. (Currently being updated!)</p> \n\n\n\n <p class="mb-3">Want to make your own Heardle? Check out the <a href="https://github.com/nterrien/etrian-infinite-heardle">README</a>' +
+            ' Music.</p> \n\n\n\n <p class="mb-3">Want to make your own Heardle? Check out the <a href="https://github.com/nterrien/etrian-infinite-heardle">README</a>' +
             '</p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://github.com/">Github</a>. <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. '),
           M(n, "class", "text");
       },
@@ -4464,7 +4464,7 @@ var app = (function () {
       p(ccTags, unselectAllTags);
       explainationTags = w("div");
       explainationTags.innerHTML =
-        "You can select tags below to filter tracks. 'Top Tracks' are a designated selection of each game's more prominent tracks so will be easier; 'Selects' are a much smaller selection of between 1 and 7 tracks per game so easier still. If using these filters make sure to untick 'All'!";
+        "You can select tags below to filter musics.";
     }
     return {
       c() {
@@ -4626,7 +4626,7 @@ var app = (function () {
           M(r, "class", "flex justify-center items-center mt-6 mb-1"),
           M(a, "class", "text-custom-negative"),
           M(o, "class", "pb-6"),
-          M(i, "class", "text-custom-mg text-xs h-32 overflow-scroll relative"),
+          M(i, "class", "text-custom-mg text-xs h-32 overflow-auto relative"),
           M(d, "class", "absolute h-6 bottom-0 w-full border-custom-fg "),
           T(
             d,
@@ -4721,7 +4721,7 @@ var app = (function () {
           (n = w("p")),
             (s = w("p")),
             (n.innerHTML =
-              'Have questions/run into bugs? DM @goldchimera.bsky.social on Bluesky or create an issue on <a href="https://github.com/g0ldchimera/nintendo-infinite-heardle/issues" target="_blank">Github</a>!<br><br>You can also play <a href="https://g0ldchimera.github.io/nintendo-heardle/" title="Nintendo Heardle">Nintendo Heardle</a> daily.'),
+              'Have questions/run into bugs? DM Beignet0 on Reddit, beignetSan on Twitch, @beignet0.bsky.social on Bluesky, beignet1139 on Discord or create an issue in <a href="https://github.com/nterrien/etrian-infinite-heardle/issues" target="_blank">Github</a>!<br><br>You can also play <a href="https://nterrien.github.io/etrian-heardle/" title="Etrian Odyssey Heardle">Etrian Odyssey Heardle</a> daily.'),
             (r = x()),
             (s = w("p")),
             (i = x()),
@@ -5336,7 +5336,7 @@ var app = (function () {
             "\n\n" +
             t +
             "\n\n";
-          // + "https://g0ldchimera.github.io/nintendo-infinite-heardle/"
+          // + "https://nterrien.github.io/etrian-infinite-heardle/"
           if (
             !navigator.share ||
             !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
@@ -5426,20 +5426,20 @@ var app = (function () {
             (n.innerHTML =
               '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-7 w-7"><circle cx="5.5" cy="17.5" r="2.5"></circle><circle cx="17.5" cy="15.5" r="2.5"></circle><path d="M8 17V5l12-2v12"></path></svg></div> \n        <div><p>Listen to the intro, then find the correct ' +
               artist +
-              " song in the list.</p></div>"),
+              " Music in the list.</p></div>"),
             (r = x()),
             (s = w("div")),
             (s.innerHTML =
-              '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-6"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg></div> \n        <div><p>Skipped or incorrect attempts unlock more of the\n                intro</p></div>'),
+              '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-6"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg></div> \n        <div><p>Skipped or incorrect attempts unlock more of the\n                intro.</p></div>'),
             (i = x()),
             (o = w("div")),
             (o.innerHTML =
-              '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-7"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"></path></svg></div> \n        <div><p>Answer in as few tries  as possible and share\n                your score!</p></div>'),
+              '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-7"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"></path></svg></div> \n        <div><p>Answer in as few tries as possible and share\n                your score!</p></div>'),
             (a = x()),
             (z = w("div")),
             (z.innerHTML =
               '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M 2 5 C 2 3.34375 3.34375 2 5 2 L 19 2 C 20.65625 2 22 3.34375 22 5 L 22 6.171875 C 22 6.96875 21.683594 7.730469 21.121094 8.292969 L 15.292969 14.121094 C 15.105469 14.308594 15 14.5625 15 14.828125 L 15 17.171875 C 15 17.96875 14.683594 18.730469 14.121094 19.292969 L 11.917969 21.496094 C 10.84375 22.570312 9 21.808594 9 20.285156 L 9 14.828125 C 9 14.5625 8.894531 14.308594 8.707031 14.121094 L 2.878906 8.292969 C 2.316406 7.730469 2 6.96875 2 6.171875 Z M 2 5 "></path></svg></div> \n        <div><p>' +
-              "Select the game you want to play with." +
+              "Select games or filter tracks." +
               "</p></div>"),
             (v = x()),
             (zz = w("div")),
