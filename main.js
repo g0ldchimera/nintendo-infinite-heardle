@@ -4119,7 +4119,7 @@ var app = (function () {
               ? M(
                 i,
                 "style",
-                "width: fit-content; height: calc(100% - 80px); overflow-y: auto;"
+                "width: fit-content; height: calc(100% - 80px); overflow-y: scroll;"
               )
               : M(
                 i,
