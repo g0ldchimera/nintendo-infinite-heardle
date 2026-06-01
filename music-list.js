@@ -879,7 +879,174 @@ var musicNameList = [
         tags: ["All", "Top Tracks"],
     },
     
-    //// Fire Emblem: The Blazing Blade
+    //// Metroid Prime
+    {
+        id: 271,
+        name: "Title Theme - Metroid Prime",
+        tags: ["All"],
+    },
+    {
+        id: 272,
+        name: "File Select - Metroid Prime",
+        tags: ["All", "Top Tracks", "Selects"],
+    },
+    {
+        id: 273,
+        name: "Prologue - Metroid Prime",
+        tags: ["All", "Top Tracks"],
+    },
+    {
+        id: 274,
+        name: "Pirate Frigate - Metroid Prime",
+        tags: ["All", "Top Tracks"],
+    },
+    {
+        id: 275,
+        name: "Parasite Queen Battle - Metroid Prime",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 276,
+        name: "Pirate Frigate Escape - Metroid Prime",
+        tags: ["All"]
+    },
+    {
+        id: 277,
+        name: "Tallon Overworld - Metroid Prime",
+        tags: ["All", "Top Tracks", "Selects"]
+    },
+    {
+        id: 278,
+        name: "Timeworn Chozo Remnants - Metroid Prime",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 279,
+        name: "Hive Mecha Battle - Metroid Prime",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 280,
+        name: "Plated Beetle Battle - Metroid Prime",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 281,
+        name: "Chozo Ruins - Metroid Prime",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 282,
+        name: "Flaahgra Battle - Metroid Prime",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 283,
+        name: "Magmoor Caverns - Metroid Prime",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 284,
+        name: "Phendrana Drifts - Metroid Prime",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 285,
+        name: "Chapel of the Elders - Metroid Prime",
+        tags: ["All"]
+    },
+    {
+        id: 286,
+        name: "Space Pirates (Specimen Storage) - Metroid Prime",
+        tags: ["All"]
+    },
+    {
+        id: 287,
+        name: "Space Pirates Battle - Metroid Prime",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 288,
+        name: "Thardus Battle - Metroid Prime",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 289,
+        name: "Tallon Overworld Revisited - Metroid Prime",
+        tags: ["All", "Top Tracks", "Selects"]
+    },
+    {
+        id: 290,
+        name: "Hall of the Chozo Elders - Metroid Prime",
+        tags: ["All"]
+    },
+    {
+        id: 291,
+        name: "Chozo Ghosts Battle - Metroid Prime",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 292,
+        name: "Phendrana Battle - Metroid Prime",
+        tags: ["All", "Top Tracks", "Selects"]
+    },
+    {
+        id: 293,
+        name: "Crashed Ship - Metroid Prime",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 294,
+        name: "Phazon Mines - Metroid Prime",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 295,
+        name: "Omega Pirate Battle - Metroid Prime",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 296,
+        name: "Chozo Shrine - Metroid Prime",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 297,
+        name: "Meta Ridley Battle - Metroid Prime",
+        tags: ["All", "Top Tracks", "Selects"]
+    },
+    {
+        id: 298,
+        name: "Chozo Shrine Unsealed - Metroid Prime",
+        tags: ["All"]
+    },
+    {
+        id: 299,
+        name: "Metroid Prime Battle - Metroid Prime",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 300,
+        name: "Metroid Prime (Core) Battle - Metroid Prime",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 301,
+        name: "Shrine Collapse: Epilogue - Metroid Prime",
+        tags: ["All"]
+    },
+    {
+        id: 302,
+        name: "Credits - Metroid Prime",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 303,
+        name: "Samus's Record - Metroid Prime",
+        tags: ["All"]
+    },
+
+        //// Fire Emblem: The Blazing Blade
     {
         id: 172,
         name: "Opening: History Unveiled - Fire Emblem: The Blazing Blade",
@@ -1376,173 +1543,6 @@ var musicNameList = [
         tags: ["All"],
     },
 
-    //// Metroid Prime
-    {
-        id: 271,
-        name: "Title Theme - Metroid Prime",
-        tags: ["All"],
-    },
-    {
-        id: 272,
-        name: "File Select - Metroid Prime",
-        tags: ["All", "Top Tracks", "Selects"],
-    },
-    {
-        id: 273,
-        name: "Prologue - Metroid Prime",
-        tags: ["All", "Top Tracks"],
-    },
-    {
-        id: 274,
-        name: "Pirate Frigate - Metroid Prime",
-        tags: ["All", "Top Tracks"],
-    },
-    {
-        id: 275,
-        name: "Parasite Queen Battle - Metroid Prime",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 276,
-        name: "Pirate Frigate Escape - Metroid Prime",
-        tags: ["All"]
-    },
-    {
-        id: 277,
-        name: "Tallon Overworld - Metroid Prime",
-        tags: ["All", "Top Tracks", "Selects"]
-    },
-    {
-        id: 278,
-        name: "Timeworn Chozo Remnants - Metroid Prime",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 279,
-        name: "Hive Mecha Battle - Metroid Prime",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 280,
-        name: "Plated Beetle Battle - Metroid Prime",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 281,
-        name: "Chozo Ruins - Metroid Prime",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 282,
-        name: "Flaahgra Battle - Metroid Prime",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 283,
-        name: "Magmoor Caverns - Metroid Prime",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 284,
-        name: "Phendrana Drifts - Metroid Prime",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 285,
-        name: "Chapel of the Elders - Metroid Prime",
-        tags: ["All"]
-    },
-    {
-        id: 286,
-        name: "Space Pirates (Specimen Storage) - Metroid Prime",
-        tags: ["All"]
-    },
-    {
-        id: 287,
-        name: "Space Pirates Battle - Metroid Prime",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 288,
-        name: "Thardus Battle - Metroid Prime",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 289,
-        name: "Tallon Overworld Revisited - Metroid Prime",
-        tags: ["All", "Top Tracks", "Selects"]
-    },
-    {
-        id: 290,
-        name: "Hall of the Chozo Elders - Metroid Prime",
-        tags: ["All"]
-    },
-    {
-        id: 291,
-        name: "Chozo Ghosts Battle - Metroid Prime",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 292,
-        name: "Phendrana Battle - Metroid Prime",
-        tags: ["All", "Top Tracks", "Selects"]
-    },
-    {
-        id: 293,
-        name: "Crashed Ship - Metroid Prime",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 294,
-        name: "Phazon Mines - Metroid Prime",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 295,
-        name: "Omega Pirate Battle - Metroid Prime",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 296,
-        name: "Chozo Shrine - Metroid Prime",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 297,
-        name: "Meta Ridley Battle - Metroid Prime",
-        tags: ["All", "Top Tracks", "Selects"]
-    },
-    {
-        id: 298,
-        name: "Chozo Shrine Unsealed - Metroid Prime",
-        tags: ["All"]
-    },
-    {
-        id: 299,
-        name: "Metroid Prime Battle - Metroid Prime",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 300,
-        name: "Metroid Prime (Core) Battle - Metroid Prime",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 301,
-        name: "Shrine Collapse: Epilogue - Metroid Prime",
-        tags: ["All"]
-    },
-    {
-        id: 302,
-        name: "Credits - Metroid Prime",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 303,
-        name: "Samus's Record - Metroid Prime",
-        tags: ["All"]
-    },
-
     //// nintendogs
     {
         id: 304,
@@ -1733,248 +1733,6 @@ var musicNameList = [
         id: 341,
         name: "Record: nintendogs (Demo Version) - nintendogs",
         tags: ["All"]
-    },
-
-    //// Tomodachi Collection
-    {
-        id: 342,
-        name: "Making a Friend - Tomodachi Collection",
-        tags: ["All", "Top Tracks", "Selects"]
-    },
-    {
-        id: 343,
-        name: "Apartment Hangout - Tomodachi Collection",
-        tags: ["All", "Top Tracks", "Selects"]
-    },
-    {
-        id: 344,
-        name: "Afternoon on the Island - Tomodachi Collection",
-        tags: ["All", "Top Tracks", "Selects"]
-    },
-    {
-        id: 345,
-        name: "Nighttime on the Island - Tomodachi Collection",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 346,
-        name: "News Flash - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 347,
-        name: "Mii News Report - Tomodachi Collection",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 348,
-        name: "Food Mart - Tomodachi Collection",
-        tags: ["All", "Top Tracks", "Selects"]
-    },
-    {
-        id: 349,
-        name: "Clothing Shop - Tomodachi Collection",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 350,
-        name: "Interiors Shop - Tomodachi Collection",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 351,
-        name: "Majority Rule - Tomodachi Collection",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 352,
-        name: "Compatibility Tester - Tomodachi Collection",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 353,
-        name: "Career Counselor - Tomodachi Collection",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 354,
-        name: "Q&A - Tomodachi Collection",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 355,
-        name: "Let's Play a Game - Tomodachi Collection",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 356,
-        name: "Ballad: The Past 50 Years - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 357,
-        name: "Rap: Hot Track - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 358,
-        name: "Mood Music: Rain Soaked Streets - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 359,
-        name: "J Pop: To a New Future - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 360,
-        name: "Metal: Unremitted Desire - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 361,
-        name: "Pop: Flitter Flutter Days - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 362,
-        name: "Pent Up Passion - Tomodachi Collection",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 363,
-        name: "Stewing in Rejection - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 364,
-        name: "Married No More - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 365,
-        name: "Separating with a Sweetheart - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 366,
-        name: "Town Hall - Tomodachi Collection",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 367,
-        name: "Save Screen - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 368,
-        name: "Music Box: Making a Friend - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 369,
-        name: "Music Box: Afternoon on the Island - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 370,
-        name: "Music Box: Food Mart - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 371,
-        name: "Music Box: Compatibility Tester - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 372,
-        name: "Music Box: Mii News Report - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 373,
-        name: "Music Box: Career Counselor - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 374,
-        name: "Street Band: Cheerful Tango - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 375,
-        name: "Street Band: Jaunty Allegro - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 376,
-        name: "Street Band: Joyful Waltz - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 377,
-        name: "Street Band: Refreshing Bossa Nova - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 378,
-        name: "Street Band: Heartwarming Folk Dance - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 379,
-        name: "Street Band: Somber Waltz - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 380,
-        name: "Vacation: Okinawa - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 381,
-        name: "Vacation: Hawaii - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 382,
-        name: "Vacation: Hong Kong/Shanghai - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 383,
-        name: "Vacation: Thailand - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 384,
-        name: "Vacation: Italy - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 385,
-        name: "Vacation: France - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 386,
-        name: "Vacation: Spain - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 387,
-        name: "Vacation: Kyoto - Tomodachi Collection",
-        tags: ["All"]
-    },
-    {
-        id: 388,
-        name: "Tying the Knot - Tomodachi Collection",
-        tags: ["All", "Top Tracks"]
-    },
-    {
-        id: 389,
-        name: "Staff Credits - Tomodachi Collection",
-        tags: ["All", "Top Tracks"]
     },
 
     //// Wii Channels
@@ -2232,5 +1990,246 @@ var musicNameList = [
         id: 440,
         name: "Contest: Mii Ranking Presentation (Check Mii Out Channel) - Wii Channels",
         tags: ["All"]
+    },
+        //// Tomodachi Collection
+    {
+        id: 342,
+        name: "Making a Friend - Tomodachi Collection",
+        tags: ["All", "Top Tracks", "Selects"]
+    },
+    {
+        id: 343,
+        name: "Apartment Hangout - Tomodachi Collection",
+        tags: ["All", "Top Tracks", "Selects"]
+    },
+    {
+        id: 344,
+        name: "Afternoon on the Island - Tomodachi Collection",
+        tags: ["All", "Top Tracks", "Selects"]
+    },
+    {
+        id: 345,
+        name: "Nighttime on the Island - Tomodachi Collection",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 346,
+        name: "News Flash - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 347,
+        name: "Mii News Report - Tomodachi Collection",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 348,
+        name: "Food Mart - Tomodachi Collection",
+        tags: ["All", "Top Tracks", "Selects"]
+    },
+    {
+        id: 349,
+        name: "Clothing Shop - Tomodachi Collection",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 350,
+        name: "Interiors Shop - Tomodachi Collection",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 351,
+        name: "Majority Rule - Tomodachi Collection",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 352,
+        name: "Compatibility Tester - Tomodachi Collection",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 353,
+        name: "Career Counselor - Tomodachi Collection",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 354,
+        name: "Q&A - Tomodachi Collection",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 355,
+        name: "Let's Play a Game - Tomodachi Collection",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 356,
+        name: "Ballad: The Past 50 Years - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 357,
+        name: "Rap: Hot Track - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 358,
+        name: "Mood Music: Rain Soaked Streets - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 359,
+        name: "J Pop: To a New Future - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 360,
+        name: "Metal: Unremitted Desire - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 361,
+        name: "Pop: Flitter Flutter Days - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 362,
+        name: "Pent Up Passion - Tomodachi Collection",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 363,
+        name: "Stewing in Rejection - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 364,
+        name: "Married No More - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 365,
+        name: "Separating with a Sweetheart - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 366,
+        name: "Town Hall - Tomodachi Collection",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 367,
+        name: "Save Screen - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 368,
+        name: "Music Box: Making a Friend - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 369,
+        name: "Music Box: Afternoon on the Island - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 370,
+        name: "Music Box: Food Mart - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 371,
+        name: "Music Box: Compatibility Tester - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 372,
+        name: "Music Box: Mii News Report - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 373,
+        name: "Music Box: Career Counselor - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 374,
+        name: "Street Band: Cheerful Tango - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 375,
+        name: "Street Band: Jaunty Allegro - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 376,
+        name: "Street Band: Joyful Waltz - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 377,
+        name: "Street Band: Refreshing Bossa Nova - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 378,
+        name: "Street Band: Heartwarming Folk Dance - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 379,
+        name: "Street Band: Somber Waltz - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 380,
+        name: "Vacation: Okinawa - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 381,
+        name: "Vacation: Hawaii - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 382,
+        name: "Vacation: Hong Kong/Shanghai - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 383,
+        name: "Vacation: Thailand - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 384,
+        name: "Vacation: Italy - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 385,
+        name: "Vacation: France - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 386,
+        name: "Vacation: Spain - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 387,
+        name: "Vacation: Kyoto - Tomodachi Collection",
+        tags: ["All"]
+    },
+    {
+        id: 388,
+        name: "Tying the Knot - Tomodachi Collection",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 389,
+        name: "Staff Credits - Tomodachi Collection",
+        tags: ["All", "Top Tracks"]
     },
 ];
