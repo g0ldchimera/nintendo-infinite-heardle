@@ -2417,7 +2417,7 @@ var app = (function () {
       c() {
         (t = w("div")),
           (t.innerHTML =
-            '<p><a href="https://docs.google.com/spreadsheets/d/12vCtRU4cKzgTZk60kVveHRxQvdC2u0yS5pEISWeDlZo/edit#gid=0">PLACEHOLDER PLEASE DONT Click Here for the full track list, including potentially useful thumbnails!</p> \n\n                <svg class="mt-2" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"></path></svg>'),
+            '<p><a href="https://docs.google.com/spreadsheets/d/1lVH5z37vtdCcjwFHJAL7-9LLx6T3GPbMJNRMgG19ahg/edit?usp=sharing">Click Here for an easier-to-navigate track list, including potentially useful thumbnails!</p> \n\n                <svg class="mt-2" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"></path></svg>'),
           M(
             t,
             "class",
@@ -4825,7 +4825,7 @@ var app = (function () {
           (n = w("p")),
             (s = w("p")),
             (n.innerHTML =
-              'Have questions/run into bugs? DM @goldchimera.bsky.social on Bluesky or create an issue on <a href="https://github.com/g0ldchimera/nintendo-infinite-heardle/issues" target="_blank">Github</a>!<br><br>You can also play <a href="https://g0ldchimera.github.io/nintendo-heardle/" title="Nintendo Heardle">Nintendo Heardle</a> daily.'),
+              'To-do list:<br> -Continue updating tracks!<br> -Have thumbnails appear in search bar.<br> -Add feedback system for guessing the right game, but the wrong track.<br> -Add a mode to guess the game rather than the specific track.<br><br>Have questions/run into bugs? DM @goldchimera.bsky.social on Bluesky or create an issue on <a href="https://github.com/g0ldchimera/nintendo-infinite-heardle/issues" target="_blank">Github</a>!<br><br>You can also play <a href="https://g0ldchimera.github.io/nintendo-heardle/" title="Nintendo Heardle">Nintendo Heardle</a> daily.'),
             (r = x()),
             (s = w("p")),
             (i = x()),
