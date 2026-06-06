@@ -5540,7 +5540,7 @@ var app = (function () {
             (r = x()),
             (s = w("div")),
             (s.innerHTML =
-              '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-6"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg></div> \n        <div><p>Skipped or incorrect attempts unlock more of the\n                intro.</p></div>'),
+              '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-6"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg></div> \n        <div><p>Skipped or incorrect attempts unlock more of the\n                intro. A green cross means the wrong track, but the correct game!</p></div>'),
             (i = x()),
             (o = w("div")),
             (o.innerHTML =
@@ -5549,7 +5549,7 @@ var app = (function () {
             (z = w("div")),
             (z.innerHTML =
               '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M 2 5 C 2 3.34375 3.34375 2 5 2 L 19 2 C 20.65625 2 22 3.34375 22 5 L 22 6.171875 C 22 6.96875 21.683594 7.730469 21.121094 8.292969 L 15.292969 14.121094 C 15.105469 14.308594 15 14.5625 15 14.828125 L 15 17.171875 C 15 17.96875 14.683594 18.730469 14.121094 19.292969 L 11.917969 21.496094 C 10.84375 22.570312 9 21.808594 9 20.285156 L 9 14.828125 C 9 14.5625 8.894531 14.308594 8.707031 14.121094 L 2.878906 8.292969 C 2.316406 7.730469 2 6.96875 2 6.171875 Z M 2 5 "></path></svg></div> \n        <div><p>' +
-              "Select games or filter tracks." +
+              "Select games or filter tracks for an easier challenge." +
               "</p></div>"),
             (v = x()),
             (zz = w("div")),
