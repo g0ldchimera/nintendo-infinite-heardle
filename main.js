@@ -1323,6 +1323,8 @@ var app = (function () {
         return Te;
       } else if (e[0][e[7]].answer.split(" - ")[1] === e[2].artist) {
         return GreenCross;
+      } else if (window.musicNameList.find(a => a.fr === e[0][e[7]].answer)?.franchise === window.musicNameList.find(a => a.id === e[2].correctAnswer)?.franchise) {
+        return YellowCross;
       } else {
         return RedCross;
       }
