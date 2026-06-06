@@ -1,1406 +1,1406 @@
 var musicListWithLinks = [
     {
-        url: "https://soundcloud.com/goldchimera/ground-bgm-1",
+        url: "https://soundcloud.com/goldchimera/001x01",
         answer: 0,
     },
     {
-        url: "https://soundcloud.com/goldchimera/hurry-up-ground-bgm-2",
+        url: "https://soundcloud.com/goldchimera/001x02",
         answer: 1,
     },
     {
-        url: "https://soundcloud.com/goldchimera/underground-bgm-3",
+        url: "https://soundcloud.com/goldchimera/001x03",
         answer: 2,
     },
     {
-        url: "https://soundcloud.com/goldchimera/hurry-up-underground-bgm-4",
+        url: "https://soundcloud.com/goldchimera/001x04",
         answer: 3,
     },
     {
-        url: "https://soundcloud.com/goldchimera/invincibility-bgm-5",
+        url: "https://soundcloud.com/goldchimera/001x05",
         answer: 4,
     },
     {
-        url: "https://soundcloud.com/goldchimera/hurry-up-invincibility-bgm-6",
+        url: "https://soundcloud.com/goldchimera/001x06",
         answer: 5,
     },
     {
-        url: "https://soundcloud.com/goldchimera/underwater-bgm-7",
+        url: "https://soundcloud.com/goldchimera/001x07",
         answer: 6,
     },
     {
-        url: "https://soundcloud.com/goldchimera/hurry-up-underwater-bgm-8",
+        url: "https://soundcloud.com/goldchimera/001x08",
         answer: 7,
     },
     {
-        url: "https://soundcloud.com/goldchimera/castle-bgm-9",
+        url: "https://soundcloud.com/goldchimera/001x09",
         answer: 8,
     },
     {
-        url: "https://soundcloud.com/goldchimera/hurry-up-castle-bgm-10",
+        url: "https://soundcloud.com/goldchimera/001x10",
         answer: 9,
     },
     {
-        url: "https://soundcloud.com/goldchimera/ending-11",
+        url: "https://soundcloud.com/goldchimera/001x11",
         answer: 10,
     },
     {
-        url: "https://soundcloud.com/goldchimera/title-screen-1",
+        url: "https://soundcloud.com/goldchimera/002x01",
         answer: 11,
     },
     {
-        url: "https://soundcloud.com/goldchimera/brinstar-rocky-zone-2",
+        url: "https://soundcloud.com/goldchimera/002x02",
         answer: 12,
     },
     {
-        url: "https://soundcloud.com/goldchimera/miniboss-hideout-i-kraid-3",
+        url: "https://soundcloud.com/goldchimera/002x03",
         answer: 13,
     },
     {
-        url: "https://soundcloud.com/goldchimera/norfair-fire-zone-4",
+        url: "https://soundcloud.com/goldchimera/002x04",
         answer: 14,
     },
     {
-        url: "https://soundcloud.com/goldchimera/miniboss-hideout-ii-ridley-5",
+        url: "https://soundcloud.com/goldchimera/002x05",
         answer: 15,
     },
     {
-        url: "https://soundcloud.com/goldchimera/stillness-6",
+        url: "https://soundcloud.com/goldchimera/002x06",
         answer: 16,
     },
     {
-        url: "https://soundcloud.com/goldchimera/tourian-central-base-7",
+        url: "https://soundcloud.com/goldchimera/002x07",
         answer: 17,
     },
     {
-        url: "https://soundcloud.com/goldchimera/zebetite-8",
+        url: "https://soundcloud.com/goldchimera/002x08",
         answer: 18,
     },
     {
-        url: "https://soundcloud.com/goldchimera/escape-9",
+        url: "https://soundcloud.com/goldchimera/002x09",
         answer: 19,
     },
     {
-        url: "https://soundcloud.com/goldchimera/ending-10",
+        url: "https://soundcloud.com/goldchimera/002x10",
         answer: 20,
     },
     {
-        url: "https://soundcloud.com/goldchimera/selection-screen-1",
+        url: "https://soundcloud.com/goldchimera/003x01",
         answer: 21,
     },
     {
-        url: "https://soundcloud.com/goldchimera/fever-2",
+        url: "https://soundcloud.com/goldchimera/003x02",
         answer: 22,
     },
     {
-        url: "https://soundcloud.com/goldchimera/vs-game-over-3",
+        url: "https://soundcloud.com/goldchimera/003x03",
         answer: 23,
     },
     {
-        url: "https://soundcloud.com/goldchimera/chill-4",
+        url: "https://soundcloud.com/goldchimera/003x04",
         answer: 24,
     },
     {
-        url: "https://soundcloud.com/goldchimera/level-20-hi-clear-ufo-ending-5",
+        url: "https://soundcloud.com/goldchimera/003x06",
         answer: 25,
     },
     {
-        url: "https://soundcloud.com/goldchimera/welcome-to-dream-land-1",
+        url: "https://soundcloud.com/goldchimera/004x01",
         answer: 26,
     },
     {
-        url: "https://soundcloud.com/goldchimera/green-greens-2",
+        url: "https://soundcloud.com/goldchimera/004x02",
         answer: 27,
     },
     {
-        url: "https://soundcloud.com/goldchimera/boss-theme-3",
+        url: "https://soundcloud.com/goldchimera/004x03",
         answer: 28,
     },
     {
-        url: "https://soundcloud.com/goldchimera/sparkling-stars-4",
+        url: "https://soundcloud.com/goldchimera/004x04",
         answer: 29,
     },
     {
-        url: "https://soundcloud.com/goldchimera/castle-lololo-5",
+        url: "https://soundcloud.com/goldchimera/004x05",
         answer: 30,
     },
     {
-        url: "https://soundcloud.com/goldchimera/invincible-6",
+        url: "https://soundcloud.com/goldchimera/004x06",
         answer: 31,
     },
     {
-        url: "https://soundcloud.com/goldchimera/float-islands-7",
+        url: "https://soundcloud.com/goldchimera/004x07",
         answer: 32,
     },
     {
-        url: "https://soundcloud.com/goldchimera/shooting-8",
+        url: "https://soundcloud.com/goldchimera/004x08",
         answer: 33,
     },
     {
-        url: "https://soundcloud.com/goldchimera/bubbly-clouds-9",
+        url: "https://soundcloud.com/goldchimera/004x09",
         answer: 34,
     },
     {
-        url: "https://soundcloud.com/goldchimera/boss-game-select-10",
+        url: "https://soundcloud.com/goldchimera/004x10",
         answer: 35,
     },
     {
-        url: "https://soundcloud.com/goldchimera/mt-dedede-11",
+        url: "https://soundcloud.com/goldchimera/004x11",
         answer: 36,
     },
     {
-        url: "https://soundcloud.com/goldchimera/a-new-wind-for-tomorrow-12",
+        url: "https://soundcloud.com/goldchimera/004x12",
         answer: 37,
     },
     {
-        url: "https://soundcloud.com/goldchimera/theme-1",
+        url: "https://soundcloud.com/goldchimera/005x01",
         answer: 38,
     },
     {
-        url: "https://soundcloud.com/goldchimera/simian-segue-2",
+        url: "https://soundcloud.com/goldchimera/005x02",
         answer: 39,
     },
     {
-        url: "https://soundcloud.com/goldchimera/dk-island-swing-3",
+        url: "https://soundcloud.com/goldchimera/005x03",
         answer: 40,
     },
     {
-        url: "https://soundcloud.com/goldchimera/cave-dweller-concert-4",
+        url: "https://soundcloud.com/goldchimera/005x04",
         answer: 41,
     },
     {
-        url: "https://soundcloud.com/goldchimera/aquatic-ambiance-5",
+        url: "https://soundcloud.com/goldchimera/005x05",
         answer: 42,
     },
     {
-        url: "https://soundcloud.com/goldchimera/crankys-theme-6",
+        url: "https://soundcloud.com/goldchimera/005x06",
         answer: 43,
     },
     {
-        url: "https://soundcloud.com/goldchimera/mine-cart-madness-7",
+        url: "https://soundcloud.com/goldchimera/005x08",
         answer: 44,
     },
     {
-        url: "https://soundcloud.com/goldchimera/misty-menace-8",
+        url: "https://soundcloud.com/goldchimera/005x09",
         answer: 45,
     },
     {
-        url: "https://soundcloud.com/goldchimera/voices-of-the-temple-9",
+        url: "https://soundcloud.com/goldchimera/005x10",
         answer: 46,
     },
     {
-        url: "https://soundcloud.com/goldchimera/funkys-fugue-10",
+        url: "https://soundcloud.com/goldchimera/005x11",
         answer: 47,
     },
     {
-        url: "https://soundcloud.com/goldchimera/forest-frenzy-11",
+        url: "https://soundcloud.com/goldchimera/005x12",
         answer: 48,
     },
     {
-        url: "https://soundcloud.com/goldchimera/treetop-rock-12",
+        url: "https://soundcloud.com/goldchimera/005x13",
         answer: 49,
     },
     {
-        url: "https://soundcloud.com/goldchimera/bonus-room-blitz-13",
+        url: "https://soundcloud.com/goldchimera/005x14",
         answer: 50,
     },
     {
-        url: "https://soundcloud.com/goldchimera/candys-love-song-14",
+        url: "https://soundcloud.com/goldchimera/005x15",
         answer: 51,
     },
     {
-        url: "https://soundcloud.com/goldchimera/northern-hemispheres-15",
+        url: "https://soundcloud.com/goldchimera/005x16",
         answer: 52,
     },
     {
-        url: "https://soundcloud.com/goldchimera/ice-cave-chant-16",
+        url: "https://soundcloud.com/goldchimera/005x17",
         answer: 53,
     },
     {
-        url: "https://soundcloud.com/goldchimera/fear-factory-17",
+        url: "https://soundcloud.com/goldchimera/005x18",
         answer: 54,
     },
     {
-        url: "https://soundcloud.com/goldchimera/bad-boss-boogie-18",
+        url: "https://soundcloud.com/goldchimera/005x19",
         answer: 55,
     },
     {
-        url: "https://soundcloud.com/goldchimera/k-rools-cacophony-19",
+        url: "https://soundcloud.com/goldchimera/005x20",
         answer: 56,
     },
     {
-        url: "https://soundcloud.com/goldchimera/gang-plank-galleon-20",
+        url: "https://soundcloud.com/goldchimera/005x21",
         answer: 57,
     },
     {
-        url: "https://soundcloud.com/goldchimera/the-credits-concerto-21",
+        url: "https://soundcloud.com/goldchimera/005x22",
         answer: 58,
     },
     {
-        url: "https://soundcloud.com/goldchimera/opening-melody-1",
+        url: "https://soundcloud.com/goldchimera/006x01",
         answer: 59,
     },
     {
-        url: "https://soundcloud.com/goldchimera/yoshis-island-2",
+        url: "https://soundcloud.com/goldchimera/006x02",
         answer: 60,
     },
     {
-        url: "https://soundcloud.com/goldchimera/the-journey-begins-3",
+        url: "https://soundcloud.com/goldchimera/006x03",
         answer: 61,
     },
     {
-        url: "https://soundcloud.com/goldchimera/practice-stage-4",
+        url: "https://soundcloud.com/goldchimera/006x04",
         answer: 62,
     },
     {
-        url: "https://soundcloud.com/goldchimera/flower-field-bgm-5",
+        url: "https://soundcloud.com/goldchimera/006x05",
         answer: 63,
     },
     {
-        url: "https://soundcloud.com/goldchimera/goal-6",
+        url: "https://soundcloud.com/goldchimera/006x06",
         answer: 64,
     },
     {
-        url: "https://soundcloud.com/goldchimera/underground-bgm-7",
+        url: "https://soundcloud.com/goldchimera/006x07",
         answer: 65,
     },
     {
-        url: "https://soundcloud.com/goldchimera/castles-forts-bgm-8",
+        url: "https://soundcloud.com/goldchimera/006x08",
         answer: 66,
     },
     {
-        url: "https://soundcloud.com/goldchimera/kameks-theme-9",
+        url: "https://soundcloud.com/goldchimera/006x09",
         answer: 67,
     },
     {
-        url: "https://soundcloud.com/goldchimera/stage-boss-10",
+        url: "https://soundcloud.com/goldchimera/006x10",
         answer: 68,
     },
     {
-        url: "https://soundcloud.com/goldchimera/athletic-bgm-11",
+        url: "https://soundcloud.com/goldchimera/006x11",
         answer: 69,
     },
     {
-        url: "https://soundcloud.com/goldchimera/ground-bgm-12",
+        url: "https://soundcloud.com/goldchimera/006x12",
         answer: 70,
     },
     {
-        url: "https://soundcloud.com/goldchimera/in-the-boss-room-13",
+        url: "https://soundcloud.com/goldchimera/006x13",
         answer: 71,
     },
     {
-        url: "https://soundcloud.com/goldchimera/big-boss-bgm-14",
+        url: "https://soundcloud.com/goldchimera/006x14",
         answer: 72,
     },
     {
-        url: "https://soundcloud.com/goldchimera/map-screen-15",
+        url: "https://soundcloud.com/goldchimera/006x15",
         answer: 73,
     },
     {
-        url: "https://soundcloud.com/goldchimera/bonus-challenge-16",
+        url: "https://soundcloud.com/goldchimera/006x16",
         answer: 74,
     },
     {
-        url: "https://soundcloud.com/goldchimera/powerful-mario-17",
+        url: "https://soundcloud.com/goldchimera/006x17",
         answer: 75,
     },
     {
-        url: "https://soundcloud.com/goldchimera/bowser-18",
+        url: "https://soundcloud.com/goldchimera/006x18",
         answer: 76,
     },
     {
-        url: "https://soundcloud.com/goldchimera/rescuing-luigi-19",
+        url: "https://soundcloud.com/goldchimera/006x19",
         answer: 77,
     },
     {
-        url: "https://soundcloud.com/goldchimera/ending-20",
+        url: "https://soundcloud.com/goldchimera/006x20",
         answer: 78,
     },
     {
-        url: "https://soundcloud.com/goldchimera/opening-theme-1",
+        url: "https://soundcloud.com/goldchimera/007x01",
         answer: 79,
     },
     {
-        url: "https://soundcloud.com/goldchimera/title-theme-2",
+        url: "https://soundcloud.com/goldchimera/007x02",
         answer: 80,
     },
     {
-        url: "https://soundcloud.com/goldchimera/select-theme-3",
+        url: "https://soundcloud.com/goldchimera/007x03",
         answer: 81,
     },
     {
-        url: "https://soundcloud.com/goldchimera/map-theme-4",
+        url: "https://soundcloud.com/goldchimera/007x04",
         answer: 82,
     },
     {
-        url: "https://soundcloud.com/goldchimera/vs-select-5",
+        url: "https://soundcloud.com/goldchimera/007x05",
         answer: 83,
     },
     {
-        url: "https://soundcloud.com/goldchimera/demo-1-6",
+        url: "https://soundcloud.com/goldchimera/007x06",
         answer: 84,
     },
     {
-        url: "https://soundcloud.com/goldchimera/training-mode-7",
+        url: "https://soundcloud.com/goldchimera/007x07",
         answer: 85,
     },
     {
-        url: "https://soundcloud.com/goldchimera/corneria-8",
+        url: "https://soundcloud.com/goldchimera/007x08",
         answer: 86,
     },
     {
-        url: "https://soundcloud.com/goldchimera/fichina-sector-z-9",
+        url: "https://soundcloud.com/goldchimera/007x09",
         answer: 87,
     },
     {
-        url: "https://soundcloud.com/goldchimera/meteo-10",
+        url: "https://soundcloud.com/goldchimera/007x10",
         answer: 88,
     },
     {
-        url: "https://soundcloud.com/goldchimera/sector-y-solar-11",
+        url: "https://soundcloud.com/goldchimera/007x11",
         answer: 89,
     },
     {
-        url: "https://soundcloud.com/goldchimera/katina-12",
+        url: "https://soundcloud.com/goldchimera/007x12",
         answer: 90,
     },
     {
-        url: "https://soundcloud.com/goldchimera/aquas-13",
+        url: "https://soundcloud.com/goldchimera/007x13",
         answer: 91,
     },
     {
-        url: "https://soundcloud.com/goldchimera/sector-x-14",
+        url: "https://soundcloud.com/goldchimera/007x14",
         answer: 92,
     },
     {
-        url: "https://soundcloud.com/goldchimera/zoness-15",
+        url: "https://soundcloud.com/goldchimera/007x15",
         answer: 93,
     },
     {
-        url: "https://soundcloud.com/goldchimera/titania-macbeth-16",
+        url: "https://soundcloud.com/goldchimera/007x16",
         answer: 94,
     },
     {
-        url: "https://soundcloud.com/goldchimera/area-6-17",
+        url: "https://soundcloud.com/goldchimera/007x17",
         answer: 95,
     },
     {
-        url: "https://soundcloud.com/goldchimera/bolse-18",
+        url: "https://soundcloud.com/goldchimera/007x18",
         answer: 96,
     },
     {
-        url: "https://soundcloud.com/goldchimera/venom-19",
+        url: "https://soundcloud.com/goldchimera/007x19",
         answer: 97,
     },
     {
-        url: "https://soundcloud.com/goldchimera/warp-20",
+        url: "https://soundcloud.com/goldchimera/007x20",
         answer: 98,
     },
     {
-        url: "https://soundcloud.com/goldchimera/underground-base-21",
+        url: "https://soundcloud.com/goldchimera/007x21",
         answer: 99,
     },
     {
-        url: "https://soundcloud.com/goldchimera/star-wolfs-theme-22",
+        url: "https://soundcloud.com/goldchimera/007x22",
         answer: 100,
     },
     {
-        url: "https://soundcloud.com/goldchimera/boss-battle-1-23",
+        url: "https://soundcloud.com/goldchimera/007x23",
         answer: 101,
     },
     {
-        url: "https://soundcloud.com/goldchimera/boss-battle-2-24",
+        url: "https://soundcloud.com/goldchimera/007x24",
         answer: 102,
     },
     {
-        url: "https://soundcloud.com/goldchimera/boss-battle-3-25",
+        url: "https://soundcloud.com/goldchimera/007x25",
         answer: 103,
     },
     {
-        url: "https://soundcloud.com/goldchimera/andross-battle-26",
+        url: "https://soundcloud.com/goldchimera/007x26",
         answer: 104,
     },
     {
-        url: "https://soundcloud.com/goldchimera/final-battle-27",
+        url: "https://soundcloud.com/goldchimera/007x27",
         answer: 105,
     },
     {
-        url: "https://soundcloud.com/goldchimera/vs-battle-1-28",
+        url: "https://soundcloud.com/goldchimera/007x28",
         answer: 106,
     },
     {
-        url: "https://soundcloud.com/goldchimera/vs-battle-2-29",
+        url: "https://soundcloud.com/goldchimera/007x29",
         answer: 107,
     },
     {
-        url: "https://soundcloud.com/goldchimera/mission-complete-30",
+        url: "https://soundcloud.com/goldchimera/007x30",
         answer: 108,
     },
     {
-        url: "https://soundcloud.com/goldchimera/mission-failed-31",
+        url: "https://soundcloud.com/goldchimera/007x31",
         answer: 109,
     },
     {
-        url: "https://soundcloud.com/goldchimera/game-over-32",
+        url: "https://soundcloud.com/goldchimera/007x32",
         answer: 110,
     },
     {
-        url: "https://soundcloud.com/goldchimera/all-clear-33",
+        url: "https://soundcloud.com/goldchimera/007x33",
         answer: 111,
     },
     {
-        url: "https://soundcloud.com/goldchimera/credits-theme-34",
+        url: "https://soundcloud.com/goldchimera/007x34",
         answer: 112,
     },
     {
-        url: "https://soundcloud.com/goldchimera/title-theme-1",
+        url: "https://soundcloud.com/goldchimera/008x01",
         answer: 113,
     },
     {
-        url: "https://soundcloud.com/goldchimera/deku-tree-2",
+        url: "https://soundcloud.com/goldchimera/008x02",
         answer: 114,
     },
     {
-        url: "https://soundcloud.com/goldchimera/fairy-flying-3",
+        url: "https://soundcloud.com/goldchimera/008x03",
         answer: 115,
     },
     {
-        url: "https://soundcloud.com/goldchimera/house-4",
+        url: "https://soundcloud.com/goldchimera/008x04",
         answer: 116,
     },
     {
-        url: "https://soundcloud.com/goldchimera/kokiri-forest-5",
+        url: "https://soundcloud.com/goldchimera/008x05",
         answer: 117,
     },
     {
-        url: "https://soundcloud.com/goldchimera/shop-6",
+        url: "https://soundcloud.com/goldchimera/008x06",
         answer: 118,
     },
     {
-        url: "https://soundcloud.com/goldchimera/battle-7",
+        url: "https://soundcloud.com/goldchimera/008x07",
         answer: 119,
     },
     {
-        url: "https://soundcloud.com/goldchimera/inside-the-deku-tree-8",
+        url: "https://soundcloud.com/goldchimera/008x08",
         answer: 120,
     },
     {
-        url: "https://soundcloud.com/goldchimera/boss-battle-9",
+        url: "https://soundcloud.com/goldchimera/008x09",
         answer: 121,
     },
     {
-        url: "https://soundcloud.com/goldchimera/the-legend-of-hyrule-10",
+        url: "https://soundcloud.com/goldchimera/008x10",
         answer: 122,
     },
     {
-        url: "https://soundcloud.com/goldchimera/hyrule-field-main-theme-11",
+        url: "https://soundcloud.com/goldchimera/008x11",
         answer: 123,
     },
     {
-        url: "https://soundcloud.com/goldchimera/kaepora-gaeboras-theme-12",
+        url: "https://soundcloud.com/goldchimera/008x12",
         answer: 124,
     },
     {
-        url: "https://soundcloud.com/goldchimera/market-13",
+        url: "https://soundcloud.com/goldchimera/008x13",
         answer: 125,
     },
     {
-        url: "https://soundcloud.com/goldchimera/shooting-gallery-14",
+        url: "https://soundcloud.com/goldchimera/008x14",
         answer: 126,
     },
     {
-        url: "https://soundcloud.com/goldchimera/hyrule-castle-courtyard-15",
+        url: "https://soundcloud.com/goldchimera/008x15",
         answer: 127,
     },
     {
-        url: "https://soundcloud.com/goldchimera/zeldas-theme-16",
+        url: "https://soundcloud.com/goldchimera/008x16",
         answer: 128,
     },
     {
-        url: "https://soundcloud.com/goldchimera/lon-lon-ranch-17",
+        url: "https://soundcloud.com/goldchimera/008x17",
         answer: 129,
     },
     {
-        url: "https://soundcloud.com/goldchimera/minigame-18",
+        url: "https://soundcloud.com/goldchimera/008x18",
         answer: 130,
     },
     {
-        url: "https://soundcloud.com/goldchimera/kakariko-village-19",
+        url: "https://soundcloud.com/goldchimera/008x19",
         answer: 131,
     },
     {
-        url: "https://soundcloud.com/goldchimera/hyrule-field-theme-morning-20",
+        url: "https://soundcloud.com/goldchimera/008x20",
         answer: 132,
     },
     {
-        url: "https://soundcloud.com/goldchimera/goron-city-21",
+        url: "https://soundcloud.com/goldchimera/008x21",
         answer: 133,
     },
     {
-        url: "https://soundcloud.com/goldchimera/lost-woods-22",
+        url: "https://soundcloud.com/goldchimera/008x22",
         answer: 134,
     },
     {
-        url: "https://soundcloud.com/goldchimera/dodongos-cavern-23",
+        url: "https://soundcloud.com/goldchimera/008x23",
         answer: 135,
     },
     {
-        url: "https://soundcloud.com/goldchimera/middle-boss-battle-24",
+        url: "https://soundcloud.com/goldchimera/008x24",
         answer: 136,
     },
     {
-        url: "https://soundcloud.com/goldchimera/dinosaur-boss-battle-25",
+        url: "https://soundcloud.com/goldchimera/008x25",
         answer: 137,
     },
     {
-        url: "https://soundcloud.com/goldchimera/zoras-domain-26",
+        url: "https://soundcloud.com/goldchimera/008x26",
         answer: 138,
     },
     {
-        url: "https://soundcloud.com/goldchimera/great-fairys-fountain-27",
+        url: "https://soundcloud.com/goldchimera/008x27",
         answer: 139,
     },
     {
-        url: "https://soundcloud.com/goldchimera/potion-shop-28",
+        url: "https://soundcloud.com/goldchimera/008x28",
         answer: 140,
     },
     {
-        url: "https://soundcloud.com/goldchimera/inside-jabu-jabus-belly-29",
+        url: "https://soundcloud.com/goldchimera/008x29",
         answer: 141,
     },
     {
-        url: "https://soundcloud.com/goldchimera/temple-of-time-30",
+        url: "https://soundcloud.com/goldchimera/008x30",
         answer: 142,
     },
     {
-        url: "https://soundcloud.com/goldchimera/ganondorfs-theme-31",
+        url: "https://soundcloud.com/goldchimera/008x31",
         answer: 143,
     },
     {
-        url: "https://soundcloud.com/goldchimera/chamber-of-the-sages-32",
+        url: "https://soundcloud.com/goldchimera/008x32",
         answer: 144,
     },
     {
-        url: "https://soundcloud.com/goldchimera/sheiks-theme-33",
+        url: "https://soundcloud.com/goldchimera/008x33",
         answer: 145,
     },
     {
-        url: "https://soundcloud.com/goldchimera/horse-race-34",
+        url: "https://soundcloud.com/goldchimera/008x34",
         answer: 146,
     },
     {
-        url: "https://soundcloud.com/goldchimera/ingos-theme-35",
+        url: "https://soundcloud.com/goldchimera/008x35",
         answer: 147,
     },
     {
-        url: "https://soundcloud.com/goldchimera/kakariko-village-orchestral-ver-36",
+        url: "https://soundcloud.com/goldchimera/008x36",
         answer: 148,
     },
     {
-        url: "https://soundcloud.com/goldchimera/windmill-hut-37",
+        url: "https://soundcloud.com/goldchimera/008x37",
         answer: 149,
     },
     {
-        url: "https://soundcloud.com/goldchimera/forest-temple-38",
+        url: "https://soundcloud.com/goldchimera/008x38",
         answer: 150,
     },
     {
-        url: "https://soundcloud.com/goldchimera/bolero-of-fire-39",
+        url: "https://soundcloud.com/goldchimera/008x39",
         answer: 151,
     },
     {
-        url: "https://soundcloud.com/goldchimera/fire-temple-40",
+        url: "https://soundcloud.com/goldchimera/008x40",
         answer: 152,
     },
     {
-        url: "https://soundcloud.com/goldchimera/ice-cavern-41",
+        url: "https://soundcloud.com/goldchimera/008x41",
         answer: 153,
     },
     {
-        url: "https://soundcloud.com/goldchimera/serenade-of-water-42",
+        url: "https://soundcloud.com/goldchimera/008x42",
         answer: 154,
     },
     {
-        url: "https://soundcloud.com/goldchimera/water-temple-43",
+        url: "https://soundcloud.com/goldchimera/008x43",
         answer: 155,
     },
     {
-        url: "https://soundcloud.com/goldchimera/nocturne-of-shadow-44",
+        url: "https://soundcloud.com/goldchimera/008x44",
         answer: 156,
     },
     {
-        url: "https://soundcloud.com/goldchimera/prelude-of-light-45",
+        url: "https://soundcloud.com/goldchimera/008x45",
         answer: 157,
     },
     {
-        url: "https://soundcloud.com/goldchimera/shadow-temple-46",
+        url: "https://soundcloud.com/goldchimera/008x46",
         answer: 158,
     },
     {
-        url: "https://soundcloud.com/goldchimera/gerudo-valley-47",
+        url: "https://soundcloud.com/goldchimera/008x47",
         answer: 159,
     },
     {
-        url: "https://soundcloud.com/goldchimera/spirit-temple-48",
+        url: "https://soundcloud.com/goldchimera/008x48",
         answer: 160,
     },
     {
-        url: "https://soundcloud.com/goldchimera/requiem-of-spirit-49",
+        url: "https://soundcloud.com/goldchimera/008x49",
         answer: 161,
     },
     {
-        url: "https://soundcloud.com/goldchimera/kotake-koumes-theme-50",
+        url: "https://soundcloud.com/goldchimera/008x50",
         answer: 162,
     },
     {
-        url: "https://soundcloud.com/goldchimera/reuniting-with-zelda-51",
+        url: "https://soundcloud.com/goldchimera/008x51",
         answer: 163,
     },
     {
-        url: "https://soundcloud.com/goldchimera/a-bridge-to-ganons-castle-52",
+        url: "https://soundcloud.com/goldchimera/008x52",
         answer: 164,
     },
     {
-        url: "https://soundcloud.com/goldchimera/beneath-ganons-castle-53",
+        url: "https://soundcloud.com/goldchimera/008x53",
         answer: 165,
     },
     {
-        url: "https://soundcloud.com/goldchimera/ganons-tower-54",
+        url: "https://soundcloud.com/goldchimera/008x54",
         answer: 166,
     },
     {
-        url: "https://soundcloud.com/goldchimera/ganondorf-battle-55",
+        url: "https://soundcloud.com/goldchimera/008x55",
         answer: 167,
     },
     {
-        url: "https://soundcloud.com/goldchimera/escape-from-ganons-castle-56",
+        url: "https://soundcloud.com/goldchimera/008x56",
         answer: 168,
     },
     {
-        url: "https://soundcloud.com/goldchimera/last-battle-57",
+        url: "https://soundcloud.com/goldchimera/008x57",
         answer: 169,
     },
     {
-        url: "https://soundcloud.com/goldchimera/seal-of-the-six-sages-58",
+        url: "https://soundcloud.com/goldchimera/008x58",
         answer: 170,
     },
     {
-        url: "https://soundcloud.com/goldchimera/end-credits-59",
+        url: "https://soundcloud.com/goldchimera/008x60",
         answer: 171,
     },
     {
-        url: "https://soundcloud.com/goldchimera/opening-history-unveiled-1",
+        url: "https://soundcloud.com/goldchimera/009x01",
         answer: 172,
     },
     {
-        url: "https://soundcloud.com/goldchimera/fire-emblem-theme-2",
+        url: "https://soundcloud.com/goldchimera/009x02",
         answer: 173,
     },
     {
-        url: "https://soundcloud.com/goldchimera/a-hint-of-things-to-come-3",
+        url: "https://soundcloud.com/goldchimera/009x03",
         answer: 174,
     },
     {
-        url: "https://soundcloud.com/goldchimera/road-of-trials-4",
+        url: "https://soundcloud.com/goldchimera/009x04",
         answer: 175,
     },
     {
-        url: "https://soundcloud.com/goldchimera/destiny-enlaced-by-fear-5",
+        url: "https://soundcloud.com/goldchimera/009x05",
         answer: 176,
     },
     {
-        url: "https://soundcloud.com/goldchimera/winds-across-the-plains-6",
+        url: "https://soundcloud.com/goldchimera/009x06",
         answer: 177,
     },
     {
-        url: "https://soundcloud.com/goldchimera/precious-things-7",
+        url: "https://soundcloud.com/goldchimera/009x07",
         answer: 178,
     },
     {
-        url: "https://soundcloud.com/goldchimera/companions-8",
+        url: "https://soundcloud.com/goldchimera/009x08",
         answer: 179,
     },
     {
-        url: "https://soundcloud.com/goldchimera/friendship-and-adventure-9",
+        url: "https://soundcloud.com/goldchimera/009x09",
         answer: 180,
     },
     {
-        url: "https://soundcloud.com/goldchimera/distant-travels-10",
+        url: "https://soundcloud.com/goldchimera/009x10",
         answer: 181,
     },
     {
-        url: "https://soundcloud.com/goldchimera/inescapable-fate-11",
+        url: "https://soundcloud.com/goldchimera/009x11",
         answer: 182,
     },
     {
-        url: "https://soundcloud.com/goldchimera/dragons-gate-ii-12",
+        url: "https://soundcloud.com/goldchimera/009x12",
         answer: 183,
     },
     {
-        url: "https://soundcloud.com/goldchimera/winning-road-13",
+        url: "https://soundcloud.com/goldchimera/009x13",
         answer: 184,
     },
     {
-        url: "https://soundcloud.com/goldchimera/binding-ties-14",
+        url: "https://soundcloud.com/goldchimera/009x14",
         answer: 185,
     },
     {
-        url: "https://soundcloud.com/goldchimera/scars-of-the-scouring-15",
+        url: "https://soundcloud.com/goldchimera/009x15",
         answer: 186,
     },
     {
-        url: "https://soundcloud.com/goldchimera/raise-your-spirits-16",
+        url: "https://soundcloud.com/goldchimera/009x16",
         answer: 187,
     },
     {
-        url: "https://soundcloud.com/goldchimera/shadow-approaches-17",
+        url: "https://soundcloud.com/goldchimera/009x17",
         answer: 188,
     },
     {
-        url: "https://soundcloud.com/goldchimera/enemies-appear-18",
+        url: "https://soundcloud.com/goldchimera/009x18",
         answer: 189,
     },
     {
-        url: "https://soundcloud.com/goldchimera/the-messenger-19",
+        url: "https://soundcloud.com/goldchimera/009x19",
         answer: 190,
     },
     {
-        url: "https://soundcloud.com/goldchimera/darkness-comes-20",
+        url: "https://soundcloud.com/goldchimera/009x20",
         answer: 191,
     },
     {
-        url: "https://soundcloud.com/goldchimera/dragons-gate-i-21",
+        url: "https://soundcloud.com/goldchimera/009x21",
         answer: 192,
     },
     {
-        url: "https://soundcloud.com/goldchimera/nabatas-wandering-messenger-22",
+        url: "https://soundcloud.com/goldchimera/009x22",
         answer: 193,
     },
     {
-        url: "https://soundcloud.com/goldchimera/legendary-inheritance-23",
+        url: "https://soundcloud.com/goldchimera/009x23",
         answer: 194,
     },
     {
-        url: "https://soundcloud.com/goldchimera/raid-24",
+        url: "https://soundcloud.com/goldchimera/009x24",
         answer: 195,
     },
     {
-        url: "https://soundcloud.com/goldchimera/messenger-from-the-darkness-25",
+        url: "https://soundcloud.com/goldchimera/009x25",
         answer: 196,
     },
     {
-        url: "https://soundcloud.com/goldchimera/strike-26",
+        url: "https://soundcloud.com/goldchimera/009x26",
         answer: 197,
     },
     {
-        url: "https://soundcloud.com/goldchimera/safeguard-27",
+        url: "https://soundcloud.com/goldchimera/009x27",
         answer: 198,
     },
     {
-        url: "https://soundcloud.com/goldchimera/victory-now-28",
+        url: "https://soundcloud.com/goldchimera/009x28",
         answer: 199,
     },
     {
-        url: "https://soundcloud.com/goldchimera/rise-to-the-challenge-29",
+        url: "https://soundcloud.com/goldchimera/009x29",
         answer: 200,
     },
     {
-        url: "https://soundcloud.com/goldchimera/softly-with-grace-30",
+        url: "https://soundcloud.com/goldchimera/009x30",
         answer: 201,
     },
     {
-        url: "https://soundcloud.com/goldchimera/everything-into-the-dark-31",
+        url: "https://soundcloud.com/goldchimera/009x31",
         answer: 202,
     },
     {
-        url: "https://soundcloud.com/goldchimera/campaign-of-fire-32",
+        url: "https://soundcloud.com/goldchimera/009x32",
         answer: 203,
     },
     {
-        url: "https://soundcloud.com/goldchimera/blessing-of-the-eight-generals-i-33",
+        url: "https://soundcloud.com/goldchimera/009x33",
         answer: 204,
     },
     {
-        url: "https://soundcloud.com/goldchimera/healing-34",
+        url: "https://soundcloud.com/goldchimera/009x34",
         answer: 205,
     },
     {
-        url: "https://soundcloud.com/goldchimera/curing-35",
+        url: "https://soundcloud.com/goldchimera/009x35",
         answer: 206,
     },
     {
-        url: "https://soundcloud.com/goldchimera/receive-the-blessings-of-water-36",
+        url: "https://soundcloud.com/goldchimera/009x36",
         answer: 207,
     },
     {
-        url: "https://soundcloud.com/goldchimera/ride-the-wind-37",
+        url: "https://soundcloud.com/goldchimera/009x37",
         answer: 208,
     },
     {
-        url: "https://soundcloud.com/goldchimera/to-the-heights-38",
+        url: "https://soundcloud.com/goldchimera/009x38",
         answer: 209,
     },
     {
-        url: "https://soundcloud.com/goldchimera/an-unexpected-caller-39",
+        url: "https://soundcloud.com/goldchimera/009x39",
         answer: 210,
     },
     {
-        url: "https://soundcloud.com/goldchimera/when-the-rush-comes-40",
+        url: "https://soundcloud.com/goldchimera/009x40",
         answer: 211,
     },
     {
-        url: "https://soundcloud.com/goldchimera/land-of-swirling-sands-41",
+        url: "https://soundcloud.com/goldchimera/009x41",
         answer: 212,
     },
     {
-        url: "https://soundcloud.com/goldchimera/ships-and-homes-42",
+        url: "https://soundcloud.com/goldchimera/009x42",
         answer: 213,
     },
     {
-        url: "https://soundcloud.com/goldchimera/silent-ground-43",
+        url: "https://soundcloud.com/goldchimera/009x43",
         answer: 214,
     },
     {
-        url: "https://soundcloud.com/goldchimera/the-inn-44",
+        url: "https://soundcloud.com/goldchimera/009x44",
         answer: 215,
     },
     {
-        url: "https://soundcloud.com/goldchimera/going-my-way-45",
+        url: "https://soundcloud.com/goldchimera/009x45",
         answer: 216,
     },
     {
-        url: "https://soundcloud.com/goldchimera/together-we-ride-46",
+        url: "https://soundcloud.com/goldchimera/009x46",
         answer: 217,
     },
     {
-        url: "https://soundcloud.com/goldchimera/a-knights-oath-47",
+        url: "https://soundcloud.com/goldchimera/009x47",
         answer: 218,
     },
     {
-        url: "https://soundcloud.com/goldchimera/happiness-abounds-48",
+        url: "https://soundcloud.com/goldchimera/009x48",
         answer: 219,
     },
     {
-        url: "https://soundcloud.com/goldchimera/merlinus-49",
+        url: "https://soundcloud.com/goldchimera/009x49",
         answer: 220,
     },
     {
-        url: "https://soundcloud.com/goldchimera/final-farewell-50",
+        url: "https://soundcloud.com/goldchimera/009x50",
         answer: 221,
     },
     {
-        url: "https://soundcloud.com/goldchimera/requiem-51",
+        url: "https://soundcloud.com/goldchimera/009x51",
         answer: 222,
     },
     {
-        url: "https://soundcloud.com/goldchimera/recollection-of-a-petal-52",
+        url: "https://soundcloud.com/goldchimera/009x52",
         answer: 223,
     },
     {
-        url: "https://soundcloud.com/goldchimera/the-cogs-of-fate-53",
+        url: "https://soundcloud.com/goldchimera/009x53",
         answer: 224,
     },
     {
-        url: "https://soundcloud.com/goldchimera/the-eight-generals-54",
+        url: "https://soundcloud.com/goldchimera/009x54",
         answer: 225,
     },
     {
-        url: "https://soundcloud.com/goldchimera/the-archsage-athos-55",
+        url: "https://soundcloud.com/goldchimera/009x55",
         answer: 226,
     },
     {
-        url: "https://soundcloud.com/goldchimera/distant-utopia-56",
+        url: "https://soundcloud.com/goldchimera/009x56",
         answer: 227,
     },
     {
-        url: "https://soundcloud.com/goldchimera/what-comes-from-darkness-57",
+        url: "https://soundcloud.com/goldchimera/009x57",
         answer: 228,
     },
     {
-        url: "https://soundcloud.com/goldchimera/black-fang-58",
+        url: "https://soundcloud.com/goldchimera/009x58",
         answer: 229,
     },
     {
-        url: "https://soundcloud.com/goldchimera/calamity-bringer-nergals-theme-59",
+        url: "https://soundcloud.com/goldchimera/009x59",
         answer: 230,
     },
     {
-        url: "https://soundcloud.com/goldchimera/nergals-wrath-60",
+        url: "https://soundcloud.com/goldchimera/009x60",
         answer: 231,
     },
     {
-        url: "https://soundcloud.com/goldchimera/stratagem-61",
+        url: "https://soundcloud.com/goldchimera/009x61",
         answer: 232,
     },
     {
-        url: "https://soundcloud.com/goldchimera/the-kingdom-of-bern-62",
+        url: "https://soundcloud.com/goldchimera/009x62",
         answer: 233,
     },
     {
-        url: "https://soundcloud.com/goldchimera/bern-a-mothers-wish-63",
+        url: "https://soundcloud.com/goldchimera/009x63",
         answer: 234,
     },
     {
-        url: "https://soundcloud.com/goldchimera/shocking-truth-i-64",
+        url: "https://soundcloud.com/goldchimera/009x64",
         answer: 235,
     },
     {
-        url: "https://soundcloud.com/goldchimera/shocking-truth-ii-65",
+        url: "https://soundcloud.com/goldchimera/009x65",
         answer: 236,
     },
     {
-        url: "https://soundcloud.com/goldchimera/triumph-66",
+        url: "https://soundcloud.com/goldchimera/009x66",
         answer: 237,
     },
     {
-        url: "https://soundcloud.com/goldchimera/into-the-shadow-of-triumph-67",
+        url: "https://soundcloud.com/goldchimera/009x67",
         answer: 238,
     },
     {
-        url: "https://soundcloud.com/goldchimera/main-theme-arrangement-68",
+        url: "https://soundcloud.com/goldchimera/009x68",
         answer: 239,
     },
     {
-        url: "https://soundcloud.com/goldchimera/blessing-of-the-eight-generals-ii-69",
+        url: "https://soundcloud.com/goldchimera/009x69",
         answer: 240,
     },
     {
-        url: "https://soundcloud.com/goldchimera/girl-of-the-plains-lyns-theme-70",
+        url: "https://soundcloud.com/goldchimera/009x70",
         answer: 241,
     },
     {
-        url: "https://soundcloud.com/goldchimera/lyns-desire-71",
+        url: "https://soundcloud.com/goldchimera/009x71",
         answer: 242,
     },
     {
-        url: "https://soundcloud.com/goldchimera/light-to-tomorrow-72",
+        url: "https://soundcloud.com/goldchimera/009x72",
         answer: 243,
     },
     {
-        url: "https://soundcloud.com/goldchimera/one-heart-eliwoods-theme-73",
+        url: "https://soundcloud.com/goldchimera/009x73",
         answer: 244,
     },
     {
-        url: "https://soundcloud.com/goldchimera/eyes-of-sorrow-74",
+        url: "https://soundcloud.com/goldchimera/009x74",
         answer: 245,
     },
     {
-        url: "https://soundcloud.com/goldchimera/unshakable-faith-75",
+        url: "https://soundcloud.com/goldchimera/009x75",
         answer: 246,
     },
     {
-        url: "https://soundcloud.com/goldchimera/loyalty-hectors-theme-76",
+        url: "https://soundcloud.com/goldchimera/009x76",
         answer: 247,
     },
     {
-        url: "https://soundcloud.com/goldchimera/the-grieving-heart-77",
+        url: "https://soundcloud.com/goldchimera/009x77",
         answer: 248,
     },
     {
-        url: "https://soundcloud.com/goldchimera/reminiscence-78",
+        url: "https://soundcloud.com/goldchimera/009x78",
         answer: 249,
     },
     {
-        url: "https://soundcloud.com/goldchimera/shattered-life-79",
+        url: "https://soundcloud.com/goldchimera/009x79",
         answer: 250,
     },
     {
-        url: "https://soundcloud.com/goldchimera/anguish-80",
+        url: "https://soundcloud.com/goldchimera/009x80",
         answer: 251,
     },
     {
-        url: "https://soundcloud.com/goldchimera/respite-in-battle-81",
+        url: "https://soundcloud.com/goldchimera/009x81",
         answer: 252,
     },
     {
-        url: "https://soundcloud.com/goldchimera/prepare-to-charge-82",
+        url: "https://soundcloud.com/goldchimera/009x82",
         answer: 253,
     },
     {
-        url: "https://soundcloud.com/goldchimera/armory-83",
+        url: "https://soundcloud.com/goldchimera/009x83",
         answer: 254,
     },
     {
-        url: "https://soundcloud.com/goldchimera/shop-84",
+        url: "https://soundcloud.com/goldchimera/009x84",
         answer: 255,
     },
     {
-        url: "https://soundcloud.com/goldchimera/fortune-telling-85",
+        url: "https://soundcloud.com/goldchimera/009x85",
         answer: 256,
     },
     {
-        url: "https://soundcloud.com/goldchimera/arena-entrance-86",
+        url: "https://soundcloud.com/goldchimera/009x86",
         answer: 257,
     },
     {
-        url: "https://soundcloud.com/goldchimera/arena-battle-87",
+        url: "https://soundcloud.com/goldchimera/009x87",
         answer: 258,
     },
     {
-        url: "https://soundcloud.com/goldchimera/arena-tactics-88",
+        url: "https://soundcloud.com/goldchimera/009x88",
         answer: 259,
     },
     {
-        url: "https://soundcloud.com/goldchimera/within-sadness-89",
+        url: "https://soundcloud.com/goldchimera/009x89",
         answer: 260,
     },
     {
-        url: "https://soundcloud.com/goldchimera/game-over-90",
+        url: "https://soundcloud.com/goldchimera/009x90",
         answer: 261,
     },
     {
-        url: "https://soundcloud.com/goldchimera/legend-of-athos-91",
+        url: "https://soundcloud.com/goldchimera/009x91",
         answer: 262,
     },
     {
-        url: "https://soundcloud.com/goldchimera/results-92",
+        url: "https://soundcloud.com/goldchimera/009x92",
         answer: 263,
     },
     {
-        url: "https://soundcloud.com/goldchimera/treasured-hope-93",
+        url: "https://soundcloud.com/goldchimera/009x93",
         answer: 264,
     },
     {
-        url: "https://soundcloud.com/goldchimera/beneath-a-new-light-94",
+        url: "https://soundcloud.com/goldchimera/009x94",
         answer: 265,
     },
     {
-        url: "https://soundcloud.com/goldchimera/the-path-to-greatness-95",
+        url: "https://soundcloud.com/goldchimera/009x95",
         answer: 266,
     },
     {
-        url: "https://soundcloud.com/goldchimera/in-the-name-of-bern-96",
+        url: "https://soundcloud.com/goldchimera/009x96",
         answer: 267,
     },
     {
-        url: "https://soundcloud.com/goldchimera/avoided-fate-97",
+        url: "https://soundcloud.com/goldchimera/009x97",
         answer: 268,
     },
     {
-        url: "https://soundcloud.com/goldchimera/legend-of-the-dragon-god-from-fire-emblem-mystery-of-the-emblem-98",
+        url: "https://soundcloud.com/goldchimera/009x98",
         answer: 269,
     },
     {
-        url: "https://soundcloud.com/goldchimera/royal-palace-of-silesse-from-fire-emblem-genealogy-of-the-holy-war-99",
+        url: "https://soundcloud.com/goldchimera/009x99",
         answer: 270,
     },
     {
-        url: "https://soundcloud.com/goldchimera/d754cc1f-36b6-413d-a70d-cbf708c37bdf",
+        url: "https://soundcloud.com/goldchimera/010x01",
         answer: 271,
     },
     {
-        url: "https://soundcloud.com/goldchimera/file-select-2",
+        url: "https://soundcloud.com/goldchimera/010x02",
         answer: 272,
     },
     {
-        url: "https://soundcloud.com/goldchimera/prologue-3",
+        url: "https://soundcloud.com/goldchimera/010x03",
         answer: 273,
     },
     {
-        url: "https://soundcloud.com/goldchimera/pirate-frigate-4",
+        url: "https://soundcloud.com/goldchimera/010x04",
         answer: 274,
     },
     {
-        url: "https://soundcloud.com/goldchimera/parasite-queen-battle-5",
+        url: "https://soundcloud.com/goldchimera/010x05",
         answer: 275,
     },
     {
-        url: "https://soundcloud.com/goldchimera/pirate-frigate-escape-6",
+        url: "https://soundcloud.com/goldchimera/010x06",
         answer: 276,
     },
     {
-        url: "https://soundcloud.com/goldchimera/tallon-overworld-7",
+        url: "https://soundcloud.com/goldchimera/010x07",
         answer: 277,
     },
     {
-        url: "https://soundcloud.com/goldchimera/timeworn-chozo-remnants-8",
+        url: "https://soundcloud.com/goldchimera/010x08",
         answer: 278,
     },
     {
-        url: "https://soundcloud.com/goldchimera/hive-mecha-battle-9",
+        url: "https://soundcloud.com/goldchimera/010x09",
         answer: 279,
     },
     {
-        url: "https://soundcloud.com/goldchimera/plated-beetle-battle-10",
+        url: "https://soundcloud.com/goldchimera/010x10",
         answer: 280,
     },
     {
-        url: "https://soundcloud.com/goldchimera/chozo-ruins-11",
+        url: "https://soundcloud.com/goldchimera/010x11",
         answer: 281,
     },
     {
-        url: "https://soundcloud.com/goldchimera/flaahgra-battle-12",
+        url: "https://soundcloud.com/goldchimera/010x12",
         answer: 282,
     },
     {
-        url: "https://soundcloud.com/goldchimera/magmoor-caverns-13",
+        url: "https://soundcloud.com/goldchimera/010x13",
         answer: 283,
     },
     {
-        url: "https://soundcloud.com/goldchimera/phendrana-drifts-14",
+        url: "https://soundcloud.com/goldchimera/010x14",
         answer: 284,
     },
     {
-        url: "https://soundcloud.com/goldchimera/chapel-of-the-elders-15",
+        url: "https://soundcloud.com/goldchimera/010x15",
         answer: 285,
     },
     {
-        url: "https://soundcloud.com/goldchimera/space-pirates-specimen-storage-16",
+        url: "https://soundcloud.com/goldchimera/010x16",
         answer: 286,
     },
     {
-        url: "https://soundcloud.com/goldchimera/space-pirates-battle-17",
+        url: "https://soundcloud.com/goldchimera/010x17",
         answer: 287,
     },
     {
-        url: "https://soundcloud.com/goldchimera/thardus-battle-18",
+        url: "https://soundcloud.com/goldchimera/010x18",
         answer: 288,
     },
     {
-        url: "https://soundcloud.com/goldchimera/tallon-overworld-revisited-19",
+        url: "https://soundcloud.com/goldchimera/010x19",
         answer: 289,
     },
     {
-        url: "https://soundcloud.com/goldchimera/hall-of-the-chozo-elders-20",
+        url: "https://soundcloud.com/goldchimera/010x20",
         answer: 290,
     },
     {
-        url: "https://soundcloud.com/goldchimera/chozo-ghosts-battle-21",
+        url: "https://soundcloud.com/goldchimera/010x21",
         answer: 291,
     },
     {
-        url: "https://soundcloud.com/goldchimera/phendrana-battle-22",
+        url: "https://soundcloud.com/goldchimera/010x22",
         answer: 292,
     },
     {
-        url: "https://soundcloud.com/goldchimera/crashed-ship-23",
+        url: "https://soundcloud.com/goldchimera/010x23",
         answer: 293,
     },
     {
-        url: "https://soundcloud.com/goldchimera/phazon-mines-24",
+        url: "https://soundcloud.com/goldchimera/010x24",
         answer: 294,
     },
     {
-        url: "https://soundcloud.com/goldchimera/omega-pirate-battle-25",
+        url: "https://soundcloud.com/goldchimera/010x25",
         answer: 295,
     },
     {
-        url: "https://soundcloud.com/goldchimera/chozo-shrine-26",
+        url: "https://soundcloud.com/goldchimera/010x26",
         answer: 296,
     },
     {
-        url: "https://soundcloud.com/goldchimera/meta-ridley-battle-27",
+        url: "https://soundcloud.com/goldchimera/010x27",
         answer: 297,
     },
     {
-        url: "https://soundcloud.com/goldchimera/chozo-shrine-unsealed-28",
+        url: "https://soundcloud.com/goldchimera/010x28",
         answer: 298,
     },
     {
-        url: "https://soundcloud.com/goldchimera/metroid-prime-battle-29",
+        url: "https://soundcloud.com/goldchimera/010x29",
         answer: 299,
     },
     {
-        url: "https://soundcloud.com/goldchimera/metroid-prime-core-battle-30",
+        url: "https://soundcloud.com/goldchimera/010x30",
         answer: 300,
     },
     {
-        url: "https://soundcloud.com/goldchimera/shrine-collapse-epilogue-31",
+        url: "https://soundcloud.com/goldchimera/010x31",
         answer: 301,
     },
     {
-        url: "https://soundcloud.com/goldchimera/credits-32",
+        url: "https://soundcloud.com/goldchimera/010x32",
         answer: 302,
     },
     {
-        url: "https://soundcloud.com/goldchimera/samuss-record-33",
+        url: "https://soundcloud.com/goldchimera/010x33",
         answer: 303,
     },
     {
-        url: "https://soundcloud.com/goldchimera/nintendogs-1",
+        url: "https://soundcloud.com/goldchimera/011x01",
         answer: 304,
     },
     {
-        url: "https://soundcloud.com/goldchimera/shop-kennel-2",
+        url: "https://soundcloud.com/goldchimera/011x02",
         answer: 305,
     },
     {
-        url: "https://soundcloud.com/goldchimera/reading-3",
+        url: "https://soundcloud.com/goldchimera/011x03",
         answer: 306,
     },
     {
-        url: "https://soundcloud.com/goldchimera/walking-4",
+        url: "https://soundcloud.com/goldchimera/011x04",
         answer: 307,
     },
     {
-        url: "https://soundcloud.com/goldchimera/walking-other-dog-encounter-curious-5",
+        url: "https://soundcloud.com/goldchimera/011x05",
         answer: 308,
     },
     {
-        url: "https://soundcloud.com/goldchimera/walking-other-dog-encounter-great-mood-6",
+        url: "https://soundcloud.com/goldchimera/011x06",
         answer: 309,
     },
     {
-        url: "https://soundcloud.com/goldchimera/walking-other-dog-encounter-friendly-7",
+        url: "https://soundcloud.com/goldchimera/011x07",
         answer: 310,
     },
     {
-        url: "https://soundcloud.com/goldchimera/walking-other-dog-encounter-slight-dislike-8",
+        url: "https://soundcloud.com/goldchimera/011x08",
         answer: 311,
     },
     {
-        url: "https://soundcloud.com/goldchimera/walking-other-dog-encounter-unfriendly-9",
+        url: "https://soundcloud.com/goldchimera/011x09",
         answer: 312,
     },
     {
-        url: "https://soundcloud.com/goldchimera/agility-trials-10",
+        url: "https://soundcloud.com/goldchimera/011x10",
         answer: 313,
     },
     {
-        url: "https://soundcloud.com/goldchimera/bathing-11",
+        url: "https://soundcloud.com/goldchimera/011x11",
         answer: 314,
     },
     {
-        url: "https://soundcloud.com/goldchimera/dog-show-judges-commentary-12",
+        url: "https://soundcloud.com/goldchimera/011x12",
         answer: 315,
     },
     {
-        url: "https://soundcloud.com/goldchimera/dog-show-beginner-13",
+        url: "https://soundcloud.com/goldchimera/011x13",
         answer: 316,
     },
     {
-        url: "https://soundcloud.com/goldchimera/dog-show-expert-14",
+        url: "https://soundcloud.com/goldchimera/011x14",
         answer: 317,
     },
     {
-        url: "https://soundcloud.com/goldchimera/dog-show-championship-15",
+        url: "https://soundcloud.com/goldchimera/011x15",
         answer: 318,
     },
     {
-        url: "https://soundcloud.com/goldchimera/toy-mario-kart-16",
+        url: "https://soundcloud.com/goldchimera/011x16",
         answer: 319,
     },
     {
-        url: "https://soundcloud.com/goldchimera/toy-bowser-kart-17",
+        url: "https://soundcloud.com/goldchimera/011x17",
         answer: 320,
     },
     {
-        url: "https://soundcloud.com/goldchimera/toy-peach-kart-18",
+        url: "https://soundcloud.com/goldchimera/011x18",
         answer: 321,
     },
     {
-        url: "https://soundcloud.com/goldchimera/toy-combat-copter-19",
+        url: "https://soundcloud.com/goldchimera/011x19",
         answer: 322,
     },
     {
-        url: "https://soundcloud.com/goldchimera/music-box-nintendogs-20",
+        url: "https://soundcloud.com/goldchimera/011x20",
         answer: 323,
     },
     {
-        url: "https://soundcloud.com/goldchimera/music-box-marios-theme-21",
+        url: "https://soundcloud.com/goldchimera/011x21",
         answer: 324,
     },
     {
-        url: "https://soundcloud.com/goldchimera/music-box-puppy-waltz-22",
+        url: "https://soundcloud.com/goldchimera/011x22",
         answer: 325,
     },
     {
-        url: "https://soundcloud.com/goldchimera/record-street-marker-23",
+        url: "https://soundcloud.com/goldchimera/011x23",
         answer: 326,
     },
     {
-        url: "https://soundcloud.com/goldchimera/record-growler-24",
+        url: "https://soundcloud.com/goldchimera/011x24",
         answer: 327,
     },
     {
-        url: "https://soundcloud.com/goldchimera/record-smilin-dog-25",
+        url: "https://soundcloud.com/goldchimera/011x25",
         answer: 328,
     },
     {
-        url: "https://soundcloud.com/goldchimera/record-friendly-whiff-26",
+        url: "https://soundcloud.com/goldchimera/011x26",
         answer: 329,
     },
     {
-        url: "https://soundcloud.com/goldchimera/record-chow-27",
+        url: "https://soundcloud.com/goldchimera/011x27",
         answer: 330,
     },
     {
-        url: "https://soundcloud.com/goldchimera/record-suprise-28",
+        url: "https://soundcloud.com/goldchimera/011x28",
         answer: 331,
     },
     {
-        url: "https://soundcloud.com/goldchimera/record-naptime-29",
+        url: "https://soundcloud.com/goldchimera/011x29",
         answer: 332,
     },
     {
-        url: "https://soundcloud.com/goldchimera/record-colonel-bogey-30",
+        url: "https://soundcloud.com/goldchimera/011x30",
         answer: 333,
     },
     {
-        url: "https://soundcloud.com/goldchimera/record-toreador-31",
+        url: "https://soundcloud.com/goldchimera/011x31",
         answer: 334,
     },
     {
-        url: "https://soundcloud.com/goldchimera/record-flower-waltz-32",
+        url: "https://soundcloud.com/goldchimera/011x32",
         answer: 335,
     },
     {
-        url: "https://soundcloud.com/goldchimera/record-nintendogs-33",
+        url: "https://soundcloud.com/goldchimera/011x33",
         answer: 336,
     },
     {
-        url: "https://soundcloud.com/goldchimera/record-waves-34",
+        url: "https://soundcloud.com/goldchimera/011x34",
         answer: 337,
     },
     {
-        url: "https://soundcloud.com/goldchimera/record-modest-decor-35",
+        url: "https://soundcloud.com/goldchimera/011x35",
         answer: 338,
     },
     {
-        url: "https://soundcloud.com/goldchimera/record-shedded-fur-36",
+        url: "https://soundcloud.com/goldchimera/011x36",
         answer: 339,
     },
     {
-        url: "https://soundcloud.com/goldchimera/record-giant-socks-37",
+        url: "https://soundcloud.com/goldchimera/011x37",
         answer: 340,
     },
     {
-        url: "https://soundcloud.com/goldchimera/record-nintendogs-demo-version-38",
+        url: "https://soundcloud.com/goldchimera/011x38",
         answer: 341,
     },
     {
-        url: "https://soundcloud.com/goldchimera/making-a-friend-1",
+        url: "https://soundcloud.com/goldchimera/012x01",
         answer: 342,
     },
     {
-        url: "https://soundcloud.com/goldchimera/apartment-hangout-2",
+        url: "https://soundcloud.com/goldchimera/012x01",
         answer: 343,
     },
     {
-        url: "https://soundcloud.com/goldchimera/afternoon-on-the-island-3",
+        url: "https://soundcloud.com/goldchimera/012x01",
         answer: 344,
     },
     {
-        url: "https://soundcloud.com/goldchimera/nighttime-on-the-island-4",
+        url: "https://soundcloud.com/goldchimera/012x01",
         answer: 345,
     },
     {
-        url: "https://soundcloud.com/goldchimera/news-flash-5",
+        url: "https://soundcloud.com/goldchimera/012x01",
         answer: 346,
     },
     {
-        url: "https://soundcloud.com/goldchimera/mii-news-report-6",
+        url: "https://soundcloud.com/goldchimera/012x01",
         answer: 347,
     },
     {
-        url: "https://soundcloud.com/goldchimera/food-mart-7",
+        url: "https://soundcloud.com/goldchimera/012x01",
         answer: 348,
     },
     {
-        url: "https://soundcloud.com/goldchimera/clothing-shop-8",
+        url: "https://soundcloud.com/goldchimera/012x01",
         answer: 349,
     },
     {
-        url: "https://soundcloud.com/goldchimera/interiors-shop-9",
+        url: "https://soundcloud.com/goldchimera/012x01",
         answer: 350,
     },
     {
