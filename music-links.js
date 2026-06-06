@@ -1372,395 +1372,395 @@ var musicListWithLinks = [
         answer: 342,
     },
     {
-        url: "https://soundcloud.com/goldchimera/012x01",
+        url: "https://soundcloud.com/goldchimera/012x02",
         answer: 343,
     },
     {
-        url: "https://soundcloud.com/goldchimera/012x01",
+        url: "https://soundcloud.com/goldchimera/012x03",
         answer: 344,
     },
     {
-        url: "https://soundcloud.com/goldchimera/012x01",
+        url: "https://soundcloud.com/goldchimera/012x04",
         answer: 345,
     },
     {
-        url: "https://soundcloud.com/goldchimera/012x01",
+        url: "https://soundcloud.com/goldchimera/012x05",
         answer: 346,
     },
     {
-        url: "https://soundcloud.com/goldchimera/012x01",
+        url: "https://soundcloud.com/goldchimera/012x06",
         answer: 347,
     },
     {
-        url: "https://soundcloud.com/goldchimera/012x01",
+        url: "https://soundcloud.com/goldchimera/012x07",
         answer: 348,
     },
     {
-        url: "https://soundcloud.com/goldchimera/012x01",
+        url: "https://soundcloud.com/goldchimera/012x08",
         answer: 349,
     },
     {
-        url: "https://soundcloud.com/goldchimera/012x01",
+        url: "https://soundcloud.com/goldchimera/012x09",
         answer: 350,
     },
     {
-        url: "https://soundcloud.com/goldchimera/majority-rule-10",
+        url: "https://soundcloud.com/goldchimera/012x10",
         answer: 351,
     },
     {
-        url: "https://soundcloud.com/goldchimera/compatibility-tester-11",
+        url: "https://soundcloud.com/goldchimera/012x11",
         answer: 352,
     },
     {
-        url: "https://soundcloud.com/goldchimera/career-counselor-12",
+        url: "https://soundcloud.com/goldchimera/012x12",
         answer: 353,
     },
     {
-        url: "https://soundcloud.com/goldchimera/qa-13",
+        url: "https://soundcloud.com/goldchimera/012x13",
         answer: 354,
     },
     {
-        url: "https://soundcloud.com/goldchimera/lets-play-a-game-14",
+        url: "https://soundcloud.com/goldchimera/012x14",
         answer: 355,
     },
     {
-        url: "https://soundcloud.com/goldchimera/ballad-the-past-50-years-15",
+        url: "https://soundcloud.com/goldchimera/012x15",
         answer: 356,
     },
     {
-        url: "https://soundcloud.com/goldchimera/rap-hot-track-16",
+        url: "https://soundcloud.com/goldchimera/012x16",
         answer: 357,
     },
     {
-        url: "https://soundcloud.com/goldchimera/mood-music-rain-soaked-streets-17",
+        url: "https://soundcloud.com/goldchimera/012x17",
         answer: 358,
     },
     {
-        url: "https://soundcloud.com/goldchimera/j-pop-to-a-new-future-18",
+        url: "https://soundcloud.com/goldchimera/012x18",
         answer: 359,
     },
     {
-        url: "https://soundcloud.com/goldchimera/metal-unremitted-desire-19",
+        url: "https://soundcloud.com/goldchimera/012x19",
         answer: 360,
     },
     {
-        url: "https://soundcloud.com/goldchimera/pop-flitter-flutter-days-20",
+        url: "https://soundcloud.com/goldchimera/012x20",
         answer: 361,
     },
     {
-        url: "https://soundcloud.com/goldchimera/pent-up-passion-21",
+        url: "https://soundcloud.com/goldchimera/012x21",
         answer: 362,
     },
     {
-        url: "https://soundcloud.com/goldchimera/stewing-in-rejection-22",
+        url: "https://soundcloud.com/goldchimera/012x22",
         answer: 363,
     },
     {
-        url: "https://soundcloud.com/goldchimera/married-no-more-23",
+        url: "https://soundcloud.com/goldchimera/012x23",
         answer: 364,
     },
     {
-        url: "https://soundcloud.com/goldchimera/separating-with-a-sweetheart-24",
+        url: "https://soundcloud.com/goldchimera/012x24",
         answer: 365,
     },
     {
-        url: "https://soundcloud.com/goldchimera/town-hall-25",
+        url: "https://soundcloud.com/goldchimera/012x25",
         answer: 366,
     },
     {
-        url: "https://soundcloud.com/goldchimera/save-screen-26",
+        url: "https://soundcloud.com/goldchimera/012x26",
         answer: 367,
     },
     {
-        url: "https://soundcloud.com/goldchimera/music-box-making-a-friend-27",
+        url: "https://soundcloud.com/goldchimera/012x27",
         answer: 368,
     },
     {
-        url: "https://soundcloud.com/goldchimera/music-box-afternoon-on-the-island-28",
+        url: "https://soundcloud.com/goldchimera/012x28",
         answer: 369,
     },
     {
-        url: "https://soundcloud.com/goldchimera/music-box-food-mart-29",
+        url: "https://soundcloud.com/goldchimera/012x29",
         answer: 370,
     },
     {
-        url: "https://soundcloud.com/goldchimera/music-box-compatibility-tester-30",
+        url: "https://soundcloud.com/goldchimera/012x30",
         answer: 371,
     },
     {
-        url: "https://soundcloud.com/goldchimera/music-box-mii-news-report-31",
+        url: "https://soundcloud.com/goldchimera/012x31",
         answer: 372,
     },
     {
-        url: "https://soundcloud.com/goldchimera/music-box-career-counselor-32",
+        url: "https://soundcloud.com/goldchimera/012x32",
         answer: 373,
     },
     {
-        url: "https://soundcloud.com/goldchimera/street-band-cheerful-tango-33",
+        url: "https://soundcloud.com/goldchimera/012x33",
         answer: 374,
     },
     {
-        url: "https://soundcloud.com/goldchimera/street-band-jaunty-allegro-34",
+        url: "https://soundcloud.com/goldchimera/012x34",
         answer: 375,
     },
     {
-        url: "https://soundcloud.com/goldchimera/street-band-joyful-waltz-35",
+        url: "https://soundcloud.com/goldchimera/012x35",
         answer: 376,
     },
     {
-        url: "https://soundcloud.com/goldchimera/street-band-refreshing-bossa-nova-36",
+        url: "https://soundcloud.com/goldchimera/012x36",
         answer: 377,
     },
     {
-        url: "https://soundcloud.com/goldchimera/street-band-heartwarming-folk-dance-37",
+        url: "https://soundcloud.com/goldchimera/012x37",
         answer: 378,
     },
     {
-        url: "https://soundcloud.com/goldchimera/street-band-somber-waltz-38",
+        url: "https://soundcloud.com/goldchimera/012x38",
         answer: 379,
     },
     {
-        url: "https://soundcloud.com/goldchimera/vacation-okinawa-39",
+        url: "https://soundcloud.com/goldchimera/012x39",
         answer: 380,
     },
     {
-        url: "https://soundcloud.com/goldchimera/vacation-hawaii-40",
+        url: "https://soundcloud.com/goldchimera/012x40",
         answer: 381,
     },
     {
-        url: "https://soundcloud.com/goldchimera/vacation-hong-kongshanghai-41",
+        url: "https://soundcloud.com/goldchimera/012x41",
         answer: 382,
     },
     {
-        url: "https://soundcloud.com/goldchimera/vacation-thailand-42",
+        url: "https://soundcloud.com/goldchimera/012x42",
         answer: 383,
     },
     {
-        url: "https://soundcloud.com/goldchimera/vacation-italy-43",
+        url: "https://soundcloud.com/goldchimera/012x43",
         answer: 384,
     },
     {
-        url: "https://soundcloud.com/goldchimera/vacation-france-44",
+        url: "https://soundcloud.com/goldchimera/012x44",
         answer: 385,
     },
     {
-        url: "https://soundcloud.com/goldchimera/vacation-spain-45",
+        url: "https://soundcloud.com/goldchimera/012x45",
         answer: 386,
     },
     {
-        url: "https://soundcloud.com/goldchimera/vacation-kyoto-46",
+        url: "https://soundcloud.com/goldchimera/012x46",
         answer: 387,
     },
     {
-        url: "https://soundcloud.com/goldchimera/tying-the-knot-47",
+        url: "https://soundcloud.com/goldchimera/012x47",
         answer: 388,
     },
     {
-        url: "https://soundcloud.com/goldchimera/staff-credits-48",
+        url: "https://soundcloud.com/goldchimera/012x48",
         answer: 389,
     },
     {
-        url: "https://soundcloud.com/goldchimera/wii-menu-1",
+        url: "https://soundcloud.com/goldchimera/013x01",
         answer: 390,
     },
     {
-        url: "https://soundcloud.com/goldchimera/mii-plaza-mii-channel-2",
+        url: "https://soundcloud.com/goldchimera/013x02",
         answer: 391,
     },
     {
-        url: "https://soundcloud.com/goldchimera/mii-parade-walking-mii-channel-3",
+        url: "https://soundcloud.com/goldchimera/013x04",
         answer: 392,
     },
     {
-        url: "https://soundcloud.com/goldchimera/mii-parade-running-mii-channel-4",
+        url: "https://soundcloud.com/goldchimera/013x05",
         answer: 393,
     },
     {
-        url: "https://soundcloud.com/goldchimera/selecting-photos-photo-channel-5",
+        url: "https://soundcloud.com/goldchimera/013x06",
         answer: 394,
     },
     {
-        url: "https://soundcloud.com/goldchimera/digital-camera-cell-phone-photo-channel-6",
+        url: "https://soundcloud.com/goldchimera/013x07",
         answer: 395,
     },
     {
-        url: "https://soundcloud.com/goldchimera/view-wii-message-board-photos-photo-channel-7",
+        url: "https://soundcloud.com/goldchimera/013x08",
         answer: 396,
     },
     {
-        url: "https://soundcloud.com/goldchimera/slide-show-calm-photo-channel-8",
+        url: "https://soundcloud.com/goldchimera/013x09",
         answer: 397,
     },
     {
-        url: "https://soundcloud.com/goldchimera/slide-show-fun-photo-channel-9",
+        url: "https://soundcloud.com/goldchimera/013x10",
         answer: 398,
     },
     {
-        url: "https://soundcloud.com/goldchimera/slide-show-bright-photo-channel-10",
+        url: "https://soundcloud.com/goldchimera/013x11",
         answer: 399,
     },
     {
-        url: "https://soundcloud.com/goldchimera/slide-show-nostalgic-photo-channel-11",
+        url: "https://soundcloud.com/goldchimera/013x12",
         answer: 300,
     },
     {
-        url: "https://soundcloud.com/goldchimera/slide-show-beautiful-photo-channel-12",
+        url: "https://soundcloud.com/goldchimera/013x13",
         answer: 401,
     },
     {
-        url: "https://soundcloud.com/goldchimera/slide-show-scenic-photo-channel-13",
+        url: "https://soundcloud.com/goldchimera/013x14",
         answer: 402,
     },
     {
-        url: "https://soundcloud.com/goldchimera/doodle-photo-channel-14",
+        url: "https://soundcloud.com/goldchimera/013x15",
         answer: 403,
     },
     {
-        url: "https://soundcloud.com/goldchimera/puzzle-menu-photo-channel-15",
+        url: "https://soundcloud.com/goldchimera/013x16",
         answer: 404,
     },
     {
-        url: "https://soundcloud.com/goldchimera/puzzle-first-time-playing-photo-channel-16",
+        url: "https://soundcloud.com/goldchimera/013x17",
         answer: 405,
     },
     {
-        url: "https://soundcloud.com/goldchimera/puzzle-photo-channel-17",
+        url: "https://soundcloud.com/goldchimera/013x18",
         answer: 406,
     },
     {
-        url: "https://soundcloud.com/goldchimera/post-photo-channel-18",
+        url: "https://soundcloud.com/goldchimera/013x19",
         answer: 407,
     },
     {
-        url: "https://soundcloud.com/goldchimera/launch-screen-wii-shop-channel-19",
+        url: "https://soundcloud.com/goldchimera/013x20",
         answer: 408,
     },
     {
-        url: "https://soundcloud.com/goldchimera/main-theme-wii-shop-channel-20",
+        url: "https://soundcloud.com/goldchimera/013x21",
         answer: 409,
     },
     {
-        url: "https://soundcloud.com/goldchimera/one-moment-please-forecast-channel-21",
+        url: "https://soundcloud.com/goldchimera/013x22",
         answer: 410,
     },
     {
-        url: "https://soundcloud.com/goldchimera/forecast-daytime-forecast-channel-22",
+        url: "https://soundcloud.com/goldchimera/013x23",
         answer: 411,
     },
     {
-        url: "https://soundcloud.com/goldchimera/globe-daytime-forecast-channel-23",
+        url: "https://soundcloud.com/goldchimera/013x24",
         answer: 412,
     },
     {
-        url: "https://soundcloud.com/goldchimera/globe-daytime-forecast-forecast-channel-24",
+        url: "https://soundcloud.com/goldchimera/013x25",
         answer: 413,
     },
     {
-        url: "https://soundcloud.com/goldchimera/forecast-nighttime-forecast-channel-25",
+        url: "https://soundcloud.com/goldchimera/013x26",
         answer: 414,
     },
     {
-        url: "https://soundcloud.com/goldchimera/globe-nighttime-forecast-channel-26",
+        url: "https://soundcloud.com/goldchimera/013x27",
         answer: 415,
     },
     {
-        url: "https://soundcloud.com/goldchimera/globe-nighttime-forecast-forecast-channel-27",
+        url: "https://soundcloud.com/goldchimera/013x28",
         answer: 416,
     },
     {
-        url: "https://soundcloud.com/goldchimera/settings-forecast-channel-28",
+        url: "https://soundcloud.com/goldchimera/013x29",
         answer: 417,
     },
     {
-        url: "https://soundcloud.com/goldchimera/one-moment-please-news-channel-29",
+        url: "https://soundcloud.com/goldchimera/013x30",
         answer: 418,
     },
     {
-        url: "https://soundcloud.com/goldchimera/menu-news-channel-30",
+        url: "https://soundcloud.com/goldchimera/013x31",
         answer: 419,
     },
     {
-        url: "https://soundcloud.com/goldchimera/checking-the-news-daytime-news-channel-31",
+        url: "https://soundcloud.com/goldchimera/013x32",
         answer: 420,
     },
     {
-        url: "https://soundcloud.com/goldchimera/checking-the-news-nighttime-news-channel-32",
+        url: "https://soundcloud.com/goldchimera/013x33",
         answer: 421,
     },
     {
-        url: "https://soundcloud.com/goldchimera/globe-news-channel-33",
+        url: "https://soundcloud.com/goldchimera/013x34",
         answer: 422,
     },
     {
-        url: "https://soundcloud.com/goldchimera/menu-everybody-votes-channel-34",
+        url: "https://soundcloud.com/goldchimera/013x35",
         answer: 423,
     },
     {
-        url: "https://soundcloud.com/goldchimera/poll-screen-everybody-votes-channel-35",
+        url: "https://soundcloud.com/goldchimera/013x36",
         answer: 424,
     },
     {
-        url: "https://soundcloud.com/goldchimera/results-everybody-votes-channel-36",
+        url: "https://soundcloud.com/goldchimera/013x37",
         answer: 425,
     },
     {
-        url: "https://soundcloud.com/goldchimera/voter-data-everybody-votes-channel-37",
+        url: "https://soundcloud.com/goldchimera/013x38",
         answer: 426,
     },
     {
-        url: "https://soundcloud.com/goldchimera/suggest-a-question-everybody-votes-channel-38",
+        url: "https://soundcloud.com/goldchimera/013x39",
         answer: 427,
     },
     {
-        url: "https://soundcloud.com/goldchimera/launch-screen-check-mii-out-channel-39",
+        url: "https://soundcloud.com/goldchimera/013x40",
         answer: 428,
     },
     {
-        url: "https://soundcloud.com/goldchimera/menu-check-mii-out-channel-40",
+        url: "https://soundcloud.com/goldchimera/013x41",
         answer: 429,
     },
     {
-        url: "https://soundcloud.com/goldchimera/posting-plaza-check-mii-out-channel-41",
+        url: "https://soundcloud.com/goldchimera/013x43",
         answer: 430,
     },
     {
-        url: "https://soundcloud.com/goldchimera/posting-plaza-checking-a-mii-out-check-mii-out-channel-42",
+        url: "https://soundcloud.com/goldchimera/013x44",
         answer: 431,
     },
     {
-        url: "https://soundcloud.com/goldchimera/import-check-mii-out-channel-43",
+        url: "https://soundcloud.com/goldchimera/013x45",
         answer: 432,
     },
     {
-        url: "https://soundcloud.com/goldchimera/call-friends-check-mii-out-channel-44",
+        url: "https://soundcloud.com/goldchimera/013x46",
         answer: 433,
     },
     {
-        url: "https://soundcloud.com/goldchimera/parade-check-mii-out-channel-45",
+        url: "https://soundcloud.com/goldchimera/013x47",
         answer: 434,
     },
     {
-        url: "https://soundcloud.com/goldchimera/parade-checking-a-mii-out-check-mii-out-channel-46",
+        url: "https://soundcloud.com/goldchimera/013x48",
         answer: 435,
     },
     {
-        url: "https://soundcloud.com/goldchimera/mii-plaza-check-mii-out-channel-47",
+        url: "https://soundcloud.com/goldchimera/013x49",
         answer: 436,
     },
     {
-        url: "https://soundcloud.com/goldchimera/contests-check-mii-out-channel-48",
+        url: "https://soundcloud.com/goldchimera/013x50",
         answer: 437,
     },
     {
-        url: "https://soundcloud.com/goldchimera/contest-results-check-mii-out-channel-49",
+        url: "https://soundcloud.com/goldchimera/013x51",
         answer: 438,
     },
     {
-        url: "https://soundcloud.com/goldchimera/announcing-the-contest-winner-check-mii-out-channel-50",
+        url: "https://soundcloud.com/goldchimera/013x52",
         answer: 439,
     },
     {
-        url: "https://soundcloud.com/goldchimera/contest-mii-ranking-presentation-check-mii-out-channel-51",
+        url: "https://soundcloud.com/goldchimera/013x53",
         answer: 440,
     },
 ];
