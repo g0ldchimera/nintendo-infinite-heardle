@@ -75,62 +75,62 @@ var musicNameList = [
     {
         id: 11,
         name: "Title Screen - Metroid",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks", "Selects"],
-        franchise: "Metroid"
     },
     {
         id: 12,
         name: "Brinstar (Rocky Zone) - Metroid",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks", "Selects"],
-        franchise: "Metroid"
     },
     {
         id: 13,
         name: "Miniboss Hideout I: Kraid - Metroid",
-        tags: ["All", "Top Tracks", "Selects"],.
-        franchise: "Metroid"
+        franchise: "Metroid",
+        tags: ["All", "Top Tracks", "Selects"],
     },
     {
         id: 14,
         name: "Norfair (Fire Zone) - Metroid",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks", "Selects"],
-        franchise: "Metroid"
     },
     {
         id: 15,
         name: "Miniboss Hideout II: Ridley - Metroid",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 16,
         name: "Stillness - Metroid",
+        franchise: "Metroid",
         tags: ["All"],
-        franchise: "Metroid"
     },
     {
         id: 17,
         name: "Tourian (Central Base) - Metroid",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 18,
         name: "Zebetite - Metroid",
+        franchise: "Metroid",
         tags: ["All"],
-        franchise: "Metroid"
     },
     {
         id: 19,
         name: "Escape - Metroid",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 20,
         name: "Ending - Metroid",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     
     //// Dr. Mario (Game Boy)
@@ -904,200 +904,200 @@ var musicNameList = [
     {
         id: 271,
         name: "Title Theme - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All"],
-        franchise: "Metroid"
     },
     {
         id: 272,
         name: "File Select - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks", "Selects"],
-        franchise: "Metroid"
     },
     {
         id: 273,
         name: "Prologue - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 274,
         name: "Pirate Frigate - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 275,
         name: "Parasite Queen Battle - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 276,
         name: "Pirate Frigate Escape - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All"],
-        franchise: "Metroid"
     },
     {
         id: 277,
         name: "Tallon Overworld - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks", "Selects"],
-        franchise: "Metroid"
     },
     {
         id: 278,
         name: "Timeworn Chozo Remnants - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 279,
         name: "Hive Mecha Battle - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 280,
         name: "Plated Beetle Battle - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 281,
         name: "Chozo Ruins - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 282,
         name: "Flaahgra Battle - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 283,
         name: "Magmoor Caverns - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 284,
         name: "Phendrana Drifts - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 285,
         name: "Chapel of the Elders - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All"],
-        franchise: "Metroid"
     },
     {
         id: 286,
         name: "Space Pirates (Specimen Storage) - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All"],
-        franchise: "Metroid"
     },
     {
         id: 287,
         name: "Space Pirates Battle - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 288,
         name: "Thardus Battle - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 289,
         name: "Tallon Overworld Revisited - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks", "Selects"],
-        franchise: "Metroid"
     },
     {
         id: 290,
         name: "Hall of the Chozo Elders - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All"],
-        franchise: "Metroid"
     },
     {
         id: 291,
         name: "Chozo Ghosts Battle - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 292,
         name: "Phendrana Battle - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks", "Selects"],
-        franchise: "Metroid"
     },
     {
         id: 293,
         name: "Crashed Ship - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 294,
         name: "Phazon Mines - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 295,
         name: "Omega Pirate Battle - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 296,
         name: "Chozo Shrine - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 297,
         name: "Meta Ridley Battle - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks", "Selects"],
-        franchise: "Metroid"
     },
     {
         id: 298,
         name: "Chozo Shrine Unsealed - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All"],
-        franchise: "Metroid"
     },
     {
         id: 299,
         name: "Metroid Prime Battle - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 300,
         name: "Metroid Prime (Core) Battle - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 301,
         name: "Shrine Collapse: Epilogue - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All"],
-        franchise: "Metroid"
     },
     {
         id: 302,
         name: "Credits - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All", "Top Tracks"],
-        franchise: "Metroid"
     },
     {
         id: 303,
         name: "Samus's Record - Metroid Prime",
+        franchise: "Metroid",
         tags: ["All"],
-        franchise: "Metroid"
     },
 
         //// Fire Emblem: The Blazing Blade
