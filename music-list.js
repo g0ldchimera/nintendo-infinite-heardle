@@ -2232,4 +2232,405 @@ var musicNameList = [
         name: "Staff Credits - Tomodachi Collection",
         tags: ["All", "Top Tracks"]
     },
+        //// Super Mario Galaxy
+    {
+        id: 441,
+        name: "Overture - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 442,
+        name: "The Star Festival - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 443,
+        name: "Attack of the Airships - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 444,
+        name: "Catastrophe - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 445,
+        name: "Peach’s Castle Stolen - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 446,
+        name: "Enter the Galaxy - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 447,
+        name: "Egg Planet - Super Mario Galaxy",
+        tags: ["All", "Top Tracks", "Selects"]
+    },
+    {
+        id: 448,
+        name: "Rosalina in the Observatory 1 - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 449,
+        name: "The Honeyhive - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 450,
+        name: "Space Junk Road - Super Mario Galaxy",
+        tags: ["All", "Top Tracks", "Selects"]
+    },
+    {
+        id: 451,
+        name: "Battlerock Galaxy - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 452,
+        name: "Beach Bowl Galaxy - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 453,
+        name: "Rosalina in the Observatory 2 - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 454,
+        name: "Enter Bowser Jr.! - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 455,
+        name: "Waltz of the Boos - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 456,
+        name: "Buoy Base Galaxy - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 457,
+        name: "Gusty Garden Galaxy - Super Mario Galaxy",
+        tags: ["All", "Top Tracks", "Selects"]
+    },
+    {
+        id: 458,
+        name: "Rosalina in the Observatory 3 - Super Mario Galaxy",
+        tags: ["All", "Top Tracks", "Selects"]
+    },
+    {
+        id: 459,
+        name: "King Bowser - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 460,
+        name: "Melty Molten Galaxy - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 461,
+        name: "The Galaxy Reactor - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 462,
+        name: "Final Battle with Bowser - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 463,
+        name: "Daybreak - A New Dawn - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 464,
+        name: "Birth - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 465,
+        name: "Super Mario Galaxy - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 466,
+        name: "Purple Comet - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 467,
+        name: "Blue Sky Athletic - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 468,
+        name: "Super Mario 2007 - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 469,
+        name: "File Select - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 470,
+        name: "Luma - Super Mario Galaxy",
+        tags: ["All", "Top Tracks", "Selects"]
+    },
+    {
+        id: 471,
+        name: "Gateway Galaxy - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 472,
+        name: "Stolen Grand Star - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 473,
+        name: "To the Observatory Grounds 1 - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 474,
+        name: "Observation Dome - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 475,
+        name: "Course Select - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 476,
+        name: "Dino Piranha - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 477,
+        name: "A Chance to Grab a Star! - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 478,
+        name: "A Tense Moment - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 479,
+        name: "Big Bad Bugaboom - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 480,
+        name: "King Kaliente - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 481,
+        name: "The Toad Brigade - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 482,
+        name: "Airship Armada - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 483,
+        name: "Aquatic Race - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 484,
+        name: "Space Fantasy - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 485,
+        name: "Megaleg - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 486,
+        name: "Space Athletic - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 487,
+        name: "Speedy Comet - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 488,
+        name: "Beach Bowl Galaxy - Undersea - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 489,
+        name: "Interlude - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 490,
+        name: "Bowser’s Stronghold Appears - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 491,
+        name: "The Fiery Stronghold - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 492,
+        name: "The Big Staircase - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 493,
+        name: "Bowser Appears - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 494,
+        name: "Star Ball - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 495,
+        name: "The Library - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 496,
+        name: "Buoy Base Galaxy - Undersea - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 497,
+        name: "Rainbow Mario - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 498,
+        name: "Chase the Bunnies! - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 499,
+        name: "Help! - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 500,
+        name: "Major Burrows - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 501,
+        name: "Pipe Interior - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 502,
+        name: "Cosmic Comet - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 503,
+        name: "Drip Drop Galaxy - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 504,
+        name: "Kingfin - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 505,
+        name: "Boo Race - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 506,
+        name: "Ice Mountain - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 507,
+        name: "Ice Mario - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 508,
+        name: "Lava Path - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 509,
+        name: "Fire Mario - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 510,
+        name: "Dusty Dune Galaxy - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 511,
+        name: "Heavy Metal Mecha-Bowser - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 512,
+        name: "A-wa-wa-wa! - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 513,
+        name: "Deep Dark Galaxy - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 514,
+        name: "Kamella - Super Mario Galaxy",
+        tags: ["All", "Top Tracks"]
+    },
+    {
+        id: 515,
+        name: "Star Ball 2 - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 516,
+        name: "Sad Girl - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 517,
+        name: "Flying Mario - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 518,
+        name: "Star Child - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 519,
+        name: "A Wish - Super Mario Galaxy",
+        tags: ["All"]
+    },
+    {
+        id: 520,
+        name: "Family - Super Mario Galaxy",
+        tags: ["All"]
+    },
 ];
