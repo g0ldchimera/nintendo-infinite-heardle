@@ -299,7 +299,7 @@ var musicNameList = [
     },
     {
         id: 57,
-        name: "Gang Plank Galleon - Donkey Kong Country",
+        name: "Gang-Plank Galleon - Donkey Kong Country",
         tags: ["All", "Top Tracks"],
     },
     {
@@ -725,7 +725,7 @@ var musicNameList = [
     },
     {
         id: 141,
-        name: "Inside Jabu Jabu's Belly - The Legend of Zelda: Ocarina of Time",
+        name: "Inside Jabu-Jabu's Belly - The Legend of Zelda: Ocarina of Time",
         tags: ["All", "Top Tracks"],
     },
     {
@@ -1032,7 +1032,7 @@ var musicNameList = [
     },
     {
         id: 301,
-        name: "Shrine Collapse: Epilogue - Metroid Prime",
+        name: "Shrine Collapse - Epilogue - Metroid Prime",
         tags: ["All"],
     },
     {
@@ -1359,7 +1359,7 @@ var musicNameList = [
     },
     {
         id: 234,
-        name: "Bern: A Mother's Wish - Fire Emblem: The Blazing Blade",
+        name: "Bern - A Mother's Wish - Fire Emblem: The Blazing Blade",
         tags: ["All"],
     },
     {
@@ -1469,7 +1469,7 @@ var musicNameList = [
     },
     {
         id: 256,
-        name: "Fortune Telling - Fire Emblem: The Blazing Blade",
+        name: "Fortune-Telling - Fire Emblem: The Blazing Blade",
         tags: ["All"],
     },
     {
@@ -2074,12 +2074,12 @@ var musicNameList = [
     },
     {
         id: 358,
-        name: "Mood Music: Rain Soaked Streets - Tomodachi Collection",
+        name: "Mood Music: Rain-Soaked Streets - Tomodachi Collection",
         tags: ["All"]
     },
     {
         id: 359,
-        name: "J Pop: To a New Future - Tomodachi Collection",
+        name: "J-Pop: To a New Future - Tomodachi Collection",
         tags: ["All"]
     },
     {
@@ -2089,12 +2089,12 @@ var musicNameList = [
     },
     {
         id: 361,
-        name: "Pop: Flitter Flutter Days - Tomodachi Collection",
+        name: "Pop: Flitter-Flutter Days - Tomodachi Collection",
         tags: ["All"]
     },
     {
         id: 362,
-        name: "Pent Up Passion - Tomodachi Collection",
+        name: "Pent-Up Passion - Tomodachi Collection",
         tags: ["All", "Top Tracks"]
     },
     {
