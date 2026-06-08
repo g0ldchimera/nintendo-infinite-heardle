@@ -4278,8 +4278,7 @@ var musicNameList = [
   },
   {
   id: 848,
-  name: "Tostarena Nights:
-    8-Bit - Super Mario Odyssey",
+  name: "Tostarena Nights: 8-Bit - Super Mario Odyssey",
   tags: ["All"]
   },
   {
