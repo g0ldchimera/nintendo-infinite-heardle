@@ -4604,12 +4604,12 @@ var musicNameList = [
   {
   id: 913,
   name: "Bowser's Castle: Main Courtyard Entrance - Super Mario Odyssey",
-  tags: ["All", "Top Tracks"]
+  tags: ["All"]
   },
   {
   id: 914,
   name: "Bowser's Castle: Main Courtyard - Super Mario Odyssey",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 915,
