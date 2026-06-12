@@ -9400,12 +9400,12 @@ var musicNameList = [
   },
   {
   id: 1870,
-  name: "Athletic Theme - Super Mario Bros. Wonder",
+  name: "Medley-Mix Wonder - Super Mario Bros. Wonder",
   tags: ["All", "Top Tracks"]
   },
   {
   id: 1871,
-  name: "Medley-Mix Wonder - Super Mario Bros. Wonder",
+  name: "Athletic Theme - Super Mario Bros. Wonder",
   tags: ["All", "Top Tracks"]
   },
   {
