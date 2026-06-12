@@ -3,7 +3,7 @@ const allTags = ["All", "Top Tracks", "Selects"];
 
 // You can remove the attributes "tags" if you set allTags to []
 var musicNameList = [
-//// Super Mario Bros.
+  //// Super Mario Bros.
   {
   id: 0,
   name: "Ground BGM - Super Mario Bros.",
@@ -8679,7 +8679,7 @@ var musicNameList = [
   {
   id: 1726,
   name: "Title Screen - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks", "Selects"]
   },
   {
   id: 1727,
@@ -8709,7 +8709,7 @@ var musicNameList = [
   {
   id: 1732,
   name: "Must Be Fate - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1733,
@@ -8769,17 +8769,17 @@ var musicNameList = [
   {
   id: 1744,
   name: "Before Nightfall - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1745,
   name: "Today's Rescue Results - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks", "Selects"]
   },
   {
   id: 1746,
   name: "Rescue Command Post - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1747,
@@ -8804,7 +8804,7 @@ var musicNameList = [
   {
   id: 1751,
   name: "Sun-Speckled Terrace - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1752,
@@ -8814,7 +8814,7 @@ var musicNameList = [
   {
   id: 1753,
   name: "Blossoming Arcadia - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1754,
@@ -8824,7 +8824,7 @@ var musicNameList = [
   {
   id: 1755,
   name: "Serene Shores - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks", "Selects"]
   },
   {
   id: 1756,
@@ -8834,7 +8834,7 @@ var musicNameList = [
   {
   id: 1757,
   name: "Hero's Hideaway - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1758,
@@ -8844,7 +8844,7 @@ var musicNameList = [
   {
   id: 1759,
   name: "Giant's Hearth - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1760,
@@ -8854,12 +8854,12 @@ var musicNameList = [
   {
   id: 1761,
   name: "Primordial Thicket - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1762,
   name: "Spelunking - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1763,
@@ -8889,7 +8889,7 @@ var musicNameList = [
   {
   id: 1768,
   name: "Cave Exploration (Safe) - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Selects"]
   },
   {
   id: 1769,
@@ -8899,22 +8899,22 @@ var musicNameList = [
   {
   id: 1770,
   name: "Battling a Strong Creature - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1771,
   name: "Battling a Stronger Creature - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1772,
   name: "Battling an Even Stronger Creature - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1773,
   name: "Groovy Long Legs Battle - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Selects"]]
   },
   {
   id: 1774,
@@ -8939,7 +8939,7 @@ var musicNameList = [
   {
   id: 1778,
   name: "Dandori Challenge 1 - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1779,
@@ -8969,7 +8969,7 @@ var musicNameList = [
   {
   id: 1784,
   name: "Dandori Battle (Toy Box) - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1785,
@@ -8989,7 +8989,7 @@ var musicNameList = [
   {
   id: 1788,
   name: "Nighttime Expedition - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1789,
@@ -9034,7 +9034,7 @@ var musicNameList = [
   {
   id: 1797,
   name: "Dandori Battle vs. Olimar? - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1798,
@@ -9044,17 +9044,17 @@ var musicNameList = [
   {
   id: 1799,
   name: "Olimar Rescue Mission: Complete! - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1800,
   name: "Olimar Aboard - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1801,
   name: "Credits - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1802,
@@ -9064,7 +9064,7 @@ var musicNameList = [
   {
   id: 1803,
   name: "Ancient Sirehound Battle - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1804,
@@ -9089,12 +9089,12 @@ var musicNameList = [
   {
   id: 1808,
   name: "So Long, Pikmin - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1809,
   name: "Finale - Pikmin 4",
-  tags: ["All"]
+  tags: ["All", "Top Tracks"]
   },
   {
   id: 1810,
@@ -9269,6 +9269,393 @@ var musicNameList = [
   {
   id: 1844,
   name: "Pikmin Tune 6 - Pikmin 4",
+  tags: ["All"]
+  },
+
+  //// Super Mario Bros. Wonder
+  {
+  id: 1845,
+  name: "Title Screen - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 1846,
+  name: "Prologue: The Flower Kingdom - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1847,
+  name: "Prologue: Creation of Castle Bowser - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1848,
+  name: "Prologue: Poplin Prisoners - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1849,
+  name: "Prologue: Adventure Awaits! - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1850,
+  name: "World Theme: Pipe-Rock Plateau - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 1851,
+  name: "Grassland Theme - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 1852,
+  name: "Bendy-Boing Wonder - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 1853,
+  name: "Forest Theme - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1854,
+  name: "Piranha Plants on Parade - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1855,
+  name: "Savanna Theme - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1856,
+  name: "Stompy-Stampede Wonder - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1857,
+  name: "Spikey Dance Number - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1858,
+  name: "Flippy-Float Wonder - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1859,
+  name: "Switching On - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1860,
+  name: "Wiggler Race! - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1861,
+  name: "Wiggler Race: You Win! - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1862,
+  name: "Wiggler Race: You Lose... - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1863,
+  name: "Break Time! Tunes 1 - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1864,
+  name: "World Theme: Petal Isles - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1865,
+  name: "Coast Theme - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1866,
+  name: "Underwater Theme - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1867,
+  name: "Stretchy-Shadow Wonder - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1868,
+  name: "World Theme: Fluff-Puff Peaks - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1869,
+  name: "Snowy-Mountain Theme - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1870,
+  name: "Medley-Mix Wonder - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1871,
+  name: "Athletic Theme - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1872,
+  name: "Jump! Jump! Jump! - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1873,
+  name: "Super Star - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1874,
+  name: "Palace Theme - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1875,
+  name: "Bowser Jr. Battle - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1876,
+  name: "World Clear! - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1877,
+  name: "World Theme: Shining Falls - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1878,
+  name: "Poplin House - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1879,
+  name: "Shining Falls Theme - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1880,
+  name: "Shapey-Shift Wonder - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1881,
+  name: "Shooty-Star Wonder - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1882,
+  name: "Badge Challenge - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1883,
+  name: "Bonus: Coins Galore! - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1884,
+  name: "Break Time! Theme 1 - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1885,
+  name: "Break Time! Theme 2 - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1886,
+  name: "World Theme: Sunbaked Desert - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1887,
+  name: "Desert Theme - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1888,
+  name: "Puzzly-Pyramid Wonder - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1889,
+  name: "Underground Theme - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1890,
+  name: "Ninji Disco - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 1891,
+  name: "Break Time! Tunes 2 - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1892,
+  name: "Break Time! Raise the Stage - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1893,
+  name: "World Theme: Fungi Mines - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1894,
+  name: "Dark Woods Theme - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1895,
+  name: "Quizzy-Question Wonder - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1896,
+  name: "Poison-Swamp Underground Theme - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1897,
+  name: "A Night at Boo's Opera - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1898,
+  name: "Pumpkin Party - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1899,
+  name: "Arena - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1900,
+  name: "Break Time! Trottin' Piranha Plants - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1901,
+  name: "World Theme: Deep Magma Bog - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1902,
+  name: "Lava Theme - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1903,
+  name: "Flowy-Flight Wonder - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1904,
+  name: "Flying Battleship Theme - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1905,
+  name: "Doomy-Gloom Wonder - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1906,
+  name: "Mecha Maker Battle - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1907,
+  name: "World Theme: Flower Kingdom Invaded - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1908,
+  name: "World Theme: Petal Isles (Castle Bowser) - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1909,
+  name: "Castle Bowser Theme - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1910,
+  name: "Zappy-Zone Wonder - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1911,
+  name: "Bowser's Blazing Beats - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1912,
+  name: "Bowser's Wonder Rush - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1913,
+  name: "Bowser's Rage Stage - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1914,
+  name: "Castle Bowser Battle - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1915,
+  name: "Castle Bowser Demolished - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1916,
+  name: "The Royal Seeds - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1917,
+  name: "Epilogue: Kingdom in Full Bloom - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1918,
+  name: "Starry-Staff Wonder - Super Mario Bros. Wonder",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1919,
+  name: "Epilogue: Come Back Again Sometime, Yeah? - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1920,
+  name: "Special World - Super Mario Bros. Wonder",
+  tags: ["All"]
+  },
+  {
+  id: 1921,
+  name: "A Very Special March - Super Mario Bros. Wonder",
   tags: ["All"]
   },
 ]
