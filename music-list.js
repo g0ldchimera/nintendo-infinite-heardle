@@ -9658,4 +9658,171 @@ var musicNameList = [
   name: "A Very Special March - Super Mario Bros. Wonder",
   tags: ["All"]
   },
+
+  //// Donkey Kong Country 2: Diddy's Kong Quest
+  {
+  id: 1922,
+  name: "K. Rool Returns (Title Theme) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 1923,
+  name: "Steel Drum Rhumba (Option Screen) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All"]
+  },
+  {
+  id: 1924,
+  name: "Welcome to Crocodile Isle (Map Screen) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1925,
+  name: "Klomp's Romp (Pirate Panic) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1926,
+  name: "Jib Jig (Mainbrace Mayhem) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All"]
+  },
+  {
+  id: 1927,
+  name: "Lockjaw's Saga (Lockjaw's Locker) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1928,
+  name: "Boss Bossanova (Boss Theme) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1929,
+  name: "Diddy's Victory - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All"]
+  },
+  {
+  id: 1930,
+  name: "Schoolhouse Harmony (Wrinkly's Theme) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All"]
+  },
+  {
+  id: 1931,
+  name: "Hot-Head Bop (Hot-Head Hop) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 1932,
+  name: "Kannon's Klanking (Kannon's Klaim) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 1933,
+  name: "Funky the Main Monkey (Funky's Theme) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1934,
+  name: "Bayou Boogie (Barrel Bayou) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All"]
+  },
+  {
+  id: 1935,
+  name: "Snakey Chantey (Rattle Battle) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1936,
+  name: "Stickerbush Symphony (Bramble Blast) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 1937,
+  name: "Cranky's Conga (Cranky's Theme) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All"]
+  },
+  {
+  id: 1938,
+  name: "Flight of the Zinger (Hornet Hole) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1939,
+  name: "Disco Train (Target Terror) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All"]
+  },
+  {
+  id: 1940,
+  name: "Run, Rambi! Run! (Parrot Chute Panic) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All"]
+  },
+  {
+  id: 1941,
+  name: "Swanky Swing (Swanky's Bonus Bonanza) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All"]
+  },
+  {
+  id: 1942,
+  name: "Haunted Chase (Haunted Hall) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1943,
+  name: "Forest Interlude (Web Woods) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1944,
+  name: "Token Tango (Bonus Level) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1945,
+  name: "Krook's March (Chain Link Chamber) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1946,
+  name: "In a Snowbound Land (Clapper's Cavern) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1947,
+  name: "Klubba's Reveille (Klubba's Kiosk) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All"]
+  },
+  {
+  id: 1948,
+  name: "Lost World Anthem (The Lost World) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All"]
+  },
+  {
+  id: 1949,
+  name: "Primal Rave (Animal Antics) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All"]
+  },
+  {
+  id: 1950,
+  name: "False Victory - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1951,
+  name: "Bad Bird Rag (Screech's Sprint) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All"]
+  },
+  {
+  id: 1952,
+  name: "Crocodile Cacophony (K. Rool's Theme) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1953,
+  name: "Donkey Kong Rescued (Credits Roll) - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1954,
+  name: "Game Over - Donkey Kong Country 2: Diddy's Kong Quest",
+  tags: ["All"]
+  },
 ]
