@@ -9081,7 +9081,7 @@ var musicNameList = [
   {
   id: 1773,
   name: "Groovy Long Legs Battle - Pikmin 4",
-  tags: ["All", "Selects"]]
+  tags: ["All", "Selects"]
   },
   {
   id: 1774,
