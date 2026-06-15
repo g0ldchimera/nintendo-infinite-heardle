@@ -748,6 +748,88 @@ var musicNameList = [
   name: "Credits Theme - Star Fox 64",
   tags: ["All", "Top Tracks"]
   },
+
+  //// F-Zero X
+  {
+  id: 1978,
+  name: "Endless Challenge (Mute City) - F-Zero X",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 1979,
+  name: "Dream Chaser (Silence) - F-Zero X",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 1980,
+  name: "Fall Down to the Stream (Sand Ocean / Fire Field) - F-Zero X",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1981,
+  name: "Decided by the Eyes (Big Blue) - F-Zero X",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 1982,
+  name: "A Devil's Call in Your Heart (Devil's Forest) - F-Zero X",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1983,
+  name: "Long-Distance Murder (Red Canyon / Space Plant) - F-Zero X",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1984,
+  name: "Crazy Crying Call (Port Town) - F-Zero X",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1985,
+  name: "Drivin' Through on MAX (Sector α / Sector β / Rainbow Road) - F-Zero X",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1986,
+  name: "Climb Up / Last Chance! (White Land / Big Hand) - F-Zero X",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1987,
+  name: "All We Need Is 30 Deaths (Death Race) - F-Zero X",
+  tags: ["All"]
+  },
+  {
+  id: 1988,
+  name: "Title BGM - F-Zero X",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1989,
+  name: "Machine Select - F-Zero X",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1990,
+  name: "Options - F-Zero X",
+  tags: ["All"]
+  },
+  {
+  id: 1991,
+  name: "Goal BGM - F-Zero X",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1992,
+  name: "Grand Prix Ending - F-Zero X",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1993,
+  name: "Staff Roll - F-Zero X",
+  tags: ["All", "Top Tracks"]
+  },
   
   //// The Legend of Zelda: Ocarina of Time
   {
