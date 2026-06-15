@@ -7911,4 +7911,68 @@ answer: 1976,
 url: "https://soundcloud.com/goldchimera/025x24",
 answer: 1977,
 },
+{
+url: "https://soundcloud.com/goldchimera/026x01",
+answer: 1978,
+},
+{
+url: "https://soundcloud.com/goldchimera/026x02",
+answer: 1979,
+},
+{
+url: "https://soundcloud.com/goldchimera/026x03",
+answer: 1980,
+},
+{
+url: "https://soundcloud.com/goldchimera/026x04",
+answer: 1981,
+},
+{
+url: "https://soundcloud.com/goldchimera/026x05",
+answer: 1982,
+},
+{
+url: "https://soundcloud.com/goldchimera/026x06",
+answer: 1983,
+},
+{
+url: "https://soundcloud.com/goldchimera/026x07",
+answer: 1984,
+},
+{
+url: "https://soundcloud.com/goldchimera/026x08",
+answer: 1985,
+},
+{
+url: "https://soundcloud.com/goldchimera/026x09",
+answer: 1986,
+},
+{
+url: "https://soundcloud.com/goldchimera/026x10",
+answer: 1987,
+},
+{
+url: "https://soundcloud.com/goldchimera/026x11",
+answer: 1988,
+},
+{
+url: "https://soundcloud.com/goldchimera/026x12",
+answer: 1989,
+},
+{
+url: "https://soundcloud.com/goldchimera/026x13",
+answer: 1990,
+},
+{
+url: "https://soundcloud.com/goldchimera/026x14",
+answer: 1991,
+},
+{
+url: "https://soundcloud.com/goldchimera/026x15",
+answer: 1992,
+},
+{
+url: "https://soundcloud.com/goldchimera/026x16",
+answer: 1993,
+},
 ];
