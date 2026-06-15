@@ -1983,6 +1983,38 @@ var musicNameList = [
   name: "Record: nintendogs (Demo Version) - nintendogs",
   tags: ["All"]
   },
+
+  //// Brain Age: Train Your Brain in Minutes a Day!
+  {
+  id: 1994,
+  name: "Title Theme - Brain Age: Train Your Brain in Minutes a Day!",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 1995,
+  name: "Checking Brain Age for the First Time - Brain Age: Train Your Brain in Minutes a Day!",
+  tags: ["All"]
+  },
+  {
+  id: 1996,
+  name: "Menu Theme - Brain Age: Train Your Brain in Minutes a Day!",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 1997,
+  name: "Results - Brain Age: Train Your Brain in Minutes a Day!",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 1998,
+  name: "Checking Answers - Brain Age: Train Your Brain in Minutes a Day!",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1999,
+  name: "Staff Credits - Brain Age: Train Your Brain in Minutes a Day!",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
   
   //// Wii Channels
   {
