@@ -7975,4 +7975,28 @@ answer: 1992,
 url: "https://soundcloud.com/goldchimera/026x16",
 answer: 1993,
 },
+{
+url: "https://soundcloud.com/goldchimera/027x01",
+answer: 1994,
+},
+{
+url: "https://soundcloud.com/goldchimera/027x02",
+answer: 1995,
+},
+{
+url: "https://soundcloud.com/goldchimera/027x03",
+answer: 1996,
+},
+{
+url: "https://soundcloud.com/goldchimera/027x04",
+answer: 1997,
+},
+{
+url: "https://soundcloud.com/goldchimera/027x05",
+answer: 1998,
+},
+{
+url: "https://soundcloud.com/goldchimera/027x07",
+answer: 1999,
+},
 ];
