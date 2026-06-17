@@ -4587,6 +4587,463 @@ var musicNameList = [
   name: "Staff Credits (Booster Course Pass) - Mario Kart 8 Deluxe",
   tags: ["All", "Top Tracks"]
   },
+
+  //// Splatoon 2
+  {
+  id: 2000,
+  name: "Opening / Wet Floor - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2001,
+  name: "Inkoming! / Wet Floor - Splatoon 2",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 2002,
+  name: "Rip Entry / Wet Floor  - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2003,
+  name: "Undertow / Wet Floor - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2004,
+  name: "Don't Slip / Wet Floor - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2005,
+  name: "Endolphin Surge / Wet Floor - Splatoon 2",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 2006,
+  name: "Shipwreckin' / Bottom Feeders - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2007,
+  name: "Fins & Fiddles / Bottom Feeders - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2008,
+  name: "Seafoam Shanty / Bottom Feeders - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2009,
+  name: "Broken Coral / Ink Theory - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2010,
+  name: "Riptide Rupture / Ink Theory - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2011,
+  name: "Blitz It! / Chirpy Chips - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2012,
+  name: "Wave Prism / Chirpy Chips - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2013,
+  name: "Seasick / Diss-Pair - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2014,
+  name: "Kinetosis / Diss-Pair - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2015,
+  name: "Chopscrewey / SashiMori - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2016,
+  name: "Entropical / SashiMori - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2017,
+  name: "Now or Never! / Wet Floor - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2018,
+  name: "Turf Master / Wet Floor - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2019,
+  name: "Ink Another Day / Wet Floor - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2020,
+  name: "Inkoming! (Cloud Edit) / Wet Floor - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2021,
+  name: "Slip into Inkopolis Square - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2022,
+  name: "Getting Squared Away - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2023,
+  name: "Inkopolis Square - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2024,
+  name: "Without a Dop Doubt - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2025,
+  name: "The Shoal - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2026,
+  name: "Dubble Bath (DIY Remix) / Bob Dub - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2027,
+  name: "New You / DJ Real Sole - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2028,
+  name: "Happy Little Workers / Grizzco - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1462,
+  name: "Surge & Submerge / ω-3 - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 1463,
+  name: "Deluge Dirge / ω-3 - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1464,
+  name: "Fishing Frenzy / ω-3 - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 1469,
+  name: "Frantic Aspic / ω-3 - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2033,
+  name: "Ever Further / Grizzco - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2034,
+  name: "Inkopolis News / Off the Hook - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2035,
+  name: "Color Pulse / Off the Hook - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2036,
+  name: "Commence the Fest / Off the Hook - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2037,
+  name: "Ebb & Flow / Off the Hook - Splatoon 2",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 2038,
+  name: "Acid Hues / Off the Hook - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2039,
+  name: "Muck Warfare / Off the Hook - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2040,
+  name: "Now or Never! / Off the Hook - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2041,
+  name: "Fest Zest / Off the Hook - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2042,
+  name: "Party's Over / Off the Hook - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2043,
+  name: "Low Tide - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2044,
+  name: "Octo Canyon / Turquoise October - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2045,
+  name: "Octo Eight-Step / Turquoise October - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2046,
+  name: "The Girl from Inkopolis / Turquoise October - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2047,
+  name: "Buoyant Boogie / Turquoise October - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2048,
+  name: "Shooting Starfish / Turquoise October - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2049,
+  name: "Tentacular Circus / Turquoise October - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2050,
+  name: "Cephaloparade / Turquoise October - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 1489,
+  name: "Octoling Rendezvous / Turquoise October - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2052,
+  name: "Boss Entrance / Turquoise October - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2053,
+  name: "Octarmaments / Turquoise October - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2054,
+  name: "Bomb Rush Blush / DJ Octavio feat. Callie - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2055,
+  name: "Tidal Rush / DJ Octavio feat. Callie vs. Marie - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2056,
+  name: "Spicy Calamari Inkantation / Squid Sisters - Splatoon 2",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 2057,
+  name: "Fresh Start / Squid Sisters - Splatoon 2",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2058,
+  name: "Octroduction - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2059,
+  name: "Cap'n Cuttlefish's Theme (Octo) / Character Creation - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2060,
+  name: "#5 thirsty / Dedf1sh - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2061,
+  name: "Deepsea Metro Central Station - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2062,
+  name: "Telephone's Theme - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2063,
+  name: "Inside Deepsea Metro - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2064,
+  name: "#0 shell / Dedf1sh - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2065,
+  name: "#1 progress / Dedf1sh - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2066,
+  name: "#6 frisk / Dedf1sh - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2067,
+  name: "#4 dunno / Dedf1sh - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2068,
+  name: "#2 ripped / Dedf1sh - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2069,
+  name: "#9 party / Dedf1sh - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2070,
+  name: "#8 regret / Dedf1sh - Splatoon 2",
+  tags: ["All", "Selects"]
+  },
+  {
+  id: 2071,
+  name: "#14 crush / Dedf1sh - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2072,
+  name: "#13 shade / Dedf1sh - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2073,
+  name: "#16 salty / Dedf1sh - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2074,
+  name: "#12 awake / Dedf1sh - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2075,
+  name: "#11 above / Dedf1sh - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2076,
+  name: "#19 bless / Dedf1sh - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2077,
+  name: "All the Thangs - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2078,
+  name: "Nasty Majesty / Off the Hook - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2079,
+  name: "Shark Bytes / Off the Hook - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2080,
+  name: "Splattack! (Octo) / Dedf1sh - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2081,
+  name: "Reaching the Surface - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2082,
+  name: "Commander Tartar's Actual Theme - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2083,
+  name: "The Plan - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2084,
+  name: "Here Comes Ultimate Doom / Off the Hook - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2085,
+  name: "Fly Octo Fly: Ebb & Flow (Octo) / Off the Hook - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2086,
+  name: "It's Over - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2087,
+  name: "Mic Drop - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2088,
+  name: "Into the Light / Off the Hook - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2089,
+  name: "#$@%* Dudes Be #$@%* Sleepin' (Live) / Pearl - Splatoon 2",
+  tags: ["All"]
+  },
+  {
+  id: 2090,
+  name: "Ebb&FlowDemo.frsh (Sketch) / Marina - Splatoon 2",
+  tags: ["All"]
+  },
   
   //// Super Mario Odyssey
   {
@@ -7751,21 +8208,6 @@ var musicNameList = [
   tags: ["All", "Top Tracks"]
   },
   {
-  id: 1462,
-  name: "Surge & Submerge / ω-3 - Splatoon 3",
-  tags: ["All"]
-  },
-  {
-  id: 1463,
-  name: "Deluge Dirge / ω-3 - Splatoon 3",
-  tags: ["All"]
-  },
-  {
-  id: 1464,
-  name: "Fishing Frenzy / ω-3 - Splatoon 3",
-  tags: ["All"]
-  },
-  {
   id: 1465,
   name: "Frothy Waters / ω-3 - Splatoon 3",
   tags: ["All", "Top Tracks"]
@@ -7784,11 +8226,6 @@ var musicNameList = [
   id: 1468,
   name: "Toxic Anoxic / ω-3 - Splatoon 3",
   tags: ["All", "Top Tracks"]
-  },
-  {
-  id: 1469,
-  name: "Frantic Aspic / ω-3 - Splatoon 3",
-  tags: ["All"]
   },
   {
   id: 1470,
@@ -7883,11 +8320,6 @@ var musicNameList = [
   {
   id: 1488,
   name: "Flop to It / Octoplush - Splatoon 3",
-  tags: ["All"]
-  },
-  {
-  id: 1489,
-  name: "Octoling Rendezvous / Turquoise October - Splatoon 3",
   tags: ["All"]
   },
   {
