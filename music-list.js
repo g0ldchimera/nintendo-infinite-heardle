@@ -576,6 +576,143 @@ var musicNameList = [
   name: "Game Over - Donkey Kong Country 2: Diddy's Kong Quest",
   tags: ["All"]
   },
+
+  //// Wave Race 64
+ {
+  id: 2086,
+  name: "Title Theme - Wave Race 64",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 2087,
+  name: "Options - Wave Race 64",
+  tags: ["All"]
+  },
+  {
+  id: 2088,
+  name: "Watercraft Select - Wave Race 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2089,
+  name: "Dolphin Park - Wave Race 64",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 2090,
+  name: "Sunny Beach (1996 Ver.) - Wave Race 64",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 2091,
+  name: "Sunset Bay - Wave Race 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2092,
+  name: "Drake Lake - Wave Race 64",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 2093,
+  name: "Marine Fortress - Wave Race 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2094,
+  name: "Port Blue - Wave Race 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2095,
+  name: "Twilight City - Wave Race 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2096,
+  name: "Glacier Coast - Wave Race 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2097,
+  name: "Southern Island (1996 Ver.) - Wave Race 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2098,
+  name: "1st-Place Finish - Wave Race 64",
+  tags: ["All"]
+  },
+  {
+  id: 2099,
+  name: "2nd-Place Finish - Wave Race 64",
+  tags: ["All"]
+  },
+  {
+  id: 2100,
+  name: "3rd-Place Finish - Wave Race 64",
+  tags: ["All"]
+  },
+  {
+  id: 2101,
+  name: "4th-Place Finish - Wave Race 64",
+  tags: ["All"]
+  },
+  {
+  id: 2102,
+  name: "No Placement - Wave Race 64",
+  tags: ["All"]
+  },
+  {
+  id: 2103,
+  name: "Race Results - Wave Race 64",
+  tags: ["All"]
+  },
+  {
+  id: 2104,
+  name: "2P Vs. Finish - Wave Race 64",
+  tags: ["All"]
+  },
+  {
+  id: 2105,
+  name: "Time Trials / Stunt Mode Finish - Wave Race 64",
+  tags: ["All"]
+  },
+  {
+  id: 2106,
+  name: "Championship Ending - Wave Race 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2107,
+  name: "4th Place - Wave Race 64",
+  tags: ["All"]
+  },
+  {
+  id: 2108,
+  name: "3rd Place - Wave Race 64",
+  tags: ["All"]
+  },
+  {
+  id: 2109,
+  name: "2nd Place - Wave Race 64",
+  tags: ["All"]
+  },
+  {
+  id: 2110,
+  name: "1st Place - Wave Race 64",
+  tags: ["All"]
+  },
+  {
+  id: 2111,
+  name: "Sunny Beach (1997 Ver.) - Wave Race 64",
+  tags: ["All"]
+  },
+  {
+  id: 2112,
+  name: "Southern Island (1997 Ver.) - Wave Race 64",
+  tags: ["All"]
+  }, 
   
   //// Star Fox 64
   {
