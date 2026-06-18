@@ -591,7 +591,7 @@ var musicNameList = [
   {
   id: 2088,
   name: "Watercraft Select - Wave Race 64",
-  tags: ["All", "Top Tracks"]
+  tags: ["All"]
   },
   {
   id: 2089,
