@@ -577,6 +577,128 @@ var musicNameList = [
   tags: ["All"]
   },
 
+  //// Super Mario 64
+  {
+  id: 2271,
+  name: "Title Theme - Super Mario 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2272,
+  name: "File Select - Super Mario 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2273,
+  name: "Opening - Super Mario 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2274,
+  name: "Peach's Castle - Super Mario 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2275,
+  name: "Main Theme - Super Mario 64",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 2276,
+  name: "Stage Boss - Super Mario 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2277,
+  name: "Slider - Super Mario 64",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 2278,
+  name: "Piranha Plant's Lullaby - Super Mario 64",
+  tags: ["All", "Selects"]
+  },
+  {
+  id: 2279,
+  name: "Dire, Dire Docks - Super Mario 64",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 2280,
+  name: "Cool, Cool Mountain - Super Mario 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2281,
+  name: "Bowser's Road - Super Mario 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2282,
+  name: "Bowser's Theme - Super Mario 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2283,
+  name: "Powerful Mario - Super Mario 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2284,
+  name: "Big Boo's Haunt - Super Mario 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2285,
+  name: "The Merry-Go-Round - Super Mario 64",
+  tags: ["All"]
+  },
+  {
+  id: 2286,
+  name: "Hazy Maze Cave - Super Mario 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2287,
+  name: "Metal Mario - Super Mario 64",
+  tags: ["All"]
+  },
+  {
+  id: 2288,
+  name: "Lethal Lava Land - Super Mario 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2289,
+  name: "The Endless Stairs - Super Mario 64",
+  tags: ["All"]
+  },
+  {
+  id: 2290,
+  name: "The Final Battle - Super Mario 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2291,
+  name: "Final Battle Clear - Super Mario 64",
+  tags: ["All"]
+  },
+  {
+  id: 2292,
+  name: "Ending - Super Mario 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2293,
+  name: "Staff Roll - Super Mario 64",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2294,
+  name: "Piranha Plant's Lullaby (Piano Version) - Super Mario 64",
+  tags: ["All"]
+  },
+
   //// Wave Race 64
   {
   id: 2086,
