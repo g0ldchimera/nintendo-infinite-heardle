@@ -835,6 +835,178 @@ var musicNameList = [
   name: "Southern Island (1997 Ver.) - Wave Race 64",
   tags: ["All"]
   }, 
+
+  //// Donkey Kong Country 3: Dixie Kong's Double Trouble!
+  {
+  id: 2295,
+  name: "Dixie Beat - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 2296,
+  name: "Crazy Calypso - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All"]
+  },
+  {
+  id: 2297,
+  name: "Northern Kremisphere - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2298,
+  name: "Hangin’ at Funky’s - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2299,
+  name: "Wrinkly's Save Cave - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All"]
+  },
+  {
+  id: 2300,
+  name: "Get Fit A-Go-Go - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All"]
+  },
+  {
+  id: 2301,
+  name: "Wrinkly 64 - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All"]
+  },
+  {
+  id: 2302,
+  name: "Brothers Bear - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All"]
+  },
+  {
+  id: 2303,
+  name: "Sub-Map Shuffle - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2304,
+  name: "Swanky's Sideshow - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All"]
+  },
+  {
+  id: 2305,
+  name: "Cranky’s Showdown - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All"]
+  },
+  {
+  id: 2306,
+  name: "Bonus Time - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2307,
+  name: "Stilt Village - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 2308,
+  name: "Mill Fever - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All"]
+  },
+  {
+  id: 2309,
+  name: "Jangle Bells - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All"]
+  },
+  {
+  id: 2310,
+  name: "Frosty Frolics - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2311,
+  name: "Treetop Tumble - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2312,
+  name: "Enchanted Riverbank - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All"]
+  },
+  {
+  id: 2313,
+  name: "Hot Pursuit - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2314,
+  name: "Water World - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All", "Selects"]
+  },
+  {
+  id: 2315,
+  name: "Cascade Capers - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2316,
+  name: "Nuts and Bolts - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 2317,
+  name: "Pokey Pipes - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All"]
+  },
+  {
+  id: 2318,
+  name: "Rockface Rumble - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 2319,
+  name: "Jungle Jitter - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2320,
+  name: "Cavern Caprice - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2321,
+  name: "Rocket Run - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All"]
+  },
+  {
+  id: 2322,
+  name: "Boss Boogie - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2323,
+  name: "Crystal Chasm - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2324,
+  name: "Krematoa Koncerto - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All"]
+  },
+  {
+  id: 2325,
+  name: "Big Boss Blues - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2326,
+  name: "Mama Bird - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All"]
+  },
+  {
+  id: 2327,
+  name: "Chase - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All"]
+  },
+  {
+  id: 2328,
+  name: "Baddies on Parade - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  tags: ["All", "Top Tracks"]
+  },
   
   //// Star Fox 64
   {
