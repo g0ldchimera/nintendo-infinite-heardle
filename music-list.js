@@ -1725,6 +1725,533 @@ var musicNameList = [
   name: "Samus's Record - Metroid Prime",
   tags: ["All"]
   },
+
+  //// The Legend of Zelda: The Wind Waker
+  {
+  id: 2329,
+  name: "Title Theme - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 2330,
+  name: "File Selection - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2331,
+  name: "Legend of the Hero - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2332,
+  name: "Outset Island - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 2333,
+  name: "House Theme - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2334,
+  name: "Old Man's House - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2335,
+  name: "Ways of the Sword - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2164,
+  name: "Beedle's Shop Ship - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2336,
+  name: "A Monstrous Bird - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2337,
+  name: "Outset Island Forest - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2338,
+  name: "Battle Theme - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2339,
+  name: "Meeting Tetra - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2340,
+  name: "Aryll Abducted - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2341,
+  name: "Grandma - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2342,
+  name: "Setting Sail - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2343,
+  name: "Pirates - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2344,
+  name: "Below Deck - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2345,
+  name: "Hatching a Rescue Plan - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2346,
+  name: "Executing the Rescue Plan - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2347,
+  name: "Forsaken Fortress - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2348,
+  name: "Reuniting with Aryll - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2349,
+  name: "Meeting the King of Red Lions - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2350,
+  name: "The Tale of Ganon - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2351,
+  name: "Search for a Sail - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2352,
+  name: "Windfall Island - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2353,
+  name: "Potion Shop - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2354,
+  name: "Daybreak - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2355,
+  name: "The Great Sea - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 2356,
+  name: "Clash at Sea - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2357,
+  name: "Battle at Sea - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2358,
+  name: "Dragon Roost Island - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks", "Selects"]
+  },
+  {
+  id: 2359,
+  name: "Dragon Roost Cavern - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2360,
+  name: "Intense Battle - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2361,
+  name: "Gohma Appears - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2362,
+  name: "Gohma Battle (First Phase) - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2363,
+  name: "Gohma Battle (Second Phase) - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2364,
+  name: "Boss Defeated - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2365,
+  name: "Boat Game - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2366,
+  name: "Boat Game Victory - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2367,
+  name: "Forest Haven - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2368,
+  name: "Inside the Forest Haven - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2369,
+  name: "The Deku Tree and Friends - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2370,
+  name: "Forbidden Woods - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2371,
+  name: "Kalle Demos Appears - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2372,
+  name: "Kalle Demos - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2373,
+  name: "Forest Ceremony - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2374,
+  name: "Next Year's Ceremony - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2375,
+  name: "The Cursed Sea - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2376,
+  name: "Sacred Shrine - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2377,
+  name: "Jabun - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2378,
+  name: "The Tower of the Gods Emerges - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2379,
+  name: "Tower of the Gods - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2380,
+  name: "Gohdan Appears - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2381,
+  name: "Gohdan Battle - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2382,
+  name: "To Hyrule - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2383,
+  name: "Sealed Hyrule Castle - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2384,
+  name: "Hyrule Castle - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2385,
+  name: "Phantom Ganon Battle - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2386,
+  name: "Reunited with Aryll - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2387,
+  name: "Tetra Spies the Sword - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2388,
+  name: "A Short-Lived Reunion - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2389,
+  name: "Forsaken Fortress Tower - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2390,
+  name: "Helmaroc King Appears - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2391,
+  name: "Helmaroc King Battle - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2392,
+  name: "Master of the Forsaken Fortress - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2393,
+  name: "The Pirate's Charm - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2394,
+  name: "The King of Hyrule Appears - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2395,
+  name: "Heir of the Royal Family - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2396,
+  name: "Zelda's Theme - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2397,
+  name: "Fairy Fountain - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2398,
+  name: "Fairy Queen - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2399,
+  name: "Dungeon Theme - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2400,
+  name: "Sage Laruto - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2401,
+  name: "Medli, the Sage of Earth - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2402,
+  name: "Earth God's Lyric - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2403,
+  name: "The Earth Temple - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2404,
+  name: "Jalhalla Appears - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2405,
+  name: "Jalhalla Battle - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2406,
+  name: "Medli's Prayer - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2407,
+  name: "Sage Fado - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2408,
+  name: "Wind Temple - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2409,
+  name: "Molgera Appears - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2410,
+  name: "Molgera Battle - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2411,
+  name: "Makar's Prayer - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2412,
+  name: "Hero of Winds - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2413,
+  name: "Ganon's Tower - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2414,
+  name: "Gohma Battle, Ganon's Tower (First Phase) - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2415,
+  name: "Gohma Battle, Ganon's Tower (Second Phase) - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2416,
+  name: "Kalle Demos Battle, Ganon's Tower - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2417,
+  name: "Jalhalla Battle, Ganon's Tower - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2418,
+  name: "Molgera Battle, Ganon's Tower - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2419,
+  name: "Phantom Ganon's Maze - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2420,
+  name: "Ganondorf Speaks - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2421,
+  name: "Puppet Ganon (Puppet Form) - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2422,
+  name: "Puppet Ganon Transforms - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2423,
+  name: "Puppet Ganon (Spider Form) - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2424,
+  name: "Puppet Ganon (Snake Form) - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2425,
+  name: "Puppet Ganon's Demise - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2426,
+  name: "Before the Showdown - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2427,
+  name: "Ganondorf Battle - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2428,
+  name: "Parting Ways - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2429,
+  name: "Ending Theme - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2430,
+  name: "Staff Credits - The Legend of Zelda: The Wind Waker",
+  tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2431,
+  name: "Aryll's Theme - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
+  {
+  id: 2432,
+  name: "Game Demo Theme - The Legend of Zelda: The Wind Waker",
+  tags: ["All"]
+  },
   
   //// Fire Emblem: The Blazing Blade
   {
