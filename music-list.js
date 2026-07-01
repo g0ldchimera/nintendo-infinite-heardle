@@ -3722,11 +3722,6 @@ var musicNameList = [
   tags: ["All"]
   },
   {
-  id: 2164,
-  name: "Beedle's Airshop - The Legend of Zelda: Skyward Sword",
-  tags: ["All"]
-  },
-  {
   id: 2165,
   name: "Eldin Volcano - The Legend of Zelda: Skyward Sword",
   tags: ["All", "Top Tracks"]
