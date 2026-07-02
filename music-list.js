@@ -200,6 +200,163 @@ var musicNameList = [
   name: "A New Wind for Tomorrow - Kirby's Dream Land",
   tags: ["All", "Top Tracks", "Selects"]
   },
+
+  //// Super Mario Kart
+  {
+id: 2433,
+name: "Super Mario Kart Title Screen - Super Mario Kart",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2434,
+name: "Selection Screens - Super Mario Kart",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2435,
+name: "Mario Circuit - Super Mario Kart",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2436,
+name: "Mario Circuit (Final Lap) - Super Mario Kart",
+tags: ["All"]
+},
+{
+id: 2437,
+name: "Donut Plains - Super Mario Kart",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2438,
+name: "Donut Plains (Final Lap) - Super Mario Kart",
+tags: ["All"]
+},
+{
+id: 2439,
+name: "Ghost Valley - Super Mario Kart",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2440,
+name: "Ghost Valley (Final Lap) - Super Mario Kart",
+tags: ["All"]
+},
+{
+id: 2441,
+name: "Bowser Castle - Super Mario Kart",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2442,
+name: "Bowser Castle (Final Lap) - Super Mario Kart",
+tags: ["All"]
+},
+{
+id: 2443,
+name: "Choco Island - Super Mario Kart",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2444,
+name: "Choco Island (Final Lap) - Super Mario Kart",
+tags: ["All"]
+},
+{
+id: 2445,
+name: "Koopa Beach - Super Mario Kart",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2446,
+name: "Koopa Beach (Final Lap) - Super Mario Kart",
+tags: ["All"]
+},
+{
+id: 2447,
+name: "Vanilla Lake - Super Mario Kart",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2448,
+name: "Vanilla Lake (Final Lap) - Super Mario Kart",
+tags: ["All"]
+},
+{
+id: 2449,
+name: "Rainbow Road - Super Mario Kart",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2450,
+name: "Rainbow Road (Final Lap) - Super Mario Kart",
+tags: ["All"]
+},
+{
+id: 2451,
+name: "Battle Mode - Super Mario Kart",
+tags: ["All"]
+},
+{
+id: 2452,
+name: "Super Star - Super Mario Kart",
+tags: ["All"]
+},
+{
+id: 2453,
+name: "Race Results (Mario) - Super Mario Kart",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2454,
+name: "Race Results (Luigi) - Super Mario Kart",
+tags: ["All"]
+},
+{
+id: 2455,
+name: "Race Results (Princess) - Super Mario Kart",
+tags: ["All"]
+},
+{
+id: 2456,
+name: "Race Results (Yoshi) - Super Mario Kart",
+tags: ["All"]
+},
+{
+id: 2457,
+name: "Race Results (Bowser) - Super Mario Kart",
+tags: ["All"]
+},
+{
+id: 2458,
+name: "Race Results (Donkey Kong Jr.) - Super Mario Kart",
+tags: ["All"]
+},
+{
+id: 2459,
+name: "Race Results (Koopa Troopa) - Super Mario Kart",
+tags: ["All"]
+},
+{
+id: 2460,
+name: "Race Results (Toad) - Super Mario Kart",
+tags: ["All"]
+},
+{
+id: 2461,
+name: "Awards Ceremony (1st – 3rd Place) - Super Mario Kart",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2462,
+name: "Awards Ceremony (4th – 8th Place) - Super Mario Kart",
+tags: ["All"]
+},
+{
+id: 2463,
+name: "Staff Credits - Super Mario Kart",
+tags: ["All", "Top Tracks"]
+},
   
   //// Donkey Kong Country
   {
