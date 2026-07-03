@@ -10007,6 +10007,433 @@ tags: ["All", "Top Tracks"]
   name: "K.K. Ragtime (Instrumental) - Animal Crossing: New Horizons",
   tags: ["All"]
   },
+
+  //// Pokémon Legends: Arceus
+  {
+id: 2464,
+name: "The Beginning - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2465,
+name: "Transported - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2466,
+name: "Professor Laventon - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2467,
+name: "A Meeting in Hisui - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2468,
+name: "Jubilife Village - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2469,
+name: "Galaxy Hall - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2470,
+name: "Battle! (People of Hisui) - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2471,
+name: "Obsidian Fieldlands 1–1 - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2472,
+name: "A Prelude to Battle - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2473,
+name: "A Prelude to Battle 2 - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2474,
+name: "A Prelude to Battle 3 - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2475,
+name: "Battle! (Wild Pokémon) - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2476,
+name: "Survey Report (Day) - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2477,
+name: "Obsidian Fieldlands 2–1 - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2478,
+name: "A Prelude to Battle (Alpha Pokémon) - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2479,
+name: "Battle! (Alpha Pokémon) - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2480,
+name: "An Audience - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2481,
+name: "A Tense Situation - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2482,
+name: "Heartwood - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2483,
+name: "Evolution - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2484,
+name: "Kleavor, Lord of the Woods - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2485,
+name: "Battle! (Noble Pokémon) - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2486,
+name: "Resolution - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2487,
+name: "Case Closed - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2488,
+name: "Target Practice - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2489,
+name: "Crimson Mirelands 1–1 - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2490,
+name: "Distortion - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2491,
+name: "Settlement - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2492,
+name: "Crimson Mirelands 2–1 - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2493,
+name: "Lilligant, Lady of the Ridge - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2494,
+name: "Cobalt Coastlands 1–1 - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2495,
+name: "The Sound of the Flute - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2496,
+name: "Feelings - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2497,
+name: "Night - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2498,
+name: "Survey Report (Night) - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2499,
+name: "Cobalt Coastlands 2–1 - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2500,
+name: "Firespit Island - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2501,
+name: "Courage - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2502,
+name: "Strength - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2503,
+name: "Coronet Highlands - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2504,
+name: "Wayward Cave - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2505,
+name: "Battle! (People of Hisui 2) - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2506,
+name: "Electrode, Lord of the Hollow - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2507,
+name: "Alabaster Icelands 1–1 - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2508,
+name: "Deep in the Night - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2509,
+name: "Dawn - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2510,
+name: "Alabaster Icelands 2–1 - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2511,
+name: "Snowpoint Temple - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2512,
+name: "Avalugg, Lord of the Tundra - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2513,
+name: "Suspicion - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2514,
+name: "Exiled - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2515,
+name: "Disaster Looming - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2516,
+name: "Battling during a Disaster (Prelude) - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2517,
+name: "Battling during a Disaster (Alpha Prelude) - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2518,
+name: "Battling during a Disaster (Pokémon) - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2519,
+name: "Ancient Retreat - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2520,
+name: "Cave in the Lake - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2521,
+name: "Stone Portal - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2522,
+name: "Temple of Sinnoh - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2523,
+name: "The Arrival of Dialga/Palkia - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2524,
+name: "Battle! (Dialga/Palkia) - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2525,
+name: "The Other Almighty Sinnoh - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2526,
+name: "Temporary Retreat - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2527,
+name: "Origin - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2528,
+name: "Battle! (Origin Forme Dialga/Palkia) - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2529,
+name: "Finale - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2530,
+name: "Ending Theme - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2531,
+name: "Mystery Gift - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2532,
+name: "Obsidian Fieldlands 2–2 - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2533,
+name: "Cobalt Coastlands 1–2 - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2534,
+name: "Alabaster Icelands 1–2 - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2535,
+name: "The Clefairy’s Moonlit Dance - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2536,
+name: "The Lakes - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2537,
+name: "Battle! (Azelf/Mesprit/Uxie) - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2538,
+name: "Battle! (Remarkable Pokémon) - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2539,
+name: "Volo’s Goal - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2540,
+name: "Battle! (Volo) - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2541,
+name: "Giratina Appears - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2542,
+name: "Battle! (Giratina) - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2543,
+name: "Azure Flute - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2544,
+name: "Battle! (Arceus) - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2545,
+name: "Battle! (Arceus 2) - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2546,
+name: "Battle! (Arceus 3) - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2547,
+name: "Battle! (Arceus 4) - Pokémon Legends: Arceus",
+tags: ["All"]
+},
+{
+id: 2548,
+name: "Title Screen - Pokémon Legends: Arceus",
+tags: ["All", "Top Tracks"]
+},
   
   //// Splatoon 3
   {
