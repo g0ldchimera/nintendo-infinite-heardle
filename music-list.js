@@ -1907,6 +1907,213 @@ tags: ["All", "Top Tracks"]
   name: "End Credits - The Legend of Zelda: Ocarina of Time",
   tags: ["All", "Top Tracks"]
   },
+
+  //// Golden Sun
+  {
+id: 2586,
+name: "Main Theme (Title) - Golden Sun",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2587,
+name: "Setting Off - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2588,
+name: "Dungeon Theme - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2589,
+name: "Chance Meeting with Sworn Enemies - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2590,
+name: "Defeated... - Golden Sun",
+tags: ["All"]
+},
+{
+id: 2591,
+name: "The Passage of Time - Golden Sun",
+tags: ["All"]
+},
+{
+id: 2592,
+name: "Village Theme - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2593,
+name: "Sol Sanctum - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2594,
+name: "Elemental Stars - Golden Sun",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2595,
+name: "Mount Aleph Erupts - Golden Sun",
+tags: ["All"]
+},
+{
+id: 2596,
+name: "A Long Journey - Golden Sun",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2597,
+name: "Battle - Golden Sun",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2598,
+name: "Victory! - Golden Sun",
+tags: ["All"]
+},
+{
+id: 2599,
+name: "Wind Adepts - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2600,
+name: "Cave Theme - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2601,
+name: "Palace Theme - Golden Sun",
+tags: ["All"]
+},
+{
+id: 2602,
+name: "An Unsettling Feeling - Golden Sun",
+tags: ["All"]
+},
+{
+id: 2603,
+name: "Forest Theme - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2604,
+name: "Sinking into Sorrow - Golden Sun",
+tags: ["All"]
+},
+{
+id: 2605,
+name: "Battling a Powerful Foe - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2606,
+name: "Remote Village - Golden Sun",
+tags: ["All"]
+},
+{
+id: 2607,
+name: "Mercury Lighthouse - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2608,
+name: "Sworn Enemies Stand in Your Way - Golden Sun",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2609,
+name: "Town Theme - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2610,
+name: "Temple Theme - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2611,
+name: "Desert Theme - Golden Sun",
+tags: ["All"]
+},
+{
+id: 2612,
+name: "Port-Town Theme - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2613,
+name: "Set Sail on the Karagol Sea - Golden Sun",
+tags: ["All"]
+},
+{
+id: 2614,
+name: "Tolbi - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2615,
+name: "Try Your Luck! - Golden Sun",
+tags: ["All"]
+},
+{
+id: 2616,
+name: "Labyrinth Theme - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2617,
+name: "Babi's Theme - Golden Sun",
+tags: ["All"]
+},
+{
+id: 2618,
+name: "Colosseum - Golden Sun",
+tags: ["All"]
+},
+{
+id: 2619,
+name: "Colosseum Finals - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2620,
+name: "Trial Road - Golden Sun",
+tags: ["All"]
+},
+{
+id: 2621,
+name: "Test Your Skills - Golden Sun",
+tags: ["All"]
+},
+{
+id: 2622,
+name: "Babi Lighthouse - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2623,
+name: "Venus Lighthouse - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2624,
+name: "Battle with Saturos & Menardi - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2625,
+name: "Battle with the Fusion Dragon - Golden Sun",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2626,
+name: "Felix's Resolve - Golden Sun",
+tags: ["All"]
+},
   
   //// Metroid Prime
   {
