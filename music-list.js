@@ -138,6 +138,198 @@ var musicNameList = [
   name: "Level 20 Hi Clear (UFO) & Ending - Dr. Mario (Game Boy)",
   tags: ["All", "Top Tracks"]
   },
+
+  //// Super Mario World
+  {
+id: 2549,
+name: "Title BGM - Super Mario World",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2550,
+name: "Yoshi's Island (Map Screen) - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2551,
+name: "Ground BGM - Super Mario World",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2552,
+name: '"Hurry Up!" Ground BGM - Super Mario World',
+tags: ["All"]
+},
+{
+id: 2553,
+name: "Yoshi Ground BGM - Super Mario World",
+tags: ["All"]
+},
+{
+id: 2554,
+name: '"Hurry Up!" Yoshi Ground BGM - Super Mario World',
+tags: ["All"]
+},
+{
+id: 2555,
+name: "P Switch BGM - Super Mario World",
+tags: ["All"]
+},
+{
+id: 2556,
+name: "Donut Plains (Map Screen) - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2557,
+name: "Athletic BGM - Super Mario World",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2558,
+name: '"Hurry Up!" Athletic BGM - Super Mario World',
+tags: ["All"]
+},
+{
+id: 2559,
+name: "Yoshi Athletic BGM - Super Mario World",
+tags: ["All"]
+},
+{
+id: 2560,
+name: '"Hurry Up!" Yoshi Athletic BGM - Super Mario World',
+tags: ["All"]
+},
+{
+id: 2561,
+name: "Invincibility BGM - Super Mario World",
+tags: ["All"]
+},
+{
+id: 2562,
+name: '"Hurry Up!" Invincibility BGM - Super Mario World',
+tags: ["All"]
+},
+{
+id: 1683,
+name: "Bonus Game BGM - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2563,
+name: "Vanilla Dome (Map Screen) - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2564,
+name: "Underground BGM - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2565,
+name: '"Hurry Up!" Underground BGM - Super Mario World',
+tags: ["All"]
+},
+{
+id: 2566,
+name: "Yoshi Underground BGM - Super Mario World",
+tags: ["All"]
+},
+{
+id: 2567,
+name: '"Hurry Up!" Yoshi Underground BGM - Super Mario World',
+tags: ["All"]
+},
+{
+id: 2568,
+name: "Underwater BGM - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2569,
+name: '"Hurry Up!" Underwater BGM - Super Mario World',
+tags: ["All"]
+},
+{
+id: 2570,
+name: "Yoshi Underwater BGM - Super Mario World",
+tags: ["All"]
+},
+{
+id: 2571,
+name: '"Hurry Up!" Yoshi Underwater BGM - Super Mario World',
+tags: ["All"]
+},
+{
+id: 2572,
+name: "Forest of Illusion (Map Screen) - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2573,
+name: "Ghost House BGM - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2574,
+name: '"Hurry Up!" Ghost House BGM - Super Mario World',
+tags: ["All"]
+},
+{
+id: 2575,
+name: "Castle BGM - Super Mario World",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2576,
+name: '"Hurry Up!" Castle BGM - Super Mario World',
+tags: ["All"]
+},
+{
+id: 2577,
+name: "Koopalings BGM - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2578,
+name: '"Hurry Up!" Koopalings BGM - Super Mario World',
+tags: ["All"]
+},
+{
+id: 2579,
+name: "Valley of Bowser (Map Screen) - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2580,
+name: "Bowser BGM (Phase 1) - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2581,
+name: "Bowser BGM (Phase 2) - Super Mario World",
+tags: ["All"]
+},
+{
+id: 2582,
+name: "Bowser BGM (Phase 3) - Super Mario World",
+tags: ["All"]
+},
+{
+id: 2583,
+name: "Ending - Super Mario World",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2584,
+name: "Star World (Map Screen) - Super Mario World",
+tags: ["All"]
+},
+{
+id: 2585,
+name: "Special World (Map Screen) - Super Mario World",
+tags: ["All"]
+},
   
   //// Kirby's Dream Land
   {
