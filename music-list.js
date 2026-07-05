@@ -4548,6 +4548,188 @@ tags: ["All"]
   tags: ["All", "Top Tracks"]
   },
 
+  //// StreetPass Mii Plaza
+  {
+id: 2627,
+name: "Entrance (StreetPass Mii Plaza) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2628,
+name: "Main Theme 1 (StreetPass Mii Plaza) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2629,
+name: "Main Theme 2 (StreetPass Mii Plaza) - StreetPass Mii Plaza",
+tags: ["All"]
+},
+{
+id: 2630,
+name: "Main Theme 3 (StreetPass Mii Plaza) - StreetPass Mii Plaza",
+tags: ["All"]
+},
+{
+id: 2631,
+name: "Main Theme 4 (StreetPass Mii Plaza) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2632,
+name: "Main Theme 5 (StreetPass Mii Plaza) - StreetPass Mii Plaza",
+tags: ["All"]
+},
+{
+id: 2633,
+name: "Main Theme 6 (StreetPass Mii Plaza) - StreetPass Mii Plaza",
+tags: ["All"]
+},
+{
+id: 2634,
+name: "Main Theme 7 (StreetPass Mii Plaza) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2635,
+name: "Salesbunny (StreetPass Mii Plaza) - StreetPass Mii Plaza",
+tags: ["All"]
+},
+{
+id: 2636,
+name: "StreetPass Birthdays (StreetPass Mii Plaza) - StreetPass Mii Plaza",
+tags: ["All"]
+},
+{
+id: 2637,
+name: "VIP Room (StreetPass Mii Plaza) - StreetPass Mii Plaza",
+tags: ["All"]
+},
+{
+id: 2638,
+name: "Title (Puzzle Swap) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2639,
+name: "Collected Pieces (Puzzle Swap) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2640,
+name: "Title (Find Mii) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2641,
+name: "Palace Theme (Find Mii) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2642,
+name: "Kidnapped! (Find Mii) - StreetPass Mii Plaza",
+tags: ["All"]
+},
+{
+id: 2643,
+name: "Captive Mii (Find Mii) - StreetPass Mii Plaza",
+tags: ["All"]
+},
+{
+id: 2644,
+name: "Venture Forth (Find Mii) - StreetPass Mii Plaza",
+tags: ["All"]
+},
+{
+id: 2645,
+name: "To Battle, Heroes! (Find Mii) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2646,
+name: "Current Results (Find Mii) - StreetPass Mii Plaza",
+tags: ["All"]
+},
+{
+id: 2647,
+name: "Fight On, Heroes! (Find Mii) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2648,
+name: "Dark Room (Find Mii) - StreetPass Mii Plaza",
+tags: ["All"]
+},
+{
+id: 2649,
+name: "Armored Fiend (Find Mii) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2650,
+name: "Ultimate Ghost (Find Mii) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2651,
+name: "Ending (Find Mii) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2652,
+name: "Title (Find Mii II) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2653,
+name: "Venture Forth 1 (Find Mii II) - StreetPass Mii Plaza",
+tags: ["All"]
+},
+{
+id: 2654,
+name: "Venture Forth 2 (Find Mii II) - StreetPass Mii Plaza",
+tags: ["All"]
+},
+{
+id: 2655,
+name: "Venture Forth 3 (Find Mii II) - StreetPass Mii Plaza",
+tags: ["All"]
+},
+{
+id: 2656,
+name: "Venture Forth 4 (Find Mii II) - StreetPass Mii Plaza",
+tags: ["All"]
+},
+{
+id: 2657,
+name: "Keep Fighting, Heroes! (Find Mii II) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2658,
+name: "Current Results (Find Mii II) - StreetPass Mii Plaza",
+tags: ["All"]
+},
+{
+id: 2659,
+name: "Save the World, Heroes! (Find Mii II) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2660,
+name: "Armored Archfiend (Find Mii II) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2661,
+name: "Dark Lord (Find Mii II) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2662,
+name: "Ending (Find Mii II) - StreetPass Mii Plaza",
+tags: ["All", "Top Tracks"]
+},
+
   //// The Legend of Zelda: Skyward Sword
   {
   id: 2113,
