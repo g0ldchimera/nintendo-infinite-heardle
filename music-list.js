@@ -377,6 +377,128 @@ id: 2585,
 name: "Special World (Map Screen) - Super Mario World",
 tags: ["All"]
 },
+
+//// The Legend of Zelda: A Link to the Past
+{
+id: 2672,
+name: "Title Theme - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2673,
+name: "Player Select - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2674,
+name: "Rainy Night - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2675,
+name: "Hyrule Castle - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2676,
+name: "Princess Zelda, Rescued - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2677,
+name: "Sanctuary - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2678,
+name: "Light World - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2679,
+name: "Kakariko Village - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2680,
+name: "Kakariko Soldiers - The Legend of Zelda: A Link to the Past",
+tags: ["All"]
+},
+{
+id: 2681,
+name: "Minigames - The Legend of Zelda: A Link to the Past",
+tags: ["All"]
+},
+{
+id: 2682,
+name: "Cave Interior - The Legend of Zelda: A Link to the Past",
+tags: ["All"]
+},
+{
+id: 2683,
+name: "Fortune Teller's House - The Legend of Zelda: A Link to the Past",
+tags: ["All"]
+},
+{
+id: 2684,
+name: "Light World Dungeon - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2685,
+name: "Boss Theme - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2686,
+name: "Rabbit Theme - The Legend of Zelda: A Link to the Past",
+tags: ["All"]
+},
+{
+id: 2687,
+name: "Lost Woods - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2688,
+name: "Agahnim's Theme - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2689,
+name: "Dark World - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2690,
+name: "Dark World Dungeon - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2691,
+name: "The Crystals - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2692,
+name: "Mountains and Forests of the Dark World - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2693,
+name: "Ganon Battle - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2694,
+name: "Triforce Room - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2695,
+name: "Ending Theme - The Legend of Zelda: A Link to the Past",
+tags: ["All", "Top Tracks"]
+},
   
   //// Kirby's Dream Land
   {
