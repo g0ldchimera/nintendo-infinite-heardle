@@ -111,6 +111,53 @@ var musicNameList = [
   name: "Ending - Metroid",
   tags: ["All", "Top Tracks"]
   },
+
+  //// Super Mario Bros. 2
+  {
+id: 2663,
+name: "Title BGM - Super Mario Bros. 2",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2664,
+name: "Please Select Player - Super Mario Bros. 2",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2665,
+name: "Ground BGM - Super Mario Bros. 2",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2666,
+name: "Underground BGM - Super Mario Bros. 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2667,
+name: "Sub-Space BGM - Super Mario Bros. 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2668,
+name: "Boss BGM - Super Mario Bros. 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2669,
+name: "Invincibility BGM - Super Mario Bros. 2",
+tags: ["All"]
+},
+{
+id: 2670,
+name: "Final Boss BGM - Super Mario Bros. 2",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2671,
+name: "Ending - Super Mario Bros. 2",
+tags: ["All", "Top Tracks", "Selects"]
+},
   
   //// Dr. Mario (Game Boy)
   {
