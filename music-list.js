@@ -158,6 +158,178 @@ id: 2671,
 name: "Ending - Super Mario Bros. 2",
 tags: ["All", "Top Tracks", "Selects"]
 },
+
+//// Super Mario Bros. 3
+  {
+id: 2696,
+name: "World 1 Map (Grass Land) - Super Mario Bros. 3",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2697,
+name: "Ground BGM - Super Mario Bros. 3",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2698,
+name: '"Hurry Up!" Ground BGM - Super Mario Bros. 3',
+tags: ["All"]
+},
+{
+id: 2699,
+name: "World 2 Map (Desert Land) - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2700,
+name: "Athletic BGM - Super Mario Bros. 3",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2701,
+name: '"Hurry Up!" Athletic BGM - Super Mario Bros. 3',
+tags: ["All"]
+},
+{
+id: 1895,
+name: "Slot Game BGM / Memory Game BGM - Super Mario Bros. 3",
+tags: ["All"]
+},
+{
+id: 2702,
+name: "P Switch BGM / Toad's House - Super Mario Bros. 3",
+tags: ["All"]
+},
+{
+id: 2703,
+name: '"Hurry Up!" P Switch BGM - Super Mario Bros. 3',
+tags: ["All"]
+},
+{
+id: 2704,
+name: "World 3 Map (Water Land) - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2705,
+name: "Underwater BGM - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2706,
+name: '"Hurry Up!" Underwater BGM - Super Mario Bros. 3',
+tags: ["All"]
+},
+{
+id: 2707,
+name: "Invincibility BGM - Super Mario Bros. 3",
+tags: ["All"]
+},
+{
+id: 2708,
+name: '"Hurry Up!" Invincibility BGM - Super Mario Bros. 3',
+tags: ["All"]
+},
+{
+id: 2709,
+name: "World 4 Map (Giant Land) - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2710,
+name: "Underground BGM - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2711,
+name: '"Hurry Up!" Underground BGM - Super Mario Bros. 3',
+tags: ["All"]
+},
+{
+id: 2712,
+name: "Music Box - Super Mario Bros. 3",
+tags: ["All"]
+},
+{
+id: 2713,
+name: "World 5 Map (Sky Land): On the Ground - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2714,
+name: "World 5 Map (Sky Land): In the Sky - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1900,
+name: "Bros. Battle - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2715,
+name: '"Hurry Up!" Bros. Battle - Super Mario Bros. 3',
+tags: ["All"]
+},
+{
+id: 2716,
+name: "World 6 Map (Ice Land) - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2717,
+name: "Fortress BGM - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2718,
+name: '"Hurry Up!" Fortress BGM - Super Mario Bros. 3',
+tags: ["All"]
+},
+{
+id: 2719,
+name: "Fortress Boss - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2720,
+name: '"Hurry Up!" Fortress Boss - Super Mario Bros. 3',
+tags: ["All"]
+},
+{
+id: 2721,
+name: "World 7 Map (Pipe Land) - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2722,
+name: "Throne Room - Super Mario Bros. 3",
+tags: ["All"]
+},
+{
+id: 2723,
+name: "Airship BGM - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2724,
+name: "World 8 Map (Dark Land) - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2725,
+name: "King of the Koopas - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2726,
+name: '"Hurry Up!" King of the Koopas - Super Mario Bros. 3',
+tags: ["All"]
+},
+{
+id: 2727,
+name: "Ending - Super Mario Bros. 3",
+tags: ["All", "Top Tracks"]
+},
   
   //// Dr. Mario (Game Boy)
   {
