@@ -330,6 +330,147 @@ id: 2727,
 name: "Ending - Super Mario Bros. 3",
 tags: ["All", "Top Tracks"]
 },
+
+//// Tetris (Game Boy)
+{
+id: 2746,
+name: "Title Screen - Tetris (Game Boy)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2747,
+name: "A-Type (Early Version) - Tetris (Game Boy)",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2748,
+name: "A-Type - Tetris (Game Boy)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2749,
+name: "B-Type - Tetris (Game Boy)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2750,
+name: "C-Type - Tetris (Game Boy)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2751,
+name: "Rocket Launch - Tetris (Game Boy)",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2752,
+name: "Name Entry - Tetris (Game Boy)",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2753,
+name: "2 Player: Danger - Tetris (Game Boy)",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2754,
+name: "2 Player: Final Results - Tetris (Game Boy)",
+tags: ["All", "Top Tracks"]
+},
+
+//// Tetris (NES)
+{
+id: 2728,
+name: "MUSIC-1 - Tetris (NES)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2729,
+name: "MUSIC-1: Danger - Tetris (NES)",
+tags: ["All"]
+},
+{
+id: 2730,
+name: "MUSIC-2 - Tetris (NES)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2731,
+name: "MUSIC-2: Danger - Tetris (NES)",
+tags: ["All"]
+},
+{
+id: 2732,
+name: "MUSIC-3 - Tetris (NES)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2733,
+name: "MUSIC-3: Danger - Tetris (NES)",
+tags: ["All"]
+},
+{
+id: 2734,
+name: "Ending - Tetris (NES)",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2735,
+name: "Name Entry - Tetris (NES)",
+tags: ["All", "Top Tracks"]
+},
+
+//// Dr. Mario (NES)
+{
+id: 2736,
+name: "Title Screen - Dr. Mario (NES)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2737,
+name: "Selection Screen - Dr. Mario (NES)",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2738,
+name: "Fever - Dr. Mario (NES)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2739,
+name: "Fever Clear - Dr. Mario (NES)",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2740,
+name: "Chill - Dr. Mario (NES)",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2741,
+name: "Chill Clear - Dr. Mario (NES)",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2742,
+name: "Game Over - Dr. Mario (NES)",
+tags: ["All"]
+},
+{
+id: 2743,
+name: "Vs. Game Over - Dr. Mario (NES)",
+tags: ["All"]
+},
+{
+id: 2744,
+name: "Level 20 Low Clear & Ending - Dr. Mario (NES)",
+tags: ["All"]
+},
+{
+id: 2745,
+name: "Level 20 Hi Clear (UFO) & Ending - Dr. Mario (NES)",
+tags: ["All", "Top Tracks"]
+},
   
   //// Dr. Mario (Game Boy)
   {
