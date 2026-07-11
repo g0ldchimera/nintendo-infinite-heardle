@@ -11497,6 +11497,123 @@ id: 2548,
 name: "Title Screen - Pokémon Legends: Arceus",
 tags: ["All", "Top Tracks"]
 },
+
+//// Kirby and the Forgotten Land
+{
+id: 2755,
+name: "Ready to Go! - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2756,
+name: "Running Through the New World - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2757,
+name: "Waddle Dee Town - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2758,
+name: "A Trip to Alivel Mall - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2759,
+name: "VS. Dangerous Beast - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2760,
+name: "Abandoned Beach - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2761,
+name: "Lunch Rush! A Wave of Waddles - Kirby and the Forgotten Land",
+tags: ["All"]
+},
+{
+id: 2762,
+name: "Welcome to Wondaria - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2763,
+name: "Northeast Frost Street - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2764,
+name: "Roar of Dedede - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2765,
+name: "Moonlight Canyon - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2766,
+name: "Waddle Dee's Weapons Shop - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2767,
+name: "Sword of the Surviving Guardian - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2768,
+name: "Enter the Fiery Forbidden Lands - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2769,
+name: "Burning, Churning Power Plant - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2770,
+name: "Masked and Wild: D.D.D. - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2771,
+name: "The Dream Discoveries Tour (Guide Off) - Kirby and the Forgotten Land",
+tags: ["All"]
+},
+{
+id: 2772,
+name: "The Raging Lion Roars - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2773,
+name: "Elfilin - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2774,
+name: "Two Planets Approach the Roche Limit - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2775,
+name: "A Full-Speed Farewell from the New World - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2776,
+name: "Soaring Determination: No Night is Eternal - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2777,
+name: "Welcome to the New World! (Full) - Kirby and the Forgotten Land",
+tags: ["All", "Top Tracks", "Selects"]
+},
   
   //// Splatoon 3
   {
