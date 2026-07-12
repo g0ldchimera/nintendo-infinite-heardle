@@ -710,17 +710,17 @@ tags: ["All", "Top Tracks", "Selects"]
 {
 id: 2781,
 name: "Sand Ocean - F-ZERO",
-tags: ["All", "Top Tracks]
+tags: ["All", "Top Tracks"]
 },
 {
 id: 2782,
 name: "Death Wind - F-ZERO",
-tags: ["All", "Top Tracks]
+tags: ["All", "Top Tracks"]
 },
 {
 id: 2783,
 name: "Silence - F-ZERO",
-tags: ["All", "Top Tracks]
+tags: ["All", "Top Tracks"]
 },
 {
 id: 2784,
@@ -730,22 +730,22 @@ tags: ["All", "Top Tracks", "Selects"]
 {
 id: 2785,
 name: "Red Canyon - F-ZERO",
-tags: ["All", "Top Tracks]
+tags: ["All", "Top Tracks"]
 },
 {
 id: 2786,
 name: "White Land I - F-ZERO",
-tags: ["All", "Top Tracks]
+tags: ["All", "Top Tracks"]
 },
 {
 id: 2787,
 name: "White Land II - F-ZERO",
-tags: ["All", "Top Tracks]
+tags: ["All", "Top Tracks"]
 },
 {
 id: 2788,
 name: "Fire Field - F-ZERO",
-tags: ["All", "Top Tracks]
+tags: ["All", "Top Tracks"]
 },
 {
 id: 2789,
@@ -755,7 +755,7 @@ tags: ["All"]
 {
 id: 2790,
 name: "Ending - F-ZERO",
-tags: ["All", "Top Tracks]
+tags: ["All", "Top Tracks"]
 },
 
 //// The Legend of Zelda: A Link to the Past
