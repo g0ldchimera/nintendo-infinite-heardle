@@ -691,6 +691,73 @@ name: "Special World (Map Screen) - Super Mario World",
 tags: ["All"]
 },
 
+//// F-ZERO
+{
+id: 2778,
+name: "Opening - F-ZERO",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2779,
+name: "Mute City - F-ZERO",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2780,
+name: "Big Blue - F-ZERO",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2781,
+name: "Sand Ocean - F-ZERO",
+tags: ["All", "Top Tracks]
+},
+{
+id: 2782,
+name: "Death Wind - F-ZERO",
+tags: ["All", "Top Tracks]
+},
+{
+id: 2783,
+name: "Silence - F-ZERO",
+tags: ["All", "Top Tracks]
+},
+{
+id: 2784,
+name: "Port Town - F-ZERO",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2785,
+name: "Red Canyon - F-ZERO",
+tags: ["All", "Top Tracks]
+},
+{
+id: 2786,
+name: "White Land I - F-ZERO",
+tags: ["All", "Top Tracks]
+},
+{
+id: 2787,
+name: "White Land II - F-ZERO",
+tags: ["All", "Top Tracks]
+},
+{
+id: 2788,
+name: "Fire Field - F-ZERO",
+tags: ["All", "Top Tracks]
+},
+{
+id: 2789,
+name: "Results - F-ZERO",
+tags: ["All"]
+},
+{
+id: 2790,
+name: "Ending - F-ZERO",
+tags: ["All", "Top Tracks]
+},
+
 //// The Legend of Zelda: A Link to the Past
 {
 id: 2672,
@@ -2091,6 +2158,36 @@ tags: ["All", "Top Tracks"]
   id: 1993,
   name: "Staff Roll - F-Zero X",
   tags: ["All", "Top Tracks"]
+  },
+  {
+  id: 2791,
+  name: "Regeneration - F-Zero X",
+  tags: ["All"]
+  },
+  {
+  id: 2792,
+  name: "Roller Coaster - F-Zero X",
+  tags: ["All"]
+  },
+  {
+  id: 2793,
+  name: "Big Foot - F-Zero X",
+  tags: ["All"]
+  },
+  {
+  id: 2794,
+  name: "Japon - F-Zero X",
+  tags: ["All"]
+  },
+  {
+  id: 2795,
+  name: "Rainbow Road - F-Zero X",
+  tags: ["All"]
+  },
+  {
+  id: 2796,
+  name: "Mr. EAD Ending - F-Zero X",
+  tags: ["All"]
   },
   
   //// The Legend of Zelda: Ocarina of Time
