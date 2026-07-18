@@ -2693,6 +2693,253 @@ id: 2626,
 name: "Felix's Resolve - Golden Sun",
 tags: ["All"]
 },
+
+  //// Luigi's Mansion
+  {
+id: 2797,
+name: "Title Theme - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2798,
+name: "File Select - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2799,
+name: "Opening Scene - Luigi's Mansion",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2800,
+name: "Signs of Ghosts - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2801,
+name: "Professor E. Gadd and the Poltergust 3000 - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2802,
+name: "Professor E. Gadd's Lab - Luigi's Mansion",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2803,
+name: "Training Room: First Half - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2804,
+name: "Training Room: Second Half - Luigi's Mansion",
+tags: ["All", "Selects"]
+},
+{
+id: 2805,
+name: "Training Room: Results - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2806,
+name: "Gallery - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2807,
+name: "To the Mansion - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2808,
+name: "There, There, Toad - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2809,
+name: "Title Theme (Humming) - Luigi's Mansion",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2810,
+name: "When the Candles Go Out - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2811,
+name: "Suck Up the Ghosts! - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2812,
+name: "Suck Up More Ghosts! - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2813,
+name: "Game Boy Horror Ringtone - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2814,
+name: "Chatting with Professor E. Gadd - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2815,
+name: "Chauncey in the Nursery - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2816,
+name: "Versus a Strong Enemy - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2817,
+name: "Playing with Chauncey - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2818,
+name: "Boss Ghost: Chauncey - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2819,
+name: "A Little Breather - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2820,
+name: "Ghost Portrificationizer - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2821,
+name: "Starting Up the Ghost Portrificationizer - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2822,
+name: "Ghosts You've Caught - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2823,
+name: "Ghost Guys in the Ballroom - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2824,
+name: "The Floating Whirlindas in the Ballroom - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2825,
+name: "Boo Escape - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2826,
+name: "Suck Up the Boo! - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2827,
+name: "Chatting with a Ghost - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2828,
+name: "Conservatory Instruments (Ground BGM) - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2829,
+name: "Cleaning the Conservatory - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2830,
+name: "Bogmire in the Graveyard - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2831,
+name: "Boss Ghost: Bogmire - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2832,
+name: "Mario in a Portrait - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2833,
+name: "A Star Appears - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2834,
+name: "Hide-and-Seek in The Twins' Room - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2835,
+name: "Boos on the Balcony - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2836,
+name: "Boss Ghost: Boolossus - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2837,
+name: "Sue Pea in the Guest Room - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2838,
+name: "Not Enough Boos 1 - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2839,
+name: "Not Enough Boos 2 - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2840,
+name: "King Boo in the Secret Altar - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2841,
+name: "Into Bowser's Portrait - Luigi's Mansion",
+tags: ["All"]
+},
+{
+id: 2842,
+name: "Boss Ghost: King Boo - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2843,
+name: "Restoring Mario's Portrait - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2844,
+name: "The Brothers Reunited - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2845,
+name: "Staff Credits - Luigi's Mansion",
+tags: ["All", "Top Tracks"]
+},
   
   //// Metroid Prime
   {
