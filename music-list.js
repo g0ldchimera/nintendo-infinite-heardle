@@ -59,6 +59,33 @@ var musicNameList = [
   name: "Ending - Super Mario Bros.",
   tags: ["All", "Top Tracks"]
   },
+
+  //// The Legend of Zelda
+  {
+id: 2846,
+name: "Title Theme - The Legend of Zelda",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2847,
+name: "Overworld Theme - The Legend of Zelda",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2848,
+name: "Underworld Theme - The Legend of Zelda",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 2849,
+name: "Death Mountain Theme - The Legend of Zelda",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2850,
+name: "Ending Theme - The Legend of Zelda",
+tags: ["All", "Top Tracks"]
+},
   
   //// Metroid
   {
