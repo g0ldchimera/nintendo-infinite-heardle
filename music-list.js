@@ -10031,6 +10031,608 @@ tags: ["All", "Top Tracks"]
   name: "Green Greens - Kirby Star Allies",
   tags: ["All"]
   },
+
+  //// Pokémon Sword and Pokémon Shield
+  {
+id: 3079,
+name: "Title Screen - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 3080,
+name: "Exhibition Match - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3081,
+name: "Postwick - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3082,
+name: "Hop’s Theme - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3083,
+name: "Route 1 - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3084,
+name: "Wedgehurst - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3085,
+name: "Let’s Have a Champion Time! - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3086,
+name: "Battle! (Hop) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3087,
+name: "Slumbering Weald - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3088,
+name: "In the Fog - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3089,
+name: "Pokémon Research Lab - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3090,
+name: "Sonia’s Theme - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3091,
+name: "Pokémon Center - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3092,
+name: "Battle! (Wild Pokémon) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3093,
+name: "Victory! (Wild Pokémon) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3094,
+name: "Guide - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3095,
+name: "At the Train Station - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3096,
+name: "Wild Area (South) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3097,
+name: "Battle! (Max Raid Battle) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 3098,
+name: "Victory! (Dynamax Pokémon) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3099,
+name: "Let’s Make Curry! - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3100,
+name: "Motostoke - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3101,
+name: "Boutique - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3102,
+name: "At the Stadium - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3103,
+name: "Budew Drop Inn - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3104,
+name: "An Old Legend - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3105,
+name: "Team Yell Appears! - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3106,
+name: "Marnie’s Theme - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3107,
+name: "Gym Challenge Opening Ceremony - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3108,
+name: "Chairman Rose - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3109,
+name: "Route 3 - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3110,
+name: "Trainers’ Eyes Meet (Trainer) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3111,
+name: "Battle! (Trainer) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3112,
+name: "Victory! (Trainer) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3113,
+name: "Trainers’ Eyes Meet (Lass) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3114,
+name: "Evolution - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3115,
+name: "Evolution (Galar) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3116,
+name: "Galar Mine - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3117,
+name: "Trainers’ Eyes Meet (Worker) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3118,
+name: "Bede’s Theme - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3119,
+name: "Battle! (Bede) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3120,
+name: "Trainers’ Eyes Meet (Pokémon Breeder) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3121,
+name: "Turffield - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3122,
+name: "Gym Mission! - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3123,
+name: "Trainers’ Eyes Meet (Gym Trainer) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3124,
+name: "Victory! (Gym Trainer) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3125,
+name: "Battle! (Gym Leader) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 3126,
+name: "Victory! (Gym Leader) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3127,
+name: "Hulbury - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3128,
+name: "Poké Jobs - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3129,
+name: "Battle! (Marnie) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3130,
+name: "Wild Area (North) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3131,
+name: "Rotom Rally - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3132,
+name: "Hammerlocke - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3133,
+name: "Hair Salon - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3134,
+name: "Trainers’ Eyes Meet (Artist) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3135,
+name: "Stow-on-Side - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3136,
+name: "The Ancient Mural Crumbles - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3137,
+name: "The Truth Behind the Mural - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3138,
+name: "Glimwood Tangle - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3139,
+name: "Ballonlea - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3140,
+name: "Circhester - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3141,
+name: "Spikemuth - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3142,
+name: "Battle! (Team Yell) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3143,
+name: "Battle! (Gym Leader: Piers) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3144,
+name: "Route 10 - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3145,
+name: "Wyndon - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3146,
+name: "Wyndon Stadium - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3147,
+name: "Decisive Battle! (Marnie) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3148,
+name: "Decisive Battle! (Hop) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3149,
+name: "Rose Tower - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3150,
+name: "Reaching the Top - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3151,
+name: "Battle! (Oleana) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3152,
+name: "The Finals Begin - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3153,
+name: "Battle! (Finals) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3154,
+name: "Victory! (Champion Cup) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3155,
+name: "The Darkest Day - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3156,
+name: "Deep in the Forest - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3157,
+name: "A Bizarre Situation - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3158,
+name: "Battle! (Rose) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3159,
+name: "Leon and Eternatus - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3160,
+name: "Battle! (Eternatus) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3161,
+name: "Eternal Power - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3162,
+name: "Decisive Battle! (Eternatus) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3163,
+name: "You Caught Eternatus! - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3164,
+name: "Decisive Battle! (Champion Leon) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3165,
+name: "Victory! (Champion Leon) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3166,
+name: "For a Bright Future - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3167,
+name: "Battle Tower - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3168,
+name: "Battle! (Battle Tower) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3169,
+name: "Battle! (Zacian/Zamazenta) - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3170,
+name: "Isle of Armor - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3171,
+name: "Krazy for Klara - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3172,
+name: "Battle! (Klara) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3173,
+name: "The Amazing Avery - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3174,
+name: "Battle! (Avery) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3175,
+name: "Master Dojo - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3176,
+name: "Mustard’s Theme - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3177,
+name: "Battle! (Mustard) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3178,
+name: "Secret Armor - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3179,
+name: "Tower of Waters - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3180,
+name: "Battle! (Serious Mustard) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3181,
+name: "Victory! (Mustard) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3182,
+name: "Victory with Kubfu - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3183,
+name: "Crown Tundra - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3184,
+name: "Peony’s Theme - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3185,
+name: "Battle! (Peony) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3186,
+name: "Max Lair - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3187,
+name: "Dynamax Adventure - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3188,
+name: "Battle! (Dynamax Adventure) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3189,
+name: "Freezington - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3190,
+name: "The King of Bountiful Harvests - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3191,
+name: "Battle! (Calyrex) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3192,
+name: "Battle! (Glastrier/Spectrier) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3193,
+name: "Crown Shrine - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3194,
+name: "Battle! (The King of Bountiful Harvests) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3195,
+name: "Battle! (The Giant of Legend) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3196,
+name: "Gathering at the Tree - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3197,
+name: "Battle! (The Bird Pokémon of Legend) - Pokémon Sword and Pokémon Shield",
+tags: ["All"]
+},
+{
+id: 3198,
+name: "Staff Credits - Pokémon Sword and Pokémon Shield",
+tags: ["All", "Top Tracks"]
+},
   
   //// Animal Crossing: New Horizons
   {
