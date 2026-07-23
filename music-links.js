@@ -12795,4 +12795,44 @@ answer: 3197,
 url: "https://soundcloud.com/goldchimera/051x123",
 answer: 3198,
 },
+{
+url: "https://soundcloud.com/goldchimera/052x01",
+answer: 3199,
+},
+{
+url: "https://soundcloud.com/goldchimera/052x02",
+answer: 3200,
+},
+{
+url: "https://soundcloud.com/goldchimera/052x03",
+answer: 3201,
+},
+{
+url: "https://soundcloud.com/goldchimera/052x04",
+answer: 3202,
+},
+{
+url: "https://soundcloud.com/goldchimera/052x05",
+answer: 3203,
+},
+{
+url: "https://soundcloud.com/goldchimera/052x06",
+answer: 3204,
+},
+{
+url: "https://soundcloud.com/goldchimera/052x07",
+answer: 3205,
+},
+{
+url: "https://soundcloud.com/goldchimera/052x08",
+answer: 3206,
+},
+{
+url: "https://soundcloud.com/goldchimera/052x09",
+answer: 3207,
+},
+{
+url: "https://soundcloud.com/goldchimera/052x10",
+answer: 3208,
+},
 ];
