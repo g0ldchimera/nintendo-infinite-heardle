@@ -6698,6 +6698,198 @@ id: 3078,
 name: "Staff Credits - Mario Kart 7",
 tags: ["All", "Top Tracks"]
 },
+
+//// Splatoon
+  {
+id: 3209,
+name: "Splattack! / Squid Squad - Splatoon",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 3210,
+name: "Ink or Sink / Squid Squad - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3211,
+name: "Seaskape / Squid Squad - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3212,
+name: "Kraken Up / Squid Squad - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3213,
+name: "Metalopod / Squid Squad - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3214,
+name: "Shellfie / Chirpy Chips - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3215,
+name: "Split & Splat / Chirpy Chips - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3216,
+name: "Hooked / Hightide Era - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3217,
+name: "Sucker Punch / Hightide Era - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3218,
+name: "Now or Never! / Squid Squad - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3219,
+name: "Battle Victory - Splatoon",
+tags: ["All"]
+},
+{
+id: 3220,
+name: "Battle Defeat - Splatoon",
+tags: ["All"]
+},
+{
+id: 3221,
+name: "Splattack! (Jam Sesh) / Squid Squad - Splatoon",
+tags: ["All"]
+},
+{
+id: 3222,
+name: "Slip into Inkopolis - Splatoon",
+tags: ["All"]
+},
+{
+id: 3223,
+name: "Start Fresh - Splatoon",
+tags: ["All"]
+},
+{
+id: 3224,
+name: "The Plaza - Splatoon",
+tags: ["All"]
+},
+{
+id: 3225,
+name: "Inkopolis News / Squid Sisters - Splatoon",
+tags: ["All"]
+},
+{
+id: 3226,
+name: "Inkopolis Lobby - Splatoon",
+tags: ["All"]
+},
+{
+id: 3227,
+name: "Dubble Bath / Bob Dub - Splatoon",
+tags: ["All", "Selects"]
+},
+{
+id: 3228,
+name: "Bomb Rush Blush / Callie - Splatoon",
+tags: ["All"]
+},
+{
+id: 3229,
+name: "Tide Goes Out / Marie - Splatoon",
+tags: ["All"]
+},
+{
+id: 3230,
+name: "Lookin' Fresh / DJ Lee Fish - Splatoon",
+tags: ["All"]
+},
+{
+id: 3231,
+name: "Show Yourself - Splatoon",
+tags: ["All"]
+},
+{
+id: 3232,
+name: "City of Color / Squid Sisters - Splatoon",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 3233,
+name: "Ink Me Up / Squid Sisters - Splatoon",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 3234,
+name: "Now or Never! / Squid Sisters - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 1474,
+name: "Cap'n Cuttlefish's Theme - Splatoon",
+tags: ["All"]
+},
+{
+id: 3235,
+name: "Octo Valley - Splatoon",
+tags: ["All"]
+},
+{
+id: 3236,
+name: "Eight-Legged Advance / Turquoise October - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2045,
+name: "Tentacular Circus / Turquoise October - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 2046,
+name: "Cephaloparade / Turquoise October - Splatoon",
+tags: ["All", "Selects"]
+},
+{
+id: 3237,
+name: "Inkstrike Shuffle / Turquoise October - Splatoon",
+tags: ["All"]
+},
+{
+id: 1489,
+name: "Octoling Rendezvous / Turquoise October - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3238,
+name: "Octoweaponry / Turquoise October - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3239,
+name: "The Sunken Scrolls - Splatoon",
+tags: ["All"]
+},
+{
+id: 3240,
+name: "I Am Octavio / DJ Octavio - Splatoon",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3241,
+name: "Calamari Inkantation / Squid Sisters - Splatoon",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 3242,
+name: "Maritime Memory / Squid Sisters - Splatoon",
+tags: ["All", "Top Tracks"]
+},
   
   //// The Legend of Zelda: Breath of the Wild
   {
