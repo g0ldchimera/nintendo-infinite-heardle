@@ -5880,10 +5880,6 @@ url: "https://soundcloud.com/goldchimera/020x32",
 answer: 1473,
 },
 {
-url: "https://soundcloud.com/goldchimera/020x33",
-answer: 1474,
-},
-{
 url: "https://soundcloud.com/goldchimera/020x34",
 answer: 1475,
 },
@@ -8162,18 +8158,6 @@ answer: 2043,
 {
 url: "https://soundcloud.com/goldchimera/028x49",
 answer: 2044,
-},
-{
-url: "https://soundcloud.com/goldchimera/028x50",
-answer: 2045,
-},
-{
-url: "https://soundcloud.com/goldchimera/028x51",
-answer: 2046,
-},
-{
-url: "https://soundcloud.com/goldchimera/028x52",
-answer: 1489,
 },
 {
 url: "https://soundcloud.com/goldchimera/028x53",
