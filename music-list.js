@@ -8500,21 +8500,6 @@ tags: ["All", "Top Tracks"]
   tags: ["All"]
   },
   {
-  id: 2045,
-  name: "Tentacular Circus / Turquoise October - Splatoon 2",
-  tags: ["All"]
-  },
-  {
-  id: 2046,
-  name: "Cephaloparade / Turquoise October - Splatoon 2",
-  tags: ["All"]
-  },
-  {
-  id: 1489,
-  name: "Octoling Rendezvous / Turquoise October - Splatoon 2",
-  tags: ["All", "Top Tracks"]
-  },
-  {
   id: 2047,
   name: "Boss Entrance / Turquoise October - Splatoon 2",
   tags: ["All"]
@@ -13056,11 +13041,6 @@ tags: ["All", "Top Tracks", "Selects"]
   {
   id: 1473,
   name: "Not Bad (Do Better) / Grizzco - Splatoon 3",
-  tags: ["All"]
-  },
-  {
-  id: 1474,
-  name: "Cap'n Cuttlefish's Theme - Splatoon 3",
   tags: ["All"]
   },
   {
