@@ -139,6 +139,58 @@ tags: ["All", "Top Tracks"]
   tags: ["All", "Top Tracks"]
   },
 
+  //// Kid Icarus
+  {
+id: 3199,
+name: "Title Theme - Kid Icarus",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 3200,
+name: "Stage 1 - Kid Icarus",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 3201,
+name: "Boss BGM - Kid Icarus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3202,
+name: "Stage 2 - Kid Icarus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3203,
+name: "Fortress - Kid Icarus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3204,
+name: "Stage 3 - Kid Icarus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3205,
+name: "Reaper's Theme - Kid Icarus",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 3206,
+name: "Stage 4 - Kid Icarus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3207,
+name: "Final Boss BGM - Kid Icarus",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3208,
+name: "Ending Theme - Kid Icarus",
+tags: ["All", "Top Tracks"]
+},
+
   //// Super Mario Bros. 2
   {
 id: 2663,
