@@ -15356,7 +15356,7 @@ tags: ["All", "Top Tracks"]
 },
 
   //// The Legend of Zelda: Tears of the Kingdom
-  {
+{
 id: 3243,
 name: "Prologue 1 - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
@@ -15493,1146 +15493,1081 @@ tags: ["All", "Top Tracks"]
 },
 {
 id: 3270,
-name: "Geoglyph: Rauru - The Legend of Zelda: Tears of the Kingdom",
-tags: ["All"]
-},
-{
-id: 3271,
 name: "The Dragon's Tears: Introduction - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3272,
+id: 3271,
 name: "Memory: Where Am I? - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3273,
+id: 3272,
 name: "Skyview Tower - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3274,
+id: 3273,
 name: "Flux Construct Battle - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3275,
-name: "Geoglyph: Ancient Hyrule Castle - The Legend of Zelda: Tears of the Kingdom",
-tags: ["All"]
-},
-{
-id: 3276,
+id: 3274,
 name: "Memory: An Unfamiliar World - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3277,
+id: 3275,
 name: "Gloom Spawn Battle - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3278,
+id: 3276,
 name: "The Blood Moon - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3279,
+id: 3277,
 name: "Lucky Clover Gazette - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3280,
+id: 3278,
 name: "Rito Village (Strange Phenomena) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3281,
+id: 3279,
 name: "Reuniting with Tulin - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3282,
+id: 3280,
 name: "Tulin and the Stolen Bow - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3283,
+id: 3281,
 name: "Incoming Attack - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3284,
+id: 3282,
 name: "Off to Investigate the Cloud - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3285,
+id: 3283,
 name: "The Thunderhead - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3286,
+id: 3284,
 name: "Wind Temple (First Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3287,
+id: 3285,
 name: "Wind Temple (Second Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3288,
+id: 3286,
 name: "Wind Temple (Third Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3289,
+id: 3287,
 name: "Wind Temple (Fourth Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3290,
+id: 3288,
 name: "Wind Temple (Fifth Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3291,
+id: 3289,
 name: "Colgera Appears - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3292,
+id: 3290,
 name: "Battle with Colgera (First Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3293,
+id: 3291,
 name: "Battle with Colgera (Second Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3294,
+id: 3292,
 name: "The Ancient Sage of the Rito Speaks - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3295,
+id: 3293,
 name: "What We Must Do - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3296,
+id: 3294,
 name: "Our Mission, Duty, and Destiny - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3297,
+id: 3295,
 name: "Tulin, Sage of Wind - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3298,
+id: 3296,
 name: "The Phenomenon Is Ended - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3299,
+id: 3297,
 name: "Gleeok Battle - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3300,
-name: "Geoglyph: Purah Pad - The Legend of Zelda: Tears of the Kingdom",
-tags: ["All"]
-},
-{
-id: 3301,
+id: 3298,
 name: "Memory: Mineru's Counsel - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3302,
+id: 3299,
 name: "Plains - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3303,
+id: 3300,
 name: "Goron City (Strange Phenomena) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3304,
+id: 3301,
 name: "Reuniting with Yunobo - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3305,
+id: 3302,
 name: "YunoboCo HQ - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3306,
+id: 3303,
 name: "Battle with Yunobo, Clearly Not Himself - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3307,
+id: 3304,
 name: "Yunobo, Back to His Senses - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3308,
+id: 3305,
 name: "Following Zelda to Death Mountain - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3309,
+id: 3306,
 name: "Moragia Appears - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3310,
+id: 3307,
 name: "Battle with Moragia - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3311,
+id: 3308,
 name: "Fire Temple (First Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3312,
+id: 3309,
 name: "Fire Temple (Second Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3313,
+id: 3310,
 name: "Fire Temple (Third Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3314,
+id: 3311,
 name: "Fire Temple (Fourth Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3315,
+id: 3312,
 name: "Fire Temple (Fifth Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3316,
+id: 3313,
 name: "Marbled Gohma Appears - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3317,
+id: 3314,
 name: "Battle with Marbled Gohma (First Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3318,
+id: 3315,
 name: "Battle with Marbled Gohma (Second Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3319,
+id: 3316,
 name: "The Ancient Sage of the Gorons Speaks - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3320,
+id: 3317,
 name: "Yunobo, Sage of Fire - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3321,
+id: 3318,
 name: "Goron City (Night) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3322,
+id: 3319,
 name: "Minigame: Mine-Cart Land - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3323,
+id: 3320,
 name: "Battle (Overworld: Monster-Control Crew) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3324,
+id: 3321,
 name: "Overworld (Surface, Night) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3325,
+id: 3322,
 name: "Minigame: Ultra Ball Haul - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3326,
+id: 3323,
 name: "Battle (Overworld: Depths/Caves) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3327,
+id: 3324,
 name: "Abandoned Mines in the Depths - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3328,
+id: 3325,
 name: "Fierce Master Kohga - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3329,
+id: 3326,
 name: "Frox Battle - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3330,
+id: 3327,
 name: "Shrine of Light: Blessing - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3331,
+id: 3328,
 name: "Battle (Overworld: Boss Bokoblin) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3332,
+id: 3329,
 name: "Zora's Domain (Strange Phenomena) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3333,
+id: 3330,
 name: "Cleaned the Sludge-Covered Statue - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3334,
+id: 3331,
 name: "Meeting Yona - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3335,
+id: 3332,
 name: "Mipha Court - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3336,
+id: 3333,
 name: "Reuniting with Sidon - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3337,
+id: 3334,
 name: "Pristine Sanctum - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3338,
+id: 3335,
 name: "Battle with Sludge Like - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3339,
-name: "Yona's Hopes - The Legend of Zelda: Tears of the Kingdom",
-tags: ["All"]
-},
-{
-id: 3340,
+id: 3336,
 name: "Sidon's Resolve - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3341,
+id: 3337,
 name: "Into the Whirlpool - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3342,
+id: 3338,
 name: "Ancient Zora Waterworks - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3343,
+id: 3339,
 name: "A Temple Appears in the Zora Skies - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3344,
+id: 3340,
 name: "Overworld (Low Gravity) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3345,
+id: 3341,
 name: "Water Temple (First Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3346,
+id: 3342,
 name: "Water Temple (Second Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3347,
+id: 3343,
 name: "Water Temple (Third Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3348,
+id: 3344,
 name: "Water Temple (Fourth Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3349,
+id: 3345,
 name: "Mucktorok Appears - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3350,
+id: 3346,
 name: "Battle with Mucktorok (First Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3351,
+id: 3347,
 name: "Battle with Mucktorok (Second Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3352,
+id: 3348,
 name: "The Ancient Sage of the Zora Speaks - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3353,
+id: 3349,
 name: "Sidon, Sage of Water - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3354,
+id: 3350,
 name: "The New King and Queen of the Zora - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3355,
+id: 3351,
 name: "Zora's Domain (Night) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3356,
+id: 3352,
 name: "Minigame: Dive Ceremony - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3357,
+id: 3353,
 name: "Shrine of Light, Before the Trial - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3358,
+id: 3354,
 name: "Battle (Shrine of Light) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3359,
+id: 3355,
 name: "Memory: The Gerudo Assault - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3360,
+id: 3356,
 name: "Chatty Master Kohga - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3361,
+id: 3357,
 name: "Battle with the Returned Master Kohga - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3362,
-name: "Geoglyph: Ganondorf - The Legend of Zelda: Tears of the Kingdom",
-tags: ["All"]
-},
-{
-id: 3363,
+id: 3358,
 name: "Memory: A Show of Fealty - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3364,
+id: 3359,
 name: "Gerudo Town (Strange Phenomena) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3365,
+id: 3360,
 name: "Gerudo Shelter - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3366,
+id: 3361,
 name: "Desert Ruins - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3367,
+id: 3362,
 name: "Reuniting with Riju - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3368,
+id: 3363,
 name: "Defending Kara Kara Bazaar - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3369,
+id: 3364,
 name: "After the Battle at Kara Kara Bazaar - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3370,
+id: 3365,
 name: "Defending Gerudo Town - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3371,
+id: 3366,
 name: "A Massive Gerudo Pyramid Appears - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3372,
+id: 3367,
 name: "Queen Gibdo's Arrival - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3373,
+id: 3368,
 name: "Battle with Queen Gibdo (First Encounter) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3374,
+id: 3369,
 name: "Battle (Temple) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3375,
+id: 3370,
 name: "Lightning Temple (First Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3376,
+id: 3371,
 name: "Lightning Temple (Second Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3377,
+id: 3372,
 name: "Lightning Temple (Third Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3378,
+id: 3373,
 name: "Lightning Temple (Fourth Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3379,
+id: 3374,
 name: "Battle with Queen Gibdo (First Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3380,
+id: 3375,
 name: "Battle with Queen Gibdo (Second Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3381,
+id: 3376,
 name: "The Ancient Sage of the Gerudo Speaks - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3382,
+id: 3377,
 name: "Riju, Sage of Lightning - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3383,
+id: 3378,
 name: "Gerudo Town (Day) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3384,
+id: 3379,
 name: "Gerudo Town (Night) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3385,
-name: "Geoglyph: Sonia - The Legend of Zelda: Tears of the Kingdom",
-tags: ["All"]
-},
-{
-id: 3386,
+id: 3380,
 name: "Memory: Zelda and Sonia - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3387,
-name: "Geoglyph: Gerudo Scimitar - The Legend of Zelda: Tears of the Kingdom",
-tags: ["All"]
-},
-{
-id: 3388,
+id: 3381,
 name: "Memory: Sonia Is Caught by Treachery - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3389,
+id: 3382,
 name: "Signs of Monsters - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3390,
+id: 3383,
 name: "Lurelin Village Restoration Feast - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3391,
+id: 3384,
 name: "Lurelin Village (Night) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3392,
-name: "Geoglyph: Demon King - The Legend of Zelda: Tears of the Kingdom",
-tags: ["All"]
-},
-{
-id: 3393,
+id: 3385,
 name: "Memory: Birth of the Demon King - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3394,
+id: 3386,
 name: "The Blood Moon Rises over Hyrule Castle - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3395,
+id: 3387,
 name: "Lookout Landing Shrouded in Darkness - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3396,
+id: 3388,
 name: "Hyrule Castle (Skies) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3397,
+id: 3389,
 name: "There Is Something Here I Want to Show You - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3398,
+id: 3390,
 name: "Battle with Phantom Ganon (First Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3399,
+id: 3391,
 name: "Battle with Phantom Ganon (Second Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3400,
+id: 3392,
 name: "You Stand Before Ganondorf - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3401,
+id: 3393,
 name: "Memory: The Demon King's Army - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3402,
+id: 3394,
 name: "The Five Meet - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3403,
+id: 3395,
 name: "Lookout Landing (The Four Sages Gather) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3404,
+id: 3396,
 name: "Kakariko Village (Night) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3405,
+id: 3397,
 name: "Hateno Village (Night) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3406,
+id: 3398,
 name: "The World-Renowned Cece - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3407,
+id: 3399,
 name: "Cece Hat - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3408,
+id: 3400,
 name: "The Mayoral Election Begins - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3409,
+id: 3401,
 name: "The Mayoral Election - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3410,
+id: 3402,
 name: "Cece and Reede - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3411,
+id: 3403,
 name: "Hateno School - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3412,
+id: 3404,
 name: "Hateno Ancient Tech Lab - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3413,
-name: "Geoglyph: Secret Stone - The Legend of Zelda: Tears of the Kingdom",
-tags: ["All"]
-},
-{
-id: 3414,
+id: 3405,
 name: "Memory: The Sages' Vow - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3415,
-name: "Geoglyph: Sonia's Grave - The Legend of Zelda: Tears of the Kingdom",
-tags: ["All"]
-},
-{
-id: 3416,
+id: 3406,
 name: "Memory: A King's Duty - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3417,
+id: 3407,
 name: "Thunderhead Isles Appear - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3418,
+id: 3408,
 name: "Thunderhead Isles - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3419,
+id: 3409,
 name: "Dragonhead Island - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3420,
+id: 3410,
 name: "Tobio's Hollow Chasm - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3421,
+id: 3411,
 name: "Assemble a Body - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3422,
+id: 3412,
 name: "Construct Factory (First Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3423,
+id: 3413,
 name: "Construct Factory (Second Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3424,
+id: 3414,
 name: "Construct Factory (Third Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3425,
+id: 3415,
 name: "Construct Factory (Fourth Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3426,
+id: 3416,
 name: "Restored Construct - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3427,
+id: 3417,
 name: "To the Spirit Temple - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3428,
+id: 3418,
 name: "Construct Factory (Fifth Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3429,
+id: 3419,
 name: "Zonai Storage Platform - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3430,
+id: 3420,
 name: "Spirit Temple - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3431,
+id: 3421,
 name: "Seized Construct Appears - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3432,
+id: 3422,
 name: "Battle with Seized Construct (First Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3433,
+id: 3423,
 name: "Battle with Seized Construct (Second Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3434,
+id: 3424,
 name: "Mineru, Sage of Spirit - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3435,
+id: 3425,
 name: "What I Must Relate to You Is a Tragedy  - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3436,
+id: 3426,
 name: "Memory: The Imprisoning War - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3437,
+id: 3427,
 name: "At the End of the Battle - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3438,
+id: 3428,
 name: "Memory: Critical Decisions - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3439,
+id: 3429,
 name: "Let Us Go Now - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3440,
+id: 3430,
 name: "Korok Forest (Strange Phenomena) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3441,
+id: 3431,
 name: "Korok Forest Purified - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3442,
+id: 3432,
 name: "Memory: The Master Sword's Power - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3443,
+id: 3433,
 name: "Korok Forest (Night) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3444,
-name: "Geoglyph: Master Sword - The Legend of Zelda: Tears of the Kingdom",
-tags: ["All"]
-},
-{
-id: 3445,
+id: 3434,
 name: "Memory: A Master Sword in Time - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3446,
+id: 3435,
 name: "The Dragon's Final Tear - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3447,
-name: "Geoglyph: The Dragon's Final Tear - The Legend of Zelda: Tears of the Kingdom",
-tags: ["All"]
-},
-{
-id: 3448,
+id: 3436,
 name: "Memory: Tears of the Dragon - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3449,
+id: 3437,
 name: "All the Dragon's Tears - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3450,
+id: 3438,
 name: "The Light Dragon - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3451,
+id: 3439,
 name: "The Sword Held by the Dragon - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3452,
+id: 3440,
 name: "The Master Sword in Reach - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3453,
+id: 3441,
 name: "Zelda's Wish Granted - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3454,
+id: 3442,
 name: "Memory: Zelda's Wish - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3455,
+id: 3443,
 name: "Hyrule Castle Chasm - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3456,
+id: 3444,
 name: "Battle (Hyrule Castle Chasm) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3457,
+id: 3445,
 name: "Battle (Forgotten Foundation) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3458,
+id: 3446,
 name: "Gloom's Lair - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3459,
+id: 3447,
 name: "The Sages Assemble - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3460,
+id: 3448,
 name: "The Demon King's Army - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3461,
+id: 3449,
 name: "Trust the Sages and Go - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3462,
+id: 3450,
 name: "Standing Off Against Demon King Ganondorf - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3463,
+id: 3451,
 name: "Battle with Ganondorf - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3464,
+id: 3452,
 name: "Ganondorf's Secret Stone Unleashed - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3465,
+id: 3453,
 name: "Battle with Ganondorf, Second Form (First Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3466,
+id: 3454,
 name: "Battle with Ganondorf, Second Form (Second Phase) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3467,
+id: 3455,
 name: "Draconified Demon King - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3468,
+id: 3456,
 name: "The Demon Dragon and the Light Dragon - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3469,
+id: 3457,
 name: "Battle with Demon Dragon - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3470,
+id: 3458,
 name: "Demon Dragon Destroyed - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3471,
+id: 3459,
 name: "The Miracle - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3472,
+id: 3460,
 name: "Reaching for Her Hand - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3473,
+id: 3461,
 name: "Oh, Link... I'm Home! - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3474,
+id: 3462,
 name: "Staff Credits - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3475,
+id: 3463,
 name: "Epilogue - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3476,
+id: 3464,
 name: "Link's House - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3477,
+id: 3465,
 name: "Koltin - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3478,
+id: 3466,
 name: "Satori Under the Cherry Blossoms - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3479,
+id: 3467,
 name: "Tarrey Town (Day) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3480,
+id: 3468,
 name: "Tarrey Town (Night) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Top Tracks"]
 },
 {
-id: 3481,
+id: 3469,
 name: "Hudson Construction Site (Day) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3482,
+id: 3470,
 name: "Hudson Construction Site (Night) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3483,
+id: 3471,
 name: "Riding the Sun Balloon - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3484,
+id: 3472,
 name: "Sav'orq, Every-son! - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3485,
+id: 3473,
 name: "Mattison's Independence - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3486,
+id: 3474,
 name: "The Yiga Clan Hideout - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3487,
+id: 3475,
 name: "Minigame: Yiga Training - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3488,
+id: 3476,
 name: "Forgotten Temple - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3489,
+id: 3477,
 name: "Lomei Labyrinths (Sky) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3490,
+id: 3478,
 name: "Lomei Labyrinths (Depths) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3491,
+id: 3479,
 name: "On the Glowing Tree - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3492,
+id: 3480,
 name: "Serenade to a Great Fairy - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3493,
+id: 3481,
 name: "The Ultimate Dish - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3494,
+id: 3482,
 name: "Tears of the Kingdom: Main Theme (Reprise) - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All", "Selects"]
 },
 {
-id: 3495,
+id: 3483,
 name: "E3 2019 Reveal Trailer - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3496,
-name: "First Trailer - The Legend of Zelda: Tears of the Kingdom",
-tags: ["All"]
-},
-{
-id: 3497,
+id: 3484,
 name: "Second Trailer - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
 {
-id: 3498,
+id: 3485,
 name: "Third Trailer - The Legend of Zelda: Tears of the Kingdom",
 tags: ["All"]
 },
