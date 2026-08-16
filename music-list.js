@@ -12550,6 +12550,433 @@ tags: ["All", "Top Tracks"]
   tags: ["All"]
   },
 
+  //// Clubhouse Games: 51 Worldwide Classics
+  {
+id: 3486,
+name: "Title Screen - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 3487,
+name: "Opening - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3488,
+name: "Game Guides - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3489,
+name: "Board Games: Play 1 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3490,
+name: "Board Games: Play 2 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3491,
+name: "Board Games: Play 3 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3492,
+name: "Board Games: Play 4 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3493,
+name: "Board Games: Winner! 1 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3494,
+name: "Board Games: Winner! 2 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3495,
+name: "Board Games: Too Bad... 1 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3496,
+name: "Board Games: Too Bad... 2 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3497,
+name: "Board Games: Draw 1 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3498,
+name: "Board Games: Draw 2 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3499,
+name: "Board Games: Review - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3500,
+name: "Yacht Dice: Roll - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3501,
+name: "Yacht Dice: Which Category? - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3502,
+name: "Yacht Dice: Results - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3503,
+name: "Four-in-a-Row: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 3504,
+name: "Four-in-a-Row: Winner! - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3505,
+name: "Four-in-a-Row: Too Bad... - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3506,
+name: "Four-in-a-Row: Draw - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3507,
+name: "Japanese Games: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3508,
+name: "Japanese Games: Winner! - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3509,
+name: "Japanese Games: Too Bad... - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3510,
+name: "Japanese Games: Draw - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3511,
+name: "Dominoes: Deciding Turn Order - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3512,
+name: "Chess: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3513,
+name: "Chess: Check - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3514,
+name: "Chess: Winner! - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3515,
+name: "Chess: Too Bad... - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3516,
+name: "Chess: Draw - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3517,
+name: "Hanafuda: Determining the Dealer - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3518,
+name: "Hanafuda: Finish - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3519,
+name: "Riichi Mahjong: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3520,
+name: "Riichi Mahjong: Results - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3521,
+name: "Riichi Mahjong: 1st Place - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3522,
+name: "Riichi Mahjong: 2nd – 4th Place - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3523,
+name: "Card Games: Play 1 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3524,
+name: "Card Games: Play 2 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3525,
+name: "Card Games: Play 3 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3526,
+name: "Card Games: Round Won - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3527,
+name: "Card Games: Winner! - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3528,
+name: "Card Games: Too Bad... - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3529,
+name: "Card Games: Draw - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3530,
+name: "President: Revolution - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3531,
+name: "Speed: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3532,
+name: "Matching: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3533,
+name: "War: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3534,
+name: "Takoyaki: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3535,
+name: "Pig's Tail: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3536,
+name: "Golf: Interim Results - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3537,
+name: "Golf: Final Results - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3538,
+name: "Sophisticated Games: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3539,
+name: "Sophisticated Games: Winner! - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3540,
+name: "Sophisticated Games: Too Bad... - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3541,
+name: "Sophisticated Games: Draw - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3542,
+name: "Sports Games: During the Game 1 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3543,
+name: "Sports Games: During the Game 2 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks", "Selects"]
+},
+{
+id: 3544,
+name: "Sports Games: Winner! 1 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3545,
+name: "Sports Games: Winner! 2 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3546,
+name: "Sports Games: Too Bad... 1 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3547,
+name: "Sports Games: Too Bad... 2 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3548,
+name: "Sports Games: Draw 1 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3549,
+name: "Sports Games: Draw 2 - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3550,
+name: "Carrom: Cover Challenge - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3551,
+name: "Variety: Winner! - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3552,
+name: "Variety: Too Bad... - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3553,
+name: "Variety: Draw - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3554,
+name: "Toy Tennis: During the Match - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3555,
+name: "Toy Tennis: Match Point - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3556,
+name: "Toy Soccer: During the Match - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3557,
+name: "Toy Boxing: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3558,
+name: "Toy Baseball: During the Game - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3559,
+name: "Toy Baseball: Change! - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3560,
+name: "Toy Baseball: Home Run - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3561,
+name: "Slot Cars: Intro - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3562,
+name: "Slot Cars: Results - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3563,
+name: "Fishing: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3564,
+name: "Fishing: Results - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3565,
+name: "Battle Tanks: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3566,
+name: "Team Tanks: Stage Select - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3567,
+name: "6-Ball Puzzle: Play - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3568,
+name: "Mahjong Solitaire: Stage Select - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All"]
+},
+{
+id: 3569,
+name: "Online: Who's Joining? - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+{
+id: 3570,
+name: "Staff Credits - Clubhouse Games: 51 Worldwide Classics",
+tags: ["All", "Top Tracks"]
+},
+
   //// Pokémon Legends: Arceus
   {
 id: 2464,
