@@ -3581,8 +3581,6 @@ function createMetadata(mtd) {
             'device': mtd[soundtrack][1],
             'series': mtd[soundtrack][2],
             'game': mtd[soundtrack][3],
-            'genre': mtd[soundtrack][4],
-            'franchise': mtd[soundtrack][5],
         }
     }
     return m
@@ -3601,9 +3599,7 @@ function appendMetadata(guess, row) {
             metaEvaluation.innerHTML = `<div><div>Year: <span>${heardleMeta.year > guessMeta.year ? `Newer than ${guessMeta.year}.` : heardleMeta.year == guessMeta.year ? `${guessMeta.year} is correct!` : `Older than ${guessMeta.year}.`}</span></div>` +
             `<div>Console: <span>${heardleMeta.device == guessMeta.device ? `${guessMeta.device} is correct!` : `${guessMeta.device} is incorrect.`}</span></div>` +
             `<div>Series: <span>${heardleMeta.series == guessMeta.series ? `${guessMeta.series} is correct!` : `${guessMeta.series} is incorrect.`}</span></div>` +
-            `<div>Game: <span>${heardleMeta.game == guessMeta.game ? `${guessMeta.game} is correct!` : `${guessMeta.game} is incorrect.`}</span></div></div>` +
-            `<div>Genre: <span>${heardleMeta.genre == guessMeta.genre ? `${guessMeta.genre} is correct!` : `${guessMeta.genre} is incorrect.`}</span></div></div>` +
-            `<div>Franchise: <span>${heardleMeta.franchise == guessMeta.franchise ? `${guessMeta.franchise} is correct!` : `${guessMeta.franchise} is incorrect.`}</span></div></div>`
+            `<div>Game: <span>${heardleMeta.game == guessMeta.game ? `${guessMeta.game} is correct!` : `${guessMeta.game} is incorrect.`}</span></div></div>`
             row.appendChild(metaEvaluation);
         }
     }
