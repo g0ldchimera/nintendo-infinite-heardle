@@ -6622,6 +6622,7 @@ var app = (function () {
         hasFinished: !1,
         hasStarted: !1,
       };
+    setCurrentHeardle(l);
     // console.log("a", l);
     var c, d;
 
