@@ -3856,6 +3856,10 @@ var app = (function () {
           },
         },
       })),
+      b.$on("click", (ev) => {
+        _onSubmit();
+        e[5]();
+      }),
       b.$on("click", e[5]),
       {
         c() {
