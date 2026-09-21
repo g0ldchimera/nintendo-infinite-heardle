@@ -6778,7 +6778,6 @@ var app = (function () {
               isSkipped: r,
             }))
           ),
-          evaluateGuessMetadata(v);
         n(5, (f.guessList = v), f),
           localStorage.setItem(userStatsLocationStorage, JSON.stringify(h)),
           (v.length != Vt.maxAttempts && 1 != s) ||
