@@ -58,21 +58,17 @@ button:disabled {
     color: #999999;
 }
 
-button:focus-visible {
-    border: 1px white solid;
-    margin: -1px;
-}
-
 button:not(:disabled):active {
     background-color: #dddddd;
 }
 
-.volume-button {
-    margin-right: 15px;
+button:focus {
+  border-color: #666666;
 }
 
-.volume-button:focus-visible {
-    margin-right: 14px;
+.volume-control {
+    width: 100px;
+    position: relative;
 }
 
 .container {
@@ -89,9 +85,32 @@ button:not(:disabled):active {
     grid-template-columns: 1fr 1fr 1fr;
 }
 
-.volume-control {
-    width: 100px;
-    position: relative;
+.item1 {
+  grid-column: 1;
+}
+ 
+.item2 {
+  grid-column: 2;
+}
+ 
+.container.with-volume .item3 {
+  grid-column: 3;
+  justify-self: center;
+}
+ 
+.container.with-volume .item4 {
+  grid-column: 4;
+  justify-self: right;
+}
+ 
+.container.without-volume .item3 {
+  grid-column: 2;
+  justify-self: center;
+}
+ 
+.container.without-volume .item4 {
+  grid-column: 3;
+  justify-self: right;
 }
 
 .slider {
@@ -100,11 +119,6 @@ button:not(:disabled):active {
     background-color: grey;
     border-radius: 2px;
     cursor: pointer;
-}
-
-.slider:focus-visible {
-    outline: none;
-    box-shadow: 0 0 0 1px #d3d3d3;
 }
 
 .slider-fill {
@@ -125,6 +139,12 @@ button:not(:disabled):active {
     border-radius: 50%;
     cursor: pointer;
 }
+
+.slider:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 1px #d3d3d3;
+}
+
 [id^="autoComplete_list"] {
 max-height: 500px; /* Adjust this value as needed */
 overflow-y: auto;
