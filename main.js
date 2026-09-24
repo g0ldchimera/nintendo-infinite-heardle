@@ -3584,7 +3584,7 @@ var app = (function () {
   );
 
   var musicListWithLinks = [
-  {
+    {
     url: "https://soundcloud.com/goldchimera/001x01",
     answer: "Ground BGM - Super Mario Bros.",
     },
