@@ -21993,7 +21993,7 @@ var app = (function () {
       c() {
         (n = w("div")),
           (n.innerHTML =
-            '<ul style="list-style-type: disc;margin-center: 20px;font-size: 24px;display: grid;justify-content: center;">' +
+            '<ul style="list-style-type: disc;margin-center: 20px;font-size: 12px;display: grid;justify-content: center;">' +
             musicNameListFiltered
               .map(
                 (s, i) =>
