@@ -20780,7 +20780,7 @@ var app = (function () {
           },
           u = function (e, t) {
             return (
-              (e = ""+e;),
+              (e = ""+e),
               (e = e.toString().toLowerCase()),
               t
                 ? e
