@@ -20817,6 +20817,7 @@ var app = (function () {
               s = r.mode,
               i = r.diacritics,
               o = r.highlight,
+              t = ""+t,
               a = u(t, i);
             if (((t = t.toString()), (e = u(e, i)), "loose" === s)) {
               var l = (e = e.replace(/ /g, "")).length,
