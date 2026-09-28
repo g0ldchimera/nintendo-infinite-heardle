@@ -8,14 +8,8 @@ var app = (function () {
     'Ground BGM - Super Mario Bros.',
     "'Hurry Up!' Ground BGM - Super Mario Bros.",
     "Underground BGM - Super Mario Bros.",
-    "'Hurry Up!' Underground BGM - Super Mario Bros.",
-    "Invincibility BGM - Super Mario Bros.",
-    "'Hurry Up!' Invincibility BGM - Super Mario Bros.",
     "Underwater BGM - Super Mario Bros.",
     "'Hurry Up!' Underwater BGM - Super Mario Bros.",
-    "Castle BGM - Super Mario Bros.",
-    "'Hurry Up!' Castle BGM - Super Mario Bros.",
-    "Ending - Super Mario Bros.",
     "Title Theme - The Legend of Zelda",
     "Overworld Theme - The Legend of Zelda",
     "Underworld Theme - The Legend of Zelda",
@@ -3598,31 +3592,11 @@ var app = (function () {
     },
     {
     url: "https://soundcloud.com/goldchimera/001x04",
-    answer: "'Hurry Up!' Underground BGM - Super Mario Bros.",
-    },
-    {
-    url: "https://soundcloud.com/goldchimera/001x05",
-    answer: "Invincibility BGM - Super Mario Bros.",
-    },
-    {
-    url: "https://soundcloud.com/goldchimera/001x06",
-    answer: "'Hurry Up!' Invincibility BGM - Super Mario Bros.",
-    },
-    {
-    url: "https://soundcloud.com/goldchimera/001x07",
     answer: "Underwater BGM - Super Mario Bros.",
     },
     {
-    url: "https://soundcloud.com/goldchimera/001x08",
+    url: "https://soundcloud.com/goldchimera/001x05",
     answer: "'Hurry Up!' Underwater BGM - Super Mario Bros.",
-    },
-    {
-    url: "https://soundcloud.com/goldchimera/001x09",
-    answer: "Castle BGM - Super Mario Bros.",
-    },
-    {
-    url: "https://soundcloud.com/goldchimera/001x10",
-    answer: "'Hurry Up!' Castle BGM - Super Mario Bros.",
     },
     {
     url: "https://soundcloud.com/goldchimera/001x11",
