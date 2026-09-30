@@ -22255,8 +22255,8 @@ var app = (function () {
   }
   const Vt = {
       attemptInterval: 2e3,
-      attemptIntervalAlt: [2e3, 4e3, 7e3, 11e3, 16e3, 25e3, 40e3],
-      maxAttempts: 7,
+      attemptIntervalAlt: [1e3, 2e3, 4e3, 8e3, 16e3, 32e3],
+      maxAttempts: 6,
       //   date: date,
     },
     Jt = ["0", "1", "2", "3", "4", "5", "6"];
